@@ -50,24 +50,12 @@
   ],
   "fileColors": [
     {
-      "path": "Shrine of the Kobold Queen",
-      "color": "yIFVIaBoNEoWubCkOyJhC"
-    },
-    {
-      "path": "Call of Cthulhu 7e Campaign",
-      "color": "EVxxQaY8wMektiSH5h28M"
-    },
-    {
-      "path": "Shrine of the Kobold Queen/2. NPCs",
-      "color": "dzK97c4sYKOG666u5KqfT"
-    },
-    {
       "path": "Shrine of the Kobold Queen/1. Characters",
       "color": "dzK97c4sYKOG666u5KqfT"
     },
     {
-      "path": "Shrine of the Kobold Queen/7. Archive",
-      "color": "1SSdBWpUyZcow0en-ATqC"
+      "path": "Shrine of the Kobold Queen/2. NPCs",
+      "color": "dzK97c4sYKOG666u5KqfT"
     },
     {
       "path": "Shrine of the Kobold Queen/3. Villains",
@@ -86,7 +74,15 @@
       "color": "H2kcWdpZIbZayvqstxbJO"
     },
     {
+      "path": "Shrine of the Kobold Queen/7. Archive",
+      "color": "1SSdBWpUyZcow0en-ATqC"
+    },
+    {
       "path": "Shrine of the Kobold Queen/Resources",
+      "color": "yIFVIaBoNEoWubCkOyJhC"
+    },
+    {
+      "path": "Shrine of the Kobold Queen/0. Session Zero Notes.md",
       "color": "GFMpehjX3Etn7Hf5IeNPr"
     }
   ]
