@@ -11,8 +11,12 @@
             "id": "a7888941c693623c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,53 +169,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d249137ae9f4415b",
+  "active": "a7888941c693623c",
   "lastOpenFiles": [
+    "Shrine of the Kobold Queen/Resources/Spells/--- MASTER INDEX ---.md",
+    "Shrine of the Kobold Queen/3. Villains/Itharog.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Acid Splash.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Master 5E DnD Spells (DB).md",
+    "Shrine of the Kobold Queen/Resources/Spells/https---paypal.me-Galaxy42locale.x=en_GB.md",
+    "Spells.md",
+    "Class_Icon_-_Wizard.svg",
+    "Shrine of the Kobold Queen/Resources/Spells/Alarm.md",
     "Shrine of the Kobold Queen/Resources/Spells/Zone of Truth.md",
     "Shrine of the Kobold Queen/Resources/Spells/Wrathful Smite.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Word of Recall.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Witch Bolt.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Wish.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Wind Wall.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Wind Walk.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Weird.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Web.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Water Walk.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Water Breathing.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Warding Bond.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Wall of Thorns.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Wall of Stone.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Wall of Ice.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Wall of Force.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Wall of Fire.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Vicious Mockery.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Vampiric Touch.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Unseen Servant.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Tsunami.md",
-    "Shrine of the Kobold Queen/Resources/Spells/True Strike.md",
-    "Shrine of the Kobold Queen/Resources/Spells/True Seeing.md",
-    "Shrine of the Kobold Queen/Resources/Spells/True Resurrection.md",
-    "Shrine of the Kobold Queen/Resources/Spells/True Polymorph.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Tree Stride.md",
-    "Shrine of the Kobold Queen/Resources/Spells",
+    "5e SRD 1 1",
+    "Shrine of the Kobold Queen/Resources/Spells/Compulsion.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Animal Messenger.md",
     "Shrine of the Kobold Queen/Resources",
-    "Shrine of the Kobold Queen/5. Locations",
+    "Shrine of the Kobold Queen/Resources/Spells/Animal Friendship.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Alter Self.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Aid.md",
+    "Shrine of the Kobold Queen/5. Locations/Fire Brand Kobold Camp.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Branding Smite.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Create or Destroy Water.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Prismatic Spray.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Produce Flame.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Fog Cloud.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Word of Recall.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Ray of Sickness.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Antimagic Field.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Melf's Acid Arrow.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Harm.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Seeming.md",
+    "Shrine of the Kobold Queen/Resources/Spells",
+    "Notion",
     "Shrine of the Kobold Queen/7. Archive",
     "Shrine of the Kobold Queen/6. Events",
+    "Shrine of the Kobold Queen/5. Locations",
     "Shrine of the Kobold Queen/4. Factions",
     "Shrine of the Kobold Queen/3. Villains",
-    "Shrine of the Kobold Queen/2. NPCs",
-    "Shrine of the Kobold Queen/1. Characters",
-    "Shrine of the Kobold Queen",
-    "Call of Cthulhu 7e Campaign/Attachments/Wheatcroft.jpg",
-    "Call of Cthulhu 7e Campaign/Attachments/Untitled.png",
-    "Call of Cthulhu 7e Campaign/Attachments/Untitled-2.png",
-    "Call of Cthulhu 7e Campaign/Attachments/Untitled 4.png",
-    "Call of Cthulhu 7e Campaign/Attachments/Untitled 3.png",
-    "Call of Cthulhu 7e Campaign/Attachments/Untitled 2.png",
-    "Call of Cthulhu 7e Campaign/Attachments/Untitled 1.png",
-    "Call of Cthulhu 7e Campaign/Attachments/Untitled 1 2.png",
-    "Call of Cthulhu 7e Campaign/Attachments/Tomb_of_Kings.jpeg",
-    "Call of Cthulhu 7e Campaign/Attachments/TheBlackCathedral.jpeg"
+    "Templates",
+    "Call of Cthulhu 7e Campaign/Attachments/ava.png"
   ]
 }
