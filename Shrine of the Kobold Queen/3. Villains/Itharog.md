@@ -1,3 +1,8 @@
+---
+Category:
+  - Villain
+Affiliation(s): "[[Cult of the Dragon]]"
+---
 Title: Blood Wyrm of the North
 
 Ancient Red Dragon
@@ -7,4 +12,4 @@ After suffering a grievous magical wound in the [[Dragon Siege of Valenxia]], It
 # Spells
 [[Acid Splash]]
 [[Alarm]]
-GitHub test from iPad
+

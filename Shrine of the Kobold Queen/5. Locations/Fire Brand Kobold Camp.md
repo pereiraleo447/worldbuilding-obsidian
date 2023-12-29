@@ -1,8 +1,6 @@
-# Fire Brand Kobold Camp
-
-Tags: Location
-Last Edited: December 28, 2023 5:32 PM
-
+---
+Category: Location
+---
 # OVERVIEW
 
 > *The encampment is made up of a number of different tents and locations, with dirt paths in between them. The camp is thick with kobolds everywhere.*
