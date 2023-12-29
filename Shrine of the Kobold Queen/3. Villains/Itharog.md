@@ -7,4 +7,4 @@ After suffering a grievous magical wound in the [[Dragon Siege of Valenxia]], It
 # Spells
 [[Acid Splash]]
 [[Alarm]]
-github test
+GitHub test from iPad
