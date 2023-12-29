@@ -1,0 +1,93 @@
+{
+  "cascadeColors": true,
+  "colorBackground": true,
+  "palette": [
+    {
+      "id": "kXrw27CNw8Yq-u6gCFisL",
+      "name": "Orange",
+      "value": "#ff8800"
+    },
+    {
+      "id": "sahMP2uavkFRBduiJrIkX",
+      "name": "Red",
+      "value": "#ff0000"
+    },
+    {
+      "id": "EVxxQaY8wMektiSH5h28M",
+      "name": "Purple",
+      "value": "#c800ff"
+    },
+    {
+      "id": "dzK97c4sYKOG666u5KqfT",
+      "name": "Blue",
+      "value": "#007bff"
+    },
+    {
+      "id": "H2kcWdpZIbZayvqstxbJO",
+      "name": "Green",
+      "value": "#11ff00"
+    },
+    {
+      "id": "hX0vQtfhsu7V8N16ElMUT",
+      "name": "Teal",
+      "value": "#00ffb3"
+    },
+    {
+      "id": "1SSdBWpUyZcow0en-ATqC",
+      "name": "Salmon",
+      "value": "#f8a387"
+    },
+    {
+      "id": "yIFVIaBoNEoWubCkOyJhC",
+      "name": "Grey",
+      "value": "#8c8c8c"
+    },
+    {
+      "id": "GFMpehjX3Etn7Hf5IeNPr",
+      "name": "",
+      "value": "#ffffff"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Shrine of the Kobold Queen",
+      "color": "yIFVIaBoNEoWubCkOyJhC"
+    },
+    {
+      "path": "Call of Cthulhu 7e Campaign",
+      "color": "EVxxQaY8wMektiSH5h28M"
+    },
+    {
+      "path": "Shrine of the Kobold Queen/2. NPCs",
+      "color": "dzK97c4sYKOG666u5KqfT"
+    },
+    {
+      "path": "Shrine of the Kobold Queen/1. Characters",
+      "color": "dzK97c4sYKOG666u5KqfT"
+    },
+    {
+      "path": "Shrine of the Kobold Queen/7. Archive",
+      "color": "1SSdBWpUyZcow0en-ATqC"
+    },
+    {
+      "path": "Shrine of the Kobold Queen/3. Villains",
+      "color": "sahMP2uavkFRBduiJrIkX"
+    },
+    {
+      "path": "Shrine of the Kobold Queen/4. Factions",
+      "color": "EVxxQaY8wMektiSH5h28M"
+    },
+    {
+      "path": "Shrine of the Kobold Queen/5. Locations",
+      "color": "kXrw27CNw8Yq-u6gCFisL"
+    },
+    {
+      "path": "Shrine of the Kobold Queen/6. Events",
+      "color": "H2kcWdpZIbZayvqstxbJO"
+    },
+    {
+      "path": "Shrine of the Kobold Queen/Resources",
+      "color": "GFMpehjX3Etn7Hf5IeNPr"
+    }
+  ]
+}

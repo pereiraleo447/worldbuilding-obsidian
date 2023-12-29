@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "9b327e6c28edf5f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "55192ad92d239866",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7888941c693623c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a1c905e65fe9b4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e385f52225014120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d249137ae9f4415b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5248214016509561",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c6b73b584109bfa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "139dcd4bd22d0dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ffb012be2570b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bca8dd1b3902086a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9c25566ef6dbe12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cd469c15db5cfb72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2b88cf04b8c4f10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md"
+              }
+            }
+          },
+          {
+            "id": "d15381d3db0ac3e2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "0c5ae2cbafad10f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d249137ae9f4415b",
+  "lastOpenFiles": [
+    "Shrine of the Kobold Queen/Resources/Spells/Zone of Truth.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Wrathful Smite.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Word of Recall.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Witch Bolt.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Wish.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Wind Wall.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Wind Walk.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Weird.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Web.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Water Walk.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Water Breathing.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Warding Bond.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Wall of Thorns.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Wall of Stone.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Wall of Ice.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Wall of Force.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Wall of Fire.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Vicious Mockery.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Vampiric Touch.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Unseen Servant.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Tsunami.md",
+    "Shrine of the Kobold Queen/Resources/Spells/True Strike.md",
+    "Shrine of the Kobold Queen/Resources/Spells/True Seeing.md",
+    "Shrine of the Kobold Queen/Resources/Spells/True Resurrection.md",
+    "Shrine of the Kobold Queen/Resources/Spells/True Polymorph.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Tree Stride.md",
+    "Shrine of the Kobold Queen/Resources/Spells",
+    "Shrine of the Kobold Queen/Resources",
+    "Shrine of the Kobold Queen/5. Locations",
+    "Shrine of the Kobold Queen/7. Archive",
+    "Shrine of the Kobold Queen/6. Events",
+    "Shrine of the Kobold Queen/4. Factions",
+    "Shrine of the Kobold Queen/3. Villains",
+    "Shrine of the Kobold Queen/2. NPCs",
+    "Shrine of the Kobold Queen/1. Characters",
+    "Shrine of the Kobold Queen",
+    "Call of Cthulhu 7e Campaign/Attachments/Wheatcroft.jpg",
+    "Call of Cthulhu 7e Campaign/Attachments/Untitled.png",
+    "Call of Cthulhu 7e Campaign/Attachments/Untitled-2.png",
+    "Call of Cthulhu 7e Campaign/Attachments/Untitled 4.png",
+    "Call of Cthulhu 7e Campaign/Attachments/Untitled 3.png",
+    "Call of Cthulhu 7e Campaign/Attachments/Untitled 2.png",
+    "Call of Cthulhu 7e Campaign/Attachments/Untitled 1.png",
+    "Call of Cthulhu 7e Campaign/Attachments/Untitled 1 2.png",
+    "Call of Cthulhu 7e Campaign/Attachments/Tomb_of_Kings.jpeg",
+    "Call of Cthulhu 7e Campaign/Attachments/TheBlackCathedral.jpeg"
+  ]
+}
