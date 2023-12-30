@@ -17,7 +17,7 @@ Bard
 ```dataview
 table level, class, range, duration 
 from "Shrine of the Kobold Queen/Resources/Spells"
-where class = cleric
+where Class = "cleric"
 sort file.name asc
 ```
 
