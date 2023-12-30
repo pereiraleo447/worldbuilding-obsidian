@@ -3,7 +3,8 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Category": "multitext",
-    "Affiliation(s)": "multitext"
+    "Affiliation(s)": "multitext",
+    "Connections": "multitext",
+    "Status": "multitext"
   }
 }
