@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/City or Town Template.md",
+                "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
         }
       },
       {
-        "id": "5b56f851e83c2049",
+        "id": "fb04622a24708810",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -95,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/City or Town Template.md",
+            "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/City or Town Template.md",
+            "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -124,22 +124,12 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/City or Town Template.md"
-          }
-        }
-      },
-      {
-        "id": "ce7bc0bae0ae4103",
-        "type": "leaf",
-        "state": {
-          "type": "file-properties",
-          "state": {
-            "file": "Templates/City or Town Template.md"
+            "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md"
           }
         }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,27 +141,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cded9d7887b378e8",
+  "active": "00502a4d904c31c8",
   "lastOpenFiles": [
-    "Templates/NPC Template.md",
-    "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
-    "Example.md",
-    "Templates/City or Town Template.md",
-    "Shrine of the Kobold Queen/3. Villains/Itharog.md",
-    "Shrine of the Kobold Queen/4. Factions/placeholder.md",
     "Shrine of the Kobold Queen/Resources/Spells/--- MASTER INDEX ---.md",
-    "Shrine of the Kobold Queen/5. Locations/Fire Brand Kobold Camp.md",
-    "Shrine of the Kobold Queen/6. Events/Dragon Siege of Valenxia.md",
-    "Shrine of the Kobold Queen/7. Archive/placeholder.md",
     "Templates/Sly Flourish Session Planning Template.md",
+    "Shrine of the Kobold Queen/4. Factions/placeholder.md",
     "Shrine of the Kobold Queen/4. Factions",
     "Shrine of the Kobold Queen/Resources/Untitled.md",
+    "Shrine of the Kobold Queen/7. Archive/placeholder.md",
     "Shrine of the Kobold Queen/7. Archive",
     "Shrine of the Kobold Queen/1. Characters/placeholder.md",
     "Shrine of the Kobold Queen/1. Characters",
     "Shrine of the Kobold Queen/2. NPCs/placeholder.md",
     "Shrine of the Kobold Queen/2. NPCs",
     "Templates/Session Zero Notes Template.md",
+    "Shrine of the Kobold Queen/3. Villains/Itharog.md",
     "Shrine of the Kobold Queen/Resources/Spells/Ensnaring Strike.md",
     "Shrine of the Kobold Queen/Resources/Spells/Purify Food and Drink.md",
     "Shrine of the Kobold Queen/Resources/Spells/Staggering Smite.md",
@@ -183,6 +167,12 @@
     "Shrine of the Kobold Queen/Resources/Spells/Detect Thoughts.md",
     "Shrine of the Kobold Queen/Resources/Spells/Poison Spray.md",
     "Shrine of the Kobold Queen/Resources/Spells/Remove Curse.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Finger of Death.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Shillelagh.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Blindness-Deafness.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Ray of Frost.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Blade Ward.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Knock.md",
     "Shrine of the Kobold Queen/Resources/Spells",
     "Shrine of the Kobold Queen/6. Events",
     "Shrine of the Kobold Queen/Resources",
