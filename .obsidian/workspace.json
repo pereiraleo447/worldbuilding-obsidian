@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
+                "file": "Templates/Session ZERO Notes Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,12 +80,22 @@
         "type": "tabs",
         "children": [
           {
+            "id": "c2b88cf04b8c4f10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Session ZERO Notes Template.md"
+              }
+            }
+          },
+          {
             "id": "bca8dd1b3902086a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
+                "file": "Templates/Session ZERO Notes Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
+                "file": "Templates/Session ZERO Notes Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,45 +128,13 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "c2b88cf04b8c4f10",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md"
-              }
-            }
-          },
-          {
-            "id": "d15381d3db0ac3e2",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "0c5ae2cbafad10f7",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md"
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,15 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c913ecade828b50a",
+  "active": "d249137ae9f4415b",
   "lastOpenFiles": [
+    "Templates/City or Town Template.md",
+    "Templates/Session ZERO Notes Template.md",
+    "Templates/NPC Template.md",
+    "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
     "Shrine of the Kobold Queen/3. Villains/Itharog.md",
     "Templates/Itharog 1.md",
     "Shrine of the Kobold Queen/7. Archive/placeholder.md",
-    "Templates/Session Zero Notes Template.md",
     "Templates/Sly Flourish Session Planning Template.md",
     "Shrine of the Kobold Queen/1. Characters/placeholder.md",
-    "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
     "Shrine of the Kobold Queen/5. Locations/Fire Brand Kobold Camp.md",
     "Shrine of the Kobold Queen/Resources/Spells/Acid Splash.md",
     "Shrine of the Kobold Queen/Resources/Spells/--- MASTER INDEX ---.md",
@@ -198,8 +178,6 @@
     "Shrine of the Kobold Queen/Resources/Spells/Animal Friendship.md",
     "Shrine of the Kobold Queen/Resources/Spells/Alter Self.md",
     "Shrine of the Kobold Queen/Resources/Spells/Aid.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Branding Smite.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Create or Destroy Water.md",
     "Shrine of the Kobold Queen/Resources/Spells",
     "Notion",
     "Shrine of the Kobold Queen/7. Archive",
