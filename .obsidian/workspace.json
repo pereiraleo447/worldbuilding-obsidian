@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Session ZERO Notes Template.md",
+                "file": "Templates/Session Zero Notes Template.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "00fc3aa7e21dc861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Session ZERO Notes Template.md"
+                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md"
               }
             }
           },
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Session ZERO Notes Template.md",
+                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Session ZERO Notes Template.md",
+                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,13 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d249137ae9f4415b",
+  "active": "00fc3aa7e21dc861",
   "lastOpenFiles": [
-    "Templates/City or Town Template.md",
+    "Templates/Session Zero Notes Template.md",
+    "Shrine of the Kobold Queen/3. Villains/Itharog.md",
+    "Example.md",
     "Templates/Session ZERO Notes Template.md",
+    "Templates/City or Town Template.md",
     "Templates/NPC Template.md",
     "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
-    "Shrine of the Kobold Queen/3. Villains/Itharog.md",
     "Templates/Itharog 1.md",
     "Shrine of the Kobold Queen/7. Archive/placeholder.md",
     "Templates/Sly Flourish Session Planning Template.md",
@@ -176,8 +191,6 @@
     "Shrine of the Kobold Queen/Resources/Spells/Animal Messenger.md",
     "Shrine of the Kobold Queen/Resources",
     "Shrine of the Kobold Queen/Resources/Spells/Animal Friendship.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Alter Self.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Aid.md",
     "Shrine of the Kobold Queen/Resources/Spells",
     "Notion",
     "Shrine of the Kobold Queen/7. Archive",
