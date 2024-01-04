@@ -20,7 +20,11 @@ What are the main villain(s) the players will interact with?
 
 ## Character Options and House Rules
 
-What are the specifics of character creation for this world? What are the character building limits in this world? What house rules are in play? Share these with your players.
+# House Rules
+
+1. Embarrassment of any kind will not be tolerated. 
+## Inspiration
+- Call out explicitly, really offer it as a reward.
 
 ## Patrons and Factions
 
