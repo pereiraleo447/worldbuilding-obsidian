@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Silvercrest Conservatory.md",
+                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Silvercrest Conservatory.md"
+                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Silvercrest Conservatory.md",
+                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Silvercrest Conservatory.md",
+                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
