@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md",
+                "file": "Shrine of the Kobold Queen/5. Locations/Capital City of Valoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "eldr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md"
+                "file": "Shrine of the Kobold Queen/5. Locations/Capital City of Valoria.md"
               }
             }
           },
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md",
+                "file": "Shrine of the Kobold Queen/5. Locations/Capital City of Valoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrine of the Kobold Queen/0. Campaign Pitch.md",
+                "file": "Shrine of the Kobold Queen/5. Locations/Capital City of Valoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +160,11 @@
   },
   "active": "00fc3aa7e21dc861",
   "lastOpenFiles": [
-    "Shrine of the Kobold Queen/5. Locations/Silvercrest Conservatory.md",
+    "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md",
+    "Shrine of the Kobold Queen/5. Locations/Capital City of Valoria.md",
+    "Shrine of the Kobold Queen/5. Locations/Kingdom of Eldranos.md",
     "Shrine of the Kobold Queen/0. Campaign Pitch.md",
+    "Shrine of the Kobold Queen/5. Locations/Silvercrest Conservatory.md",
     "Templates/Session Zero Notes Template.md",
     "Shrine of the Kobold Queen/3. Villains/Itharog.md",
     "Example.md",
@@ -185,10 +188,7 @@
     "Spells.md",
     "Class_Icon_-_Wizard.svg",
     "Shrine of the Kobold Queen/Resources/Spells/Alarm.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Zone of Truth.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Wrathful Smite.md",
     "5e SRD 1 1",
-    "Shrine of the Kobold Queen/Resources/Spells/Compulsion.md",
     "Shrine of the Kobold Queen/Resources",
     "Shrine of the Kobold Queen/Resources/Spells",
     "Notion",
