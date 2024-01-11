@@ -2,7 +2,7 @@
 Category:
   - NPC
 Affiliation(s):
-  - "[[Kingdom of Eldranos]]"
+  - "[[Eldranos]]"
 Connections: 
 Status:
   - Alive
