@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "46ee72543d908729",
+        "id": "76b7497ac4d5e462",
         "type": "tabs",
         "children": [
           {
-            "id": "c913ecade828b50a",
+            "id": "ba66d8cd15f47e11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Session Zero Notes Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00fc3aa7e21dc861",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Call of Cthulhu 7e Campaign/Call of Cthulhu/SPELLS & RITUALS/Big Bad Ritual.md",
+                "file": "PROJECT HARUKA/Story Overview.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Call of Cthulhu 7e Campaign/Call of Cthulhu/SPELLS & RITUALS/Big Bad Ritual.md"
+                "file": "PROJECT HARUKA/Story Overview.md"
               }
             }
           },
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Call of Cthulhu 7e Campaign/Call of Cthulhu/SPELLS & RITUALS/Big Bad Ritual.md",
+                "file": "PROJECT HARUKA/Story Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Call of Cthulhu 7e Campaign/Call of Cthulhu/SPELLS & RITUALS/Big Bad Ritual.md",
+                "file": "PROJECT HARUKA/Story Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00fc3aa7e21dc861",
+  "active": "ba66d8cd15f47e11",
   "lastOpenFiles": [
+    "Feudal Japan-style Campaign/Campaign Concept.md",
+    "PROJECT HARUKA/Story Overview.md",
+    "PROJECT HARUKA",
     "Call of Cthulhu 7e Campaign/Call of Cthulhu/GROUPS/Council of Carcosa.md",
     "Call of Cthulhu 7e Campaign/Call of Cthulhu/CHARACTERS/NPCs/GEISTERJAGER/Eveline Lacroix.md",
     "Call of Cthulhu 7e Campaign/Call of Cthulhu/CHARACTERS/NPCs/Hannah Roth.md",
@@ -175,7 +165,6 @@
     "Attachments/palace_art.jpg",
     "Attachments/Lucy Stone1.jpg",
     "Attachments/return_of_the_lazy_dungeon_master_cover_wide.jpg",
-    "Feudal Japan-style Campaign/Campaign Concept.md",
     "Feudal Japan-style Campaign",
     "Shrine of the Kobold Queen/5. Locations/Capital City of Valoria.md",
     "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md",
@@ -191,8 +180,6 @@
     "Templates/Sly Flourish Session Planning Template.md",
     "Shrine of the Kobold Queen/1. Characters/placeholder.md",
     "Shrine of the Kobold Queen/5. Locations/Fire Brand Kobold Camp.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Acid Splash.md",
-    "Shrine of the Kobold Queen/Resources/Spells/--- MASTER INDEX ---.md",
     "Shrine of the Kobold Queen/Resources/Books",
     "Class_Icon_-_Wizard.svg",
     "5e SRD 1 1",
@@ -202,7 +189,6 @@
     "Shrine of the Kobold Queen/7. Archive",
     "Shrine of the Kobold Queen/6. Events",
     "Shrine of the Kobold Queen/5. Locations",
-    "Shrine of the Kobold Queen/4. Factions",
     "Attachments/ava.png"
   ]
 }
