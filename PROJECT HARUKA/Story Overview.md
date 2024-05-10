@@ -1,7 +1,4 @@
 
-
-  
-
 # Act 1
 
 ## Overview
@@ -12,23 +9,23 @@ The main portion of the act consists of exploring the school looking for clues o
 
 The act concludes by finding a wounded Itou and receiving the remainder of his power, before jumping into a flashback sequence that kicks off Act 2.
 
-## Intro Script
+## Intro Script Test
 
 Pain. The first thing you feel, before you can even process it, is pain.
 
-You open your eyes.  As your vision returns to you, the room wobbles and spins. Your head pounds violently and your vision is blurry and unfocused. Touch follows, and you feel the cold hardwood floor beneath your fingertips. Your body complains about every minuscule movement.
+You open your eyes.  As your sense of vision returns to you, the room wobbles and spins. Your head pounds violently and your vision is blurry and unfocused. Touch follows, and you feel the cold hardwood floor beneath your fingertips. Your body complains about every minuscule movement.
 
-My head… oh, it hurts…
+*My head… oh, it hurts…*
 
 You lay back down.
 
-Where the hell… I can’t… remember…
+*Where the hell… I can’t… remember…*
 
-Trying to recall things jolts painful signals in your brain, like a needle scratching the inside of your skull. After what feels like minutes, your brain gives up the tiniest amount of information. “The school”, you think. You went back to the school for… something. It was late. Dark. You try to recall what it was, but the needle scratches again. You grit your teeth and hold back a tear. It really, really hurts.
+Trying to recall things jolts painful signals in your brain, like a sharp needle scratching the inside of your skull. After what feels like minutes, your brain gives up the tiniest amount of information. “The school”, you think. You went back to the school for… something. It was late. Dark. You try to recall what it was, but the needle scratches again. You hold back tears through gritted teeth. It *really fucking hurts.*
 
 You hear crackling static in the distance. It seems far away at first, but as your senses sharpen, you determine that it’s actually just a few feet from you. You take a deep breath and pull yourself up, one painful movement at a time.
 
-You notice a set of clothes on the ground, only feet away from you. The nameplate on the breast pocket reads “Yuuya Itou”. The needle scratches yet again, but through the pain your brain returns information– you recognize the name. Itou is a classmate. A friend. Confused and lethargic, you don’t react much, until the static crackles again– and this time, you can also make out a voice.
+You notice a set of clothes on the ground, only feet away from you. The nameplate on the breast pocket reads “Yuuya Itou”. The needle scratches yet again, but through the pain your brain returns information– you recognize the name. Itou is a classmate. A long time friend. Confused and lethargic, you don’t react much, until the static crackles again– and this time, you can also make out a voice.
 
 “Itou… Itou, are you there?” The voice waits a few seconds before returning. “Itou, they lost your reading. Please respond.”
 
@@ -36,7 +33,7 @@ You reach for your pocket and pull out your phone. The screen lights up at full 
 
 “Itou, are you okay? Please respond.” The voice sounds a little worried now. 
 
-You look around the room again, and it’s only now that you notice the desks– you’re in a classroom. The chairs and desks are a bit all over the place, but the sign above the door confirms it: you’re in class 2-B, your classroom. 
+You look around the room again, and it’s only now that you notice the desks– you’re in a classroom. The chairs and desks are a bit all over the place, but the sign above the door confirms it: you’re in class 2-B, *your* classroom. 
 
 Your legs aren’t carrying you anywhere any time soon, so you reach for the radio, sit down on a chair and press the button.
 
@@ -54,13 +51,13 @@ Now that you’re listening closely, you can tell that the person on the other e
 
 “I… I don’t know. I can see his clothes on the floor, but there’s no sight of him.”
 
-“Fuck… fuck fuck fuck…” You can hear a deep breath coming from the speaker. After a moment, the voice returns. “Sorry for the language. You said you’re Tachibana, right?”
+“Fuck… fuck fuck fuck…” You can hear a deep breath coming from the speaker. After a moment, the voice returns. “Sorry for the language. You said you’re... Tachibana, right?”
 
 “Yeah. Haruka’s fine, though. If you don’t mind me asking, who are you?”
 
-“I’m Itou’s older brother, Yuuya Takumi.”
+There's a slight pause before the response. “I’m Itou’s older brother, Takumi.”
 
-The needle scratches your skull once again, giving brief flashes of memory. You and Itou have been friends since middle school, but you can’t recall ever meeting his older brother. But then again, you can’t recall much at all right now.
+The needle gouges your skull once more, giving brief flashes of memory. You and Itou have been friends since middle school, but you can’t recall ever meeting his older brother. But then again, you can’t recall much at all right now.
 
 “It’s nice to meet you, Takumi.”
 
@@ -74,9 +71,9 @@ He seems to bulldoze right through your question.
 
 “Thank God… We need to find Itou, and quickly.”
 
-“Sure, I’ll help you look for him. But… why? Are you worried something happened to him?”
+“Sure, I’ll help you look for him. But… why? Are you worried something happened?”
 
-“Yes. But right now, I’m more worried about you." He seems to swallow hard. "Haruka, you’re in danger.”
+“That too. But right now, I’m more worried about you." He pauses once again. "Haruka, you’re in danger.”
 
 His statement makes you pause. Your stomach sinks a little deeper, and you now get the sense that something is wrong.
 
@@ -100,9 +97,9 @@ The radio static grows louder, and Takumi’s voice becomes distant and choppy. 
 
 “Grab the g… (static) …be calm, just… (static) …and shoot! Don’t… (static) …it touch you!”
 
-Combat Tutorial
+{Combat Tutorial}
 
-After defeating enemy
+{After defeating enemy}
 
   
 
@@ -112,9 +109,8 @@ After defeating enemy
 
 In this act we play as Itou in a sort of flashback sequence, showing the beginning of his mission.  
 
-We find out that what the agency thought was a simple feeder spirit turned out to be a massively powerful entity– so powerful, in fact, that the barrier it erected around the school to feed off the students uninterrupted was all but impenetrable. With no choice but to take on the spirit on his own, Itou and Takumi marched onwards. 
+We find out that what the agency thought was a simple feeder spirit turned out to be a massively powerful entity– so powerful, in fact, that the barrier it erected around the school to feed off the students uninterrupted was all but impenetrable. With no choice but to take on the spirit on his own, Itou marched onwards. 
 
-  
 
 # Act 3
 
