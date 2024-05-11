@@ -3,7 +3,7 @@
 
 ## Overview
 
-The game starts with Haruka waking up alone in a dark classroom. After finding her classmate Yuuya Itou’s clothes and equipment, she’s contacted by Takumi, his older brother, through a portable radio among Itou’s equipment. After fighting off a minor spirit, Takumi tells Haruka that his younger brother is part of an international organization working to secure and contain paranormal anomalies, and that the fact that she survived this entity’s attack means she has tremendous spiritual potential at least on par with Itou’s. He also explains their current predicament: a massive feeder spirit essentially kidnapped the entire school’s souls for his consumption. The entity is hiding somewhere in the school, growing larger with every soul it consumes, and can only be killed at dusk or dawn– meaning Haruka has to first survive the night if she wants even a shot at ending this nightmare.
+The game starts with the player character, Haruka, waking up alone in a dark classroom. After finding her classmate Yuuya Itou’s clothes and equipment, she’s contacted by Takumi, his older brother, through a portable radio among Itou’s equipment. After fighting off a minor spirit, Takumi tells Haruka that his younger brother is part of an international organization working to secure and contain paranormal anomalies, and that the fact that she survived this entity’s attack means she has tremendous spiritual potential at least on par with Itou’s. He also explains their current predicament: a massive feeder spirit essentially kidnapped the entire school’s souls for his consumption. The entity is hiding somewhere in the school, growing larger with every soul it consumes, and can only be killed at dusk or dawn– meaning Haruka has to first survive the night if she wants even a shot at ending this nightmare.
 
 The main portion of the act consists of exploring the school looking for clues on Itou’s whereabouts as well as a way to break the barrier before night.This act features a few basic enemies littered throughout the school’s west wing
 
@@ -21,11 +21,11 @@ You lay back down.
 
 *Where the hell… I can’t… remember…*
 
-Trying to recall things jolts painful signals in your brain, like a sharp needle scratching the inside of your skull. After what feels like minutes, your brain gives up the tiniest amount of information. “The school”, you think. You went back to the school for… something. It was late. Dark. You try to recall what it was, but the needle scratches again. You hold back tears through gritted teeth. It *really fucking hurts.*
+Trying to recall things jolts painful signals in your brain, like a sharp needle scratching the inside of your skull. After a gruelling few minutes, you can grasp something through the brain fog. “The school”, you think. You went back to the school for… something. Something trivial. It was late. Dark. You try to recall what it was, but the needle scratches with a vengeance. You hold back tears through gritted teeth. It *really fucking hurts.*
 
-You hear crackling static in the distance. It seems far away at first, but as your senses sharpen, you determine that it’s actually just a few feet from you. You take a deep breath and pull yourself up, one painful movement at a time.
+You hear the crackle of radio static in the distance. It seems far away at first, but as your senses sharpen, you determine that it’s actually just a few feet from you. You take a deep breath and pull yourself up, one painful movement at a time.
 
-You notice a set of clothes on the ground, only feet away from you. The nameplate on the breast pocket reads “Yuuya Itou”. The needle scratches yet again, but through the pain your brain returns information– you recognize the name. Itou is a classmate. A long time friend. Confused and lethargic, you don’t react much, until the static crackles again– and this time, you can also make out a voice.
+You notice a set of clothes on the ground, only feet away from you. The nameplate on the breast pocket reads “Yuuya Itou”. The owner is nowhere to be seen. The needle scratches yet again, but through the pain your brain returns information– Itou is a classmate. A long time friend. Confused and lethargic, you don’t react much, until the static crackles again– this time, you can also make out a voice.
 
 “Itou… Itou, are you there?” The voice waits a few seconds before returning. “Itou, they lost your reading. Please respond.”
 
@@ -33,9 +33,9 @@ You reach for your pocket and pull out your phone. The screen lights up at full 
 
 “Itou, are you okay? Please respond.” The voice sounds a little worried now. 
 
-You look around the room again, and it’s only now that you notice the desks– you’re in a classroom. The chairs and desks are a bit all over the place, but the sign above the door confirms it: you’re in class 2-B, *your* classroom. 
+You look around the room again. As your eyes adjust to the near pitch black darkness, you can tell the classroom is in complete disarray. The chairs and desks are all over the place, and you notice a few other sets of clothes strewn around the floor. One of the windows is shattered, a skirt draped over the broken glass. It seems like there was a commotion of some kind, though you have no clue as to what or why.
 
-Your legs aren’t carrying you anywhere any time soon, so you reach for the radio, sit down on a chair and press the button.
+You get up and try to walk, but your knees disagree almost immediately. Your legs aren’t carrying you anywhere any time soon, so you reach for the radio, sit down on a chair and hold down the button.
 
 “H-Hello…? Is anyone there?”
 
@@ -49,19 +49,19 @@ Now that you’re listening closely, you can tell that the person on the other e
 
 “Where’s Itou? What happened to him?” The voice is trying to keep his composure, but you can tell he’s still worried.
 
-“I… I don’t know. I can see his clothes on the floor, but there’s no sight of him.”
+“I… I don’t know. I can see his clothes on the floor, but there’s no sign of him.”
 
-“Fuck… fuck fuck fuck…” You can hear a deep breath coming from the speaker. After a moment, the voice returns. “Sorry for the language. You said you’re... Tachibana, right?”
+“Fuck…” You can hear a deep breath coming from the speaker. After a moment, the voice returns. “Sorry for the language. You said you’re... Ms. Tachibana, right?”
 
 “Yeah. Haruka’s fine, though. If you don’t mind me asking, who are you?”
 
 There's a slight pause before the response. “I’m Itou’s older brother, Takumi.”
 
-The needle gouges your skull once more, giving brief flashes of memory. You and Itou have been friends since middle school, but you can’t recall ever meeting his older brother. But then again, you can’t recall much at all right now.
+The needle rips through your skull once more, giving only brief flashes of memory. You and Itou have been friends since middle school, but you can’t recall ever meeting his older brother. But then again, you can’t recall much at all at the moment.
 
 “It’s nice to meet you, Takumi.”
 
-“You too, Haruka. Look, I know this is sudden but…” Takumi seems to hesitate for a moment, but he continues. “...Haruka, do you see blood anywhere?”
+“You too, Haruka. Look, I know this is sudden but…” Takumi seems to hesitate for a moment, but he continues. “...do you see blood anywhere?”
 
 You can feel the urgence in his tone.
 
@@ -71,11 +71,11 @@ He seems to bulldoze right through your question.
 
 “Thank God… We need to find Itou, and quickly.”
 
-“Sure, I’ll help you look for him. But… why? Are you worried something happened?”
+“Sure, I’ll help you look for him. Are you worried something happened?”
 
 “That too. But right now, I’m more worried about you." He pauses once again. "Haruka, you’re in danger.”
 
-His statement makes you pause. Your stomach sinks a little deeper, and you now get the sense that something is wrong.
+His statement makes you pause. Your stomach sinks a little deeper and your fingertips get cold. Your breathing grows slightly shallow and pinpricks run down your spine— something is wrong.
 
 “D-Danger… why would I be in danger?”
 
@@ -86,6 +86,8 @@ Again, he ignores your question.
 “What? Why?”
   
 “Please just trust me, you don’t have a lot of time. I need you to grab his armband, his pouch and his gun.”
+
+You glance at Itou’s clothes. You notice a blue armband hanging loosely around his left sleeve, with an official-looking coat of arms embroidered on the front. An empty handgun holster is loosely fastened around his right pant leg, the pistol it contained just a few feet off to the side. Poking through underneath the shirt is a black nylon belt pouch, clasped shut.
 
 “His *gun*?! Why would Itou have a gun at school? What’s going on here?!”
 
@@ -98,11 +100,6 @@ The radio static grows louder, and Takumi’s voice becomes distant and choppy. 
 “Grab the g… (static) …be calm, just… (static) …and shoot! Don’t… (static) …it touch you!”
 
 {Combat Tutorial}
-
-{After defeating enemy}
-
-  
-
 # Act 2
 
 ## Overview

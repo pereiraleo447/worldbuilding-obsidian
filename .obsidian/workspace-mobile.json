@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Name ideas.md",
-                "mode": "source",
+                "file": "PROJECT HARUKA/Story Overview.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Name ideas.md",
+            "file": "PROJECT HARUKA/Story Overview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Name ideas.md",
+            "file": "PROJECT HARUKA/Story Overview.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Name ideas.md"
+            "file": "PROJECT HARUKA/Story Overview.md"
           }
         }
       }
@@ -146,6 +146,7 @@
   },
   "active": "18b08fe9ee412203",
   "lastOpenFiles": [
+    "Name ideas.md",
     "Shrine of the Kobold Queen/3. Villains/Itharog.md",
     "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
     "Shrine of the Kobold Queen/3. Villains/Isendraug.md",
@@ -157,7 +158,6 @@
     "Shrine of the Kobold Queen/5. Locations/Eldranos",
     "Templates/Session Zero Notes Template.md",
     "Shrine of the Kobold Queen/5. Locations/Fire Brand Kobold Camp.md",
-    "Name ideas.md",
     "Example.md",
     "Templates/City or Town Template.md",
     "Templates/NPC Template.md",
