@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md",
+                "file": "Shrine of the Kobold Queen/Resources/Spells/Calm Emotions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md"
+                "file": "Shrine of the Kobold Queen/Resources/Spells/Calm Emotions.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md",
+                "file": "Shrine of the Kobold Queen/Resources/Spells/Calm Emotions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md",
+                "file": "Shrine of the Kobold Queen/Resources/Spells/Calm Emotions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,13 +128,20 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "7c246c47d5a69a9f",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,12 +155,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "78c373638a218b58",
+  "active": "d249137ae9f4415b",
   "lastOpenFiles": [
-    "Shrine of the Kobold Queen/0. Campaign Pitch.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Aid.md",
     "Shrine of the Kobold Queen/Resources/Spells/Acid Splash.md",
     "Shrine of the Kobold Queen/Resources/Spells/--- MASTER INDEX ---.md",
+    "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md",
+    "Shrine of the Kobold Queen/0. Campaign Pitch.md",
+    "Shrine of the Kobold Queen/Resources/Spells/Aid.md",
     "Shrine of the Kobold Queen/7. Archive/placeholder.md",
     "Shrine of the Kobold Queen/5. Locations/Eldranos/Valoria.md",
     "Shrine of the Kobold Queen/5. Locations/Eldranos/Silvercrest Conservatory.md",
@@ -164,7 +172,6 @@
     "Solo D&D Campaign/Drada's Apothecary.md",
     "Feudal Japan-style Campaign/Campaign Concept.md",
     "Solo D&D Campaign",
-    "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md",
     "Shrine of the Kobold Queen/2. NPCs/Edwin Eldran.md",
     "Shrine of the Kobold Queen/2. NPCs/placeholder.md",
     "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
