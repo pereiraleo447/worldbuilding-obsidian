@@ -2,14 +2,14 @@
   "mapMarkers": [
     {
       "id": "eldranosMap1",
-      "lastAccessed": 1717680348523,
+      "lastAccessed": 1717703528814,
       "markers": [
         {
           "id": "ID_9b7819097a69",
-          "type": "default",
+          "type": "Red",
           "loc": [
-            -0.014393317353864357,
-            0.020090222573384883
+            -0.01436094857420799,
+            0.02011180175982246
           ],
           "link": "Valoria",
           "layer": "%5B%5BeldranosMap1.png%5D%5D",
@@ -23,7 +23,7 @@
         },
         {
           "id": "ID_88a81ad8d909",
-          "type": "default",
+          "type": "Red",
           "loc": [
             -0.02032470703125,
             0.01043701171875
@@ -98,8 +98,8 @@
           "id": "ID_e82999e8f8aa",
           "type": "default",
           "loc": [
-            -0.01956939697265625,
-            0.0165252685546875
+            -0.019550742912445438,
+            0.016518867217965763
           ],
           "layer": "%5B%5BeldranosMap1.png%5D%5D",
           "mutable": true,
@@ -153,7 +153,7 @@
         },
         {
           "id": "ID_0bf8c9eb4b58",
-          "type": "default",
+          "type": "Red",
           "loc": [
             -0.027679443359375,
             0.0366363525390625
@@ -245,7 +245,24 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Red",
+      "iconName": "map-marker",
+      "color": "#d1d1d1",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
@@ -263,7 +280,47 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 15,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[eldranosMap1.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[eldranosMap1.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 18,
+    "minZoom": 0,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "eldranosMap1",
+    "width": "100%",
+    "lat": 50,
+    "long": 50,
+    "unit": "hex",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
