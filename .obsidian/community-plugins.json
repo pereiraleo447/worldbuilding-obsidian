@@ -1,5 +1,7 @@
 [
   "dataview",
   "obsidian-file-color",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "calendarium",
+  "obsidian-leaflet-plugin"
 ]
