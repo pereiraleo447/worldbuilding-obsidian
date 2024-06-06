@@ -1,35 +1,48 @@
 {
   "main": {
-    "id": "666c6777575b8c6d",
+    "id": "cc046c0e25c29b30",
     "type": "split",
     "children": [
       {
-        "id": "c98fbec49f493104",
+        "id": "8fec7be76792bf20",
         "type": "tabs",
         "children": [
           {
-            "id": "00502a4d904c31c8",
+            "id": "7fe1e60b8d45bf03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md",
+                "file": "Shrine of the Kobold Queen/5. Locations/Fire Brand Kobold Camp.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "18b08fe9ee412203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROJECT HARUKA/Story Overview.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4ccdfa23496dd3c7",
+    "id": "b3bbddf15ac25842",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "cded9d7887b378e8",
+        "id": "d2e77285f0c741aa",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +52,7 @@
         }
       },
       {
-        "id": "86f3e7c9f296ccc9",
+        "id": "22d45e414590c492",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +67,7 @@
         }
       },
       {
-        "id": "d14546b77ec134c5",
+        "id": "760117800c570576",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,37 +78,27 @@
         }
       },
       {
-        "id": "ebca87a0015f1b64",
+        "id": "16b792db41308933",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
           "state": {}
-        }
-      },
-      {
-        "id": "fb04622a24708810",
-        "type": "leaf",
-        "state": {
-          "type": "all-properties",
-          "state": {
-            "sortOrder": "frequency"
-          }
         }
       }
     ],
     "currentTab": 0
   },
   "right": {
-    "id": "80d0f67c99640643",
+    "id": "cf30391fa0e80414",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "f624522ff1d0f1e9",
+        "id": "adaff3e1409686c8",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md",
+            "file": "PROJECT HARUKA/Story Overview.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -107,24 +110,24 @@
         }
       },
       {
-        "id": "43ccd4ebbc57dd3f",
+        "id": "13fb18229182747d",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md",
+            "file": "PROJECT HARUKA/Story Overview.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "8a88f23a53a01310",
+        "id": "aa7aa44b025da73a",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Shrine of the Kobold Queen/3. Villains/Itharog.md"
+            "file": "PROJECT HARUKA/Story Overview.md"
           }
         }
       }
@@ -141,21 +144,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00502a4d904c31c8",
+  "active": "18b08fe9ee412203",
   "lastOpenFiles": [
-    "Shrine of the Kobold Queen/Resources/Spells/--- MASTER INDEX ---.md",
-    "Templates/Sly Flourish Session Planning Template.md",
-    "Shrine of the Kobold Queen/4. Factions/placeholder.md",
-    "Shrine of the Kobold Queen/4. Factions",
-    "Shrine of the Kobold Queen/Resources/Untitled.md",
-    "Shrine of the Kobold Queen/7. Archive/placeholder.md",
-    "Shrine of the Kobold Queen/7. Archive",
-    "Shrine of the Kobold Queen/1. Characters/placeholder.md",
-    "Shrine of the Kobold Queen/1. Characters",
-    "Shrine of the Kobold Queen/2. NPCs/placeholder.md",
-    "Shrine of the Kobold Queen/2. NPCs",
-    "Templates/Session Zero Notes Template.md",
+    "Name ideas.md",
     "Shrine of the Kobold Queen/3. Villains/Itharog.md",
+    "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
+    "Shrine of the Kobold Queen/3. Villains/Isendraug.md",
+    "Shrine of the Kobold Queen/6. Events/Dragon Siege of Valoria.md",
+    "Shrine of the Kobold Queen/2. NPCs/Edwin Eldran.md",
+    "Shrine of the Kobold Queen/5. Locations/Eldranos/Valoria.md",
+    "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
+    "Shrine of the Kobold Queen/0. Campaign Pitch.md",
+    "Shrine of the Kobold Queen/5. Locations/Eldranos",
+    "Templates/Session Zero Notes Template.md",
+    "Shrine of the Kobold Queen/5. Locations/Fire Brand Kobold Camp.md",
+    "Example.md",
+    "Templates/City or Town Template.md",
+    "Templates/NPC Template.md",
     "Shrine of the Kobold Queen/Resources/Spells/Ensnaring Strike.md",
     "Shrine of the Kobold Queen/Resources/Spells/Purify Food and Drink.md",
     "Shrine of the Kobold Queen/Resources/Spells/Staggering Smite.md",
@@ -168,16 +173,14 @@
     "Shrine of the Kobold Queen/Resources/Spells/Poison Spray.md",
     "Shrine of the Kobold Queen/Resources/Spells/Remove Curse.md",
     "Shrine of the Kobold Queen/Resources/Spells/Finger of Death.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Shillelagh.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Blindness-Deafness.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Ray of Frost.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Blade Ward.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Knock.md",
     "Shrine of the Kobold Queen/Resources/Spells",
+    "Shrine of the Kobold Queen/4. Factions",
     "Shrine of the Kobold Queen/6. Events",
     "Shrine of the Kobold Queen/Resources",
+    "Shrine of the Kobold Queen/7. Archive",
+    "Shrine of the Kobold Queen/1. Characters",
+    "Shrine of the Kobold Queen/2. NPCs",
     "Shrine of the Kobold Queen/5. Locations",
-    "Shrine of the Kobold Queen/3. Villains",
-    "Shrine of the Kobold Queen"
+    "Shrine of the Kobold Queen/3. Villains"
   ]
 }
