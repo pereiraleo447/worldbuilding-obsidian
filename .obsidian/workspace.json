@@ -133,7 +133,21 @@
             "id": "7c246c47d5a69a9f",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_2afa49d82a98",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 3,
+                    "year": 1
+                  },
+                  "displayDayNumber": false,
+                  "displayMoons": true
+                },
+                "id": "ID_cbcb0a2b399a"
+              }
             }
           }
         ],
@@ -155,7 +169,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d249137ae9f4415b",
+  "active": "7c246c47d5a69a9f",
   "lastOpenFiles": [
     "Shrine of the Kobold Queen/Resources/Spells/Acid Splash.md",
     "Shrine of the Kobold Queen/Resources/Spells/--- MASTER INDEX ---.md",

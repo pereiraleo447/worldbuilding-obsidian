@@ -1,10 +1,255 @@
 {
   "addToDefaultIfMissing": true,
-  "calendars": [],
+  "calendars": [
+    {
+      "name": "Placeholder",
+      "description": "Placeholder calendar based on the International Fixed Calendar",
+      "id": "ID_2afa49d82a98",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_582a4a1b7ada"
+          },
+          {
+            "type": "day",
+            "name": "Twelvesday",
+            "id": "ID_7ae92a094aaa"
+          },
+          {
+            "type": "day",
+            "name": "Midsday",
+            "id": "ID_3bca080a4b69"
+          },
+          {
+            "type": "day",
+            "name": "Thersday",
+            "id": "ID_883bcadaaac8"
+          },
+          {
+            "type": "day",
+            "name": "Firday",
+            "id": "ID_3adb2b891818"
+          },
+          {
+            "type": "day",
+            "name": "Starday",
+            "id": "ID_cb4ab9a8aa58"
+          },
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_8b8b4b9ac948"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Janus",
+            "length": 28,
+            "id": "ID_491a4af92a29",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Ferus",
+            "length": 28,
+            "id": "ID_f9199bca2a3a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Mertz",
+            "length": 28,
+            "id": "ID_ebca292ac90a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Auril",
+            "length": 28,
+            "id": "ID_681bf8c8a9ca",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "May",
+            "length": 28,
+            "id": "ID_ca9b895bcaf9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Juun",
+            "length": 28,
+            "id": "ID_2bd9bbc8e928",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Sol",
+            "length": 28,
+            "id": "ID_d8ba9a7bc92a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Juli",
+            "length": 28,
+            "id": "ID_e91b4b28ca18",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "August",
+            "length": 28,
+            "id": "ID_7a0b4b1be8b9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "September",
+            "length": 28,
+            "id": "ID_4bcbb9285998",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "October",
+            "length": 28,
+            "id": "ID_fb998a685bcb",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "November",
+            "length": 28,
+            "id": "ID_8bbb6a6ae9ba",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "December",
+            "length": 28,
+            "id": "ID_89aada281a5b",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Theris",
+            "cycle": 27,
+            "offset": 0,
+            "faceColor": "#8e1f1f",
+            "shadowColor": "#000000",
+            "id": "ID_f9b8bb6ac879"
+          },
+          {
+            "name": "Selwyn",
+            "cycle": 56,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000",
+            "id": "ID_29aa380b6b78"
+          },
+          {
+            "name": "Eldath",
+            "cycle": 14,
+            "offset": 0,
+            "faceColor": "#7ab4ff",
+            "shadowColor": "#000",
+            "id": "ID_881a484838bb"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [
+          {
+            "id": "ID_28d96a69fb28",
+            "name": "New Year's Turn",
+            "interval": [
+              {
+                "interval": 1,
+                "exclusive": false,
+                "ignore": true
+              }
+            ],
+            "intercalary": true,
+            "timespan": 12,
+            "offset": 1,
+            "type": "leapday",
+            "after": 28,
+            "numbered": true
+          }
+        ],
+        "eras": [],
+        "padMonths": 2,
+        "padDays": 2
+      },
+      "current": {
+        "day": 1,
+        "month": 3,
+        "year": 1
+      },
+      "events": [
+        {
+          "name": "Lunisolar Day",
+          "description": "A sacred day in which all three moons are visible in the sky during the day, heralding the start of a new year. It is said that Lunisolar day is when the Sun Goddess and Moon God are allowed a break from their eternal duty and can mingle with each other.",
+          "date": {
+            "month": 12,
+            "day": 29,
+            "year": [
+              null,
+              null
+            ]
+          },
+          "id": "ID_7acbbb483829",
+          "note": null,
+          "category": "ID_7aa98a4a6b88",
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Recurring"
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_7aa98a4a6b88",
+          "color": "#ff9500",
+          "name": "Religious Holiday"
+        }
+      ],
+      "autoParse": false,
+      "path": [
+        "/"
+      ],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": null,
+  "defaultCalendar": "ID_2afa49d82a98",
   "eventPreview": false,
   "exit": {
     "saving": false,
