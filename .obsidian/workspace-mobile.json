@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "22cc4dff9c3ab4aa",
+    "id": "a01d11561c270ef2",
     "type": "split",
     "children": [
       {
-        "id": "4a3925fa0bb19796",
+        "id": "7124430772437d8d",
         "type": "tabs",
         "children": [
           {
-            "id": "3e3546226fe4dee8",
+            "id": "5166e7c2cbbf8f16",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "15155ac817cbbbf7",
+    "id": "7363ec77039cdfba",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7ea2276bf4ed0949",
+        "id": "cd714437a36ac2ed",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -39,7 +39,7 @@
         }
       },
       {
-        "id": "923c6ab967309b83",
+        "id": "101d7c73b72c39ba",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -54,7 +54,7 @@
         }
       },
       {
-        "id": "80a71681814281c9",
+        "id": "ff250ad469eb0114",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -65,7 +65,7 @@
         }
       },
       {
-        "id": "abc3cb381fe9728d",
+        "id": "9c6e6ad65b38068b",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -76,11 +76,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "229ac904f3e25edc",
+    "id": "34614b94e35191e4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "9cb670d402a78ecc",
+        "id": "0046462dbe24e26e",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -97,7 +97,7 @@
         }
       },
       {
-        "id": "347678b54073296e",
+        "id": "2aeb6f0cc720bf2d",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -109,7 +109,7 @@
         }
       },
       {
-        "id": "51e8d9ceacd8d503",
+        "id": "9ae8255320021a08",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -123,17 +123,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3e3546226fe4dee8",
+  "active": "5166e7c2cbbf8f16",
   "lastOpenFiles": [
     "Shrine of the Kobold Queen/5. Locations/Eldranos/eldranosMap1.png",
     "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
@@ -180,5 +180,8 @@
     "Attachments/Untitled 3.png",
     "Attachments/Untitled 1.png",
     "Attachments/Untitled 1 2.png"
+    "Shrine of the Kobold Queen/4. Factions/placeholder.md",
+    "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
+    "Shrine of the Kobold Queen/5. Locations/Eldranos/eldranosMap1.png"
   ]
 }
