@@ -1,5 +1,242 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "eldranosMap1",
+      "lastAccessed": 1717757062957,
+      "markers": [
+        {
+          "id": "ID_7bdb7aaa68b9",
+          "type": "Alternate",
+          "loc": [
+            -0.01439666748046875,
+            0.020111083984375
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.43933333333333335,
+            0.47175
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba6838fb29aa",
+          "type": "Alternate",
+          "loc": [
+            -0.0203094482421875,
+            0.01043701171875
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.228,
+            0.6655
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_daaa88d91ad8",
+          "type": "Alternate",
+          "loc": [
+            -0.027679443359375,
+            0.036651611328125
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.8006666666666666,
+            0.907
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aa497b5b1bb8",
+          "type": "default",
+          "loc": [
+            -0.020662071013980692,
+            0.0032260883724178732
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.07047497585825925,
+            0.6770547429861193
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_794a2bebebd9",
+          "type": "default",
+          "loc": [
+            -0.01761940572628223,
+            0.0011329072879728316
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.024748737341529166,
+            0.5773526868388161
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38ea6bbbe929",
+          "type": "default",
+          "loc": [
+            -0.01956939697265625,
+            0.0165252685546875
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.361,
+            0.64125
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_89786ae9b9e8",
+          "type": "default",
+          "loc": [
+            -0.01349639892578125,
+            0.010528564453125
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.23,
+            0.44225
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9aa7809bb5b",
+          "type": "default",
+          "loc": [
+            -0.01290047597960849,
+            0.022863148030613623
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8ae889b82bc8",
+          "type": "default",
+          "loc": [
+            -0.02719879150390625,
+            0.0174560546875
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.38133333333333336,
+            0.89125
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eb893b999a28",
+          "type": "default",
+          "loc": [
+            -0.029175060063605113,
+            0.028268734233226848
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6175399222362515,
+            0.9560083681642123
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_39799acaeb08",
+          "type": "default",
+          "loc": [
+            -0.0145263671875,
+            0.0357513427734375
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.781,
+            0.476
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_985bfa781b58",
+          "type": "default",
+          "loc": [
+            -0.0170135498046875,
+            0.0344390869140625
+          ],
+          "layer": "%5B%5BeldranosMap1.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.7523333333333333,
+            0.5575
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -10,7 +247,24 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Alternate",
+      "iconName": "map-marker-alt",
+      "color": "#dddddd",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,

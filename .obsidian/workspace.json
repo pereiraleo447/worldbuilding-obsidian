@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
+                "file": "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md"
+                "file": "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
+                "file": "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
+                "file": "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,20 +180,25 @@
   },
   "active": "1ac25337fc9fd74b",
   "lastOpenFiles": [
-    "Shrine of the Kobold Queen/5. Locations/Eldranos/eldranosMap1.png",
-    "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
-    "Shrine of the Kobold Queen/2. NPCs/Edwin Eldran.md",
-    "Shrine of the Kobold Queen/5. Locations/Eldranos/Valoria.md",
-    "Templates/City or Town Template.md",
-    "Test iPad page.md",
-    "Shrine of the Kobold Queen/5. Locations/Eldranos/Silvercrest Conservatory.md",
-    "Shrine of the Kobold Queen/7. Archive/placeholder.md",
     "Solo D&D Campaign/Drada's Apothecary.md",
+    "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Silvercrest Conservatory.md",
+    "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md",
+    "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Valoria.md",
+    "Templates/City or Town Template.md",
+    "Shrine of the Kobold Queen/6. EVENTS/Dragon Siege of Valoria.md",
+    "Shrine of the Kobold Queen/3. VILLAINS/Itharog.md",
+    "Shrine of the Kobold Queen/3. VILLAINS/Isendraug.md",
+    "Shrine of the Kobold Queen/0. Campaign Pitch.md",
+    "Shrine of the Kobold Queen/2. NPCs/Edwin Eldran.md",
+    "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md",
+    "Templates/NPC Template.md",
+    "Shrine of the Kobold Queen/1. CHARACTERS/placeholder.md",
+    "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/eldranosMap1.png",
+    "Test iPad page.md",
+    "Shrine of the Kobold Queen/7. ARCHIVE/placeholder.md",
     "Shrine of the Kobold Queen/Resources/Spells/Calm Emotions.md",
     "Shrine of the Kobold Queen/Resources/Spells/Acid Splash.md",
     "Shrine of the Kobold Queen/Resources/Spells/--- MASTER INDEX ---.md",
-    "Shrine of the Kobold Queen/2. NPCs/King Marcus Eldran.md",
-    "Shrine of the Kobold Queen/0. Campaign Pitch.md",
     "Shrine of the Kobold Queen/Resources/Spells/Aid.md",
     "PROJECT HARUKA/Story Overview.md",
     "Name ideas.md",
@@ -201,16 +206,12 @@
     "Feudal Japan-style Campaign/Campaign Concept.md",
     "Solo D&D Campaign",
     "Shrine of the Kobold Queen/2. NPCs/placeholder.md",
-    "Shrine of the Kobold Queen/4. Factions/Cult of the Dragon.md",
-    "Shrine of the Kobold Queen/3. Villains/Itharog.md",
-    "Shrine of the Kobold Queen/3. Villains/Isendraug.md",
-    "Shrine of the Kobold Queen/1. Characters/placeholder.md",
+    "Shrine of the Kobold Queen/4. FACTIONS/Cult of the Dragon.md",
     "Attachments/Untitled 1 2.png",
     "Attachments/Untitled 1.png",
     "Attachments/Untitled.png",
     "Attachments/Tomb_of_Kings.jpeg",
     "Attachments/TheBlackCathedral.jpeg",
-    "Templates/NPC Template.md",
     "PROJECT HARUKA",
     "Call of Cthulhu 7e Campaign/Call of Cthulhu/GROUPS/Council of Carcosa.md",
     "Attachments/EE-Banner-Website-Dragon_26Kobol.png",
@@ -223,7 +224,7 @@
     "Shrine of the Kobold Queen/Resources",
     "Shrine of the Kobold Queen/Resources/Spells",
     "Notion",
-    "Shrine of the Kobold Queen/7. Archive",
-    "Shrine of the Kobold Queen/6. Events"
+    "Shrine of the Kobold Queen/7. ARCHIVE",
+    "Shrine of the Kobold Queen/6. EVENTS"
   ]
 }

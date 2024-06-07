@@ -2,7 +2,7 @@
 Category:
   - Location
   - City
-Location: 
+Location: Kingdom of Eldranos
 Affiliation(s): 
 Notable Character(s):
 ---

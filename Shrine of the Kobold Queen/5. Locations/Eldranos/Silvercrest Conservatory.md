@@ -2,7 +2,7 @@
 Category:
   - Location
   - Faction
-Location: Volaria
+Location: Valoria
 Affiliation(s):
   - Kingdom of Eldranos
 Notable Character(s):

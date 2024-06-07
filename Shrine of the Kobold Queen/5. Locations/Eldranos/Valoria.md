@@ -3,7 +3,7 @@ Category:
   - Location
   - City
   - Capital
-Location: 
+Location: Kingdom of Eldranos
 Affiliation(s): 
 Notable Character(s):
 ---
