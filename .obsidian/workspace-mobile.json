@@ -117,9 +117,30 @@
             "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md"
           }
         }
+      },
+      {
+        "id": "94dc44d9c242cc4c",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_2afa49d82a98",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 1,
+                "month": 3,
+                "year": 1
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            },
+            "id": "ID_38889a38790a"
+          }
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
