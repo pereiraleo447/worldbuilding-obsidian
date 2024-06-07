@@ -40,7 +40,7 @@ Write details about this place’s history including notable events, notable cus
 
 ## Example
 
-Write a list of notable characters your players might come across. Make sure to link to their page for more info if applicable 
+Write a list of notable characters your players might come across. Make sure to link to their page for more info if applicable.
 # Notable Places
 
 ## Example
