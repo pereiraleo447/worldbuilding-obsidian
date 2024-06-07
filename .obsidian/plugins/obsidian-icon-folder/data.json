@@ -19,7 +19,7 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false,
+    "iconInTabsEnabled": true,
     "iconInTitleEnabled": false,
     "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
@@ -32,6 +32,5 @@
     "debugMode": false
   },
   "Solo D&D Campaign": "RaWyvern",
-  "Shrine of the Kobold Queen": "RiLayout3Fill",
-  "Shrine of the Kobold Queen/5. LOCATIONS": "RiMapPin2Line"
+  "Shrine of the Kobold Queen": "RiLayout3Fill"
 }
