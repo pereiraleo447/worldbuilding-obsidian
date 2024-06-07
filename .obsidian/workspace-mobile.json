@@ -11,9 +11,11 @@
             "id": "3e3546226fe4dee8",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/eldranosMap1.png"
+                "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/eldranosMap1.png",
+            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/eldranosMap1.png",
+            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -112,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/eldranosMap1.png"
+            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md"
           }
         }
       }
@@ -133,6 +135,7 @@
   },
   "active": "3e3546226fe4dee8",
   "lastOpenFiles": [
+    "Shrine of the Kobold Queen/5. Locations/Eldranos/eldranosMap1.png",
     "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
     "Test iPad page.md",
     "Shrine of the Kobold Queen/Resources/Spells/Ensnaring Strike.md",
@@ -158,8 +161,6 @@
     "Shrine of the Kobold Queen/Resources/Spells/Hold Person.md",
     "Shrine of the Kobold Queen/Resources/Spells/See Invisibility.md",
     "Shrine of the Kobold Queen/Resources/Spells/Crown of Madness.md",
-    "Shrine of the Kobold Queen/Resources/Spells/Find Steed.md",
-    "Shrine of the Kobold Queen/5. Locations/Eldranos/eldranosMap1.png",
     "Shrine of the Kobold Queen/Resources/Spells",
     "Shrine of the Kobold Queen/5. Locations/Eldranos",
     "Shrine of the Kobold Queen/4. Factions",
