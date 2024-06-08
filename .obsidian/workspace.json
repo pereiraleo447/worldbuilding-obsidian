@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. LOCATIONS/Fire Brand Kobold Camp.md",
+                "file": "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,6 +87,7 @@
       {
         "id": "1ffb012be2570b50",
         "type": "tabs",
+        "dimension": 65.60077519379846,
         "children": [
           {
             "id": "c2b88cf04b8c4f10",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. LOCATIONS/Fire Brand Kobold Camp.md"
+                "file": "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md"
               }
             }
           },
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. LOCATIONS/Fire Brand Kobold Camp.md",
+                "file": "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. LOCATIONS/Fire Brand Kobold Camp.md",
+                "file": "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,14 @@
                 "useHierarchy": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "9cc3fbfd6fa2f18d",
+        "type": "tabs",
+        "dimension": 34.39922480620155,
+        "children": [
           {
             "id": "7c246c47d5a69a9f",
             "type": "leaf",
@@ -149,7 +157,7 @@
                   "viewState": 1,
                   "displaying": {
                     "day": 1,
-                    "month": 3,
+                    "month": 0,
                     "year": 1
                   },
                   "displayDayNumber": false,
@@ -159,8 +167,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -180,6 +187,7 @@
   },
   "active": "1ac25337fc9fd74b",
   "lastOpenFiles": [
+    "Shrine of the Kobold Queen/5. LOCATIONS/Fire Brand Kobold Camp.md",
     "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md",
     "Example.md",
     "Solo D&D Campaign/Drada's Apothecary.md",
@@ -213,7 +221,6 @@
     "Attachments/Tomb_of_Kings.jpeg",
     "Attachments/TheBlackCathedral.jpeg",
     "PROJECT HARUKA",
-    "Call of Cthulhu 7e Campaign/Call of Cthulhu/GROUPS/Council of Carcosa.md",
     "Attachments/EE-Banner-Website-Dragon_26Kobol.png",
     "Attachments/Scene Cards4-01.jpg",
     "Attachments/palace_art.jpg",
