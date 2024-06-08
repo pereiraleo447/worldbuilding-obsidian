@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
+                "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Valoria.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
+            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Valoria.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md",
+            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Valoria.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md"
+            "file": "Shrine of the Kobold Queen/5. Locations/Eldranos/Valoria.md"
           }
         }
       },
@@ -155,5 +155,9 @@
     }
   },
   "active": "54ca96e0aacb3e80",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Shrine of the Kobold Queen/6. Events/Dragon Siege of Valoria.md",
+    "Shrine of the Kobold Queen/5. Locations/Eldranos/Valoria.md",
+    "Shrine of the Kobold Queen/5. Locations/Eldranos/Eldranos.md"
+  ]
 }
