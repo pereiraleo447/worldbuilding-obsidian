@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "eldranosMap1",
-      "lastAccessed": 1717762227693,
+      "lastAccessed": 1719069817907,
       "markers": [
         {
           "id": "ID_7bdb7aaa68b9",
@@ -233,7 +233,7 @@
       "overlays": [],
       "shapes": [],
       "files": [
-        "Shrine of the Kobold Queen/5. LOCATIONS/ELDRANOS/Eldranos.md"
+        "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Eldranos.md"
       ]
     }
   ],
