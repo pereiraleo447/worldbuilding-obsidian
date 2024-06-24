@@ -8,6 +8,7 @@ Affiliation(s):
 2nd Quest Driver: Curiosity
 Connections:
   - "[[Bombuku]]"
+  - "[[Chuji Firestarter]]"
 Status:
   - Alive
 ---

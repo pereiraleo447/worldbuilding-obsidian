@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East (Working Title)/FACTIONS/Rising Blossoms.md",
+                "file": "Lands of the East (Working Title)/NPCs/Captain Totsuka.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 293.5,
+    "collapsed": true
   },
   "right": {
     "id": "139dcd4bd22d0dba",
@@ -99,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East (Working Title)/FACTIONS/Rising Blossoms.md"
+                "file": "Lands of the East (Working Title)/NPCs/Captain Totsuka.md"
               }
             }
           },
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East (Working Title)/FACTIONS/Rising Blossoms.md",
+                "file": "Lands of the East (Working Title)/NPCs/Captain Totsuka.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East (Working Title)/FACTIONS/Rising Blossoms.md",
+                "file": "Lands of the East (Working Title)/NPCs/Captain Totsuka.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,22 +193,22 @@
   },
   "active": "67fdb3046a377988",
   "lastOpenFiles": [
+    "Lands of the East (Working Title)/NPCs/Chuji Firestarter.md",
+    "Lands of the East (Working Title)/FACTIONS/Silk Purse.md",
+    "Lands of the East (Working Title)/FACTIONS/Rising Blossoms.md",
     "Lands of the East (Working Title)/NPCs/Ryoko.md",
     "Lands of the East (Working Title)/FACTIONS/Heirs of Kirin.md",
     "Lands of the East (Working Title)/FACTIONS/The Chroniclers.md",
     "SESSION PREP/LotE/Session Zero.md",
     "Templates/City or Town Template.md",
-    "Lands of the East (Working Title)/NPCs/Chuji Firestarter.md",
     "Lands of the East (Working Title)/NPCs/Nishikibe.md",
     "Templates/NPC Template 2.0.md",
     "Lands of the East (Working Title)/NPCs/Bombuku.md",
     "Lands of the East (Working Title)/NPCs/Captain Totsuka.md",
-    "Lands of the East (Working Title)/FACTIONS/Rising Blossoms.md",
     "Lands of the East (Working Title)/FACTIONS/College of Hanabi.md",
     "Templates/Faction Template.md",
     "Templates/Session Zero Notes Template.md",
     "Templates/NPC Template.md",
-    "Lands of the East (Working Title)/FACTIONS/Silk Purse.md",
     "Lands of the East (Working Title)/NPCs",
     "SESSION PREP/LotE/The Quiet Undead (One Shot).md",
     "SESSION PREP/LotE",
