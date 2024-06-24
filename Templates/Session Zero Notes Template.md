@@ -2,7 +2,7 @@
 
 ## Campaign Elevator Pitch
 
-> Thirty years ago, the Cult of the Dragon led a devastating siege on Volaria, capital of Eldranos. Commanded by Itharog
+> Write a short paragraph condensing the core of the campaign. Really think of it as an elevator pitch: you have one paragraph to sell someone on the idea of your campaign and make them want to play it.
 ## Six Truths of this Campaign
 
 What are the six most important things you want your players to understand about the world and the campaign? Share these with your players.
@@ -22,10 +22,7 @@ What are the main villain(s) the players will interact with?
 
 # House Rules
 
-1. Embarrassment of any kind will not be tolerated. 
-## Inspiration
-- Call out explicitly, really offer it as a reward.
-
+1. Write out your house rules in a numbered list
 ## Patrons and Factions
 
 Who are the patrons and factions the characters can be a part of? What brings the characters together to adventure in this campaign? Share these with your players.

@@ -7,7 +7,7 @@
 
 What are the six most important things you want your players to understand about the world and the campaign? Share these with your players.
 
-- 
+-  The Rising
 - 
 - 
 - 
@@ -23,9 +23,6 @@ What are the main villain(s) the players will interact with?
 # House Rules
 
 1. Embarrassment of any kind will not be tolerated. 
-## Inspiration
-- Call out explicitly, really offer it as a reward.
-
 ## Patrons and Factions
 
 Who are the patrons and factions the characters can be a part of? What brings the characters together to adventure in this campaign? Share these with your players.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yokai Realms (Working Title)/SESSION PREP/The Quiet Undead (One Shot).md",
+                "file": "SESSION PREP/LotE/The Quiet Undead (One Shot).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yokai Realms (Working Title)/LOCATIONS/Yoakemori Village.md",
+                "file": "SESSION PREP/LotE/Session Zero.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yokai Realms (Working Title)/LOCATIONS/Yoakemori Village.md"
+                "file": "SESSION PREP/LotE/Session Zero.md"
               }
             }
           },
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yokai Realms (Working Title)/LOCATIONS/Yoakemori Village.md",
+                "file": "SESSION PREP/LotE/Session Zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yokai Realms (Working Title)/LOCATIONS/Yoakemori Village.md",
+                "file": "SESSION PREP/LotE/Session Zero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,37 +192,40 @@
   },
   "active": "67fdb3046a377988",
   "lastOpenFiles": [
+    "Templates/Session Zero Notes Template.md",
+    "Templates/City or Town Template.md",
+    "Templates/Faction Template.md",
+    "Templates/NPC Template 2.0.md",
+    "Templates/NPC Template.md",
+    "Lands of the East (Working Title)/NPCs/Captain Totsuka.md",
+    "Lands of the East (Working Title)/NPCs/Bombuku.md",
+    "Lands of the East (Working Title)/FACTIONS/College of Hanabi.md",
+    "Lands of the East (Working Title)/FACTIONS/Heirs of Kirin.md",
+    "Lands of the East (Working Title)/NPCs/Nishikibe.md",
+    "Lands of the East (Working Title)/FACTIONS/Silk Purse.md",
+    "Lands of the East (Working Title)/NPCs",
+    "SESSION PREP/LotE/The Quiet Undead (One Shot).md",
+    "SESSION PREP/LotE",
+    "Lands of the East (Working Title)/Lands of the East.md",
+    "Lands of the East (Working Title)/FACTIONS/Rising Blossoms.md",
+    "SESSION PREP/LotE/Session Zero.md",
+    "Lands of the East (Working Title)/FACTIONS",
+    "Lands of the East (Working Title)/LOCATIONS/Yoakemori Village.md",
     "Solo D&D Campaign/Drada's Apothecary.md",
-    "Yokai Realms (Working Title)/SESSION PREP/Session Zero.md",
-    "Yokai Realms (Working Title)/SESSION PREP/The Quiet Undead (One Shot).md",
-    "Yokai Realms (Working Title)/LOCATIONS",
-    "Yokai Realms (Working Title)/LOCATIONS/Yoakemori Village.md",
+    "Lands of the East (Working Title)/LOCATIONS",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Eldranos.md",
     "Attachments/yoakemori_village.png",
     "Templates/Sly Flourish Session Planning Template.md",
-    "Yokai Realms (Working Title)/SESSION PREP",
-    "Yokai Realms (Working Title)",
+    "SESSION PREP",
+    "Lands of the East (Working Title)",
     "Eldranos (Working Title)/5. LOCATIONS/Fire Brand Kobold Camp.md",
     "Example.md",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Silvercrest Conservatory.md",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Valoria.md",
-    "Templates/City or Town Template.md",
     "Eldranos (Working Title)/6. EVENTS/Dragon Siege of Valoria.md",
     "Eldranos (Working Title)/3. VILLAINS/Itharog.md",
     "Eldranos (Working Title)/3. VILLAINS/Isendraug.md",
-    "Eldranos (Working Title)/0. Campaign Pitch.md",
-    "Eldranos (Working Title)/2. NPCs/Edwin Eldran.md",
-    "Eldranos (Working Title)/2. NPCs/King Marcus Eldran.md",
-    "Templates/NPC Template.md",
-    "Eldranos (Working Title)/1. CHARACTERS/placeholder.md",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/eldranosMap1.png",
-    "Test iPad page.md",
-    "Eldranos (Working Title)/7. ARCHIVE/placeholder.md",
-    "Eldranos (Working Title)/Resources/Spells/Calm Emotions.md",
-    "Eldranos (Working Title)/Resources/Spells/Acid Splash.md",
-    "Eldranos (Working Title)/Resources/Spells/--- MASTER INDEX ---.md",
-    "Eldranos (Working Title)/Resources/Spells/Aid.md",
-    "PROJECT HARUKA/Story Overview.md",
     "Solo D&D Campaign",
     "Attachments/Untitled 1 2.png",
     "Attachments/Untitled 1.png",
@@ -234,9 +237,6 @@
     "Attachments/Scene Cards4-01.jpg",
     "Attachments/palace_art.jpg",
     "Feudal Japan-style Campaign",
-    "Eldranos (Working Title)/Resources/Books",
-    "5e SRD 1 1",
-    "Eldranos (Working Title)/Resources",
-    "Eldranos (Working Title)/Resources/Spells"
+    "Eldranos (Working Title)/Resources/Books"
   ]
 }
