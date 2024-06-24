@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "67fdb3046a377988",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yokai Realms (Working Title)/LOCATIONS/Yoakemori Village.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5,
-    "collapsed": true
+    "width": 293.5
   },
   "right": {
     "id": "139dcd4bd22d0dba",
@@ -87,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yokai Realms (Working Title)/SESSION PREP/The Quiet Undead (One Shot).md"
+                "file": "Yokai Realms (Working Title)/LOCATIONS/Yoakemori Village.md"
               }
             }
           },
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yokai Realms (Working Title)/SESSION PREP/The Quiet Undead (One Shot).md",
+                "file": "Yokai Realms (Working Title)/LOCATIONS/Yoakemori Village.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yokai Realms (Working Title)/SESSION PREP/The Quiet Undead (One Shot).md",
+                "file": "Yokai Realms (Working Title)/LOCATIONS/Yoakemori Village.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +190,9 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d249137ae9f4415b",
+  "active": "67fdb3046a377988",
   "lastOpenFiles": [
+    "Solo D&D Campaign/Drada's Apothecary.md",
     "Yokai Realms (Working Title)/SESSION PREP/Session Zero.md",
     "Yokai Realms (Working Title)/SESSION PREP/The Quiet Undead (One Shot).md",
     "Yokai Realms (Working Title)/LOCATIONS",
@@ -191,7 +204,6 @@
     "Yokai Realms (Working Title)",
     "Eldranos (Working Title)/5. LOCATIONS/Fire Brand Kobold Camp.md",
     "Example.md",
-    "Solo D&D Campaign/Drada's Apothecary.md",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Silvercrest Conservatory.md",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Valoria.md",
     "Templates/City or Town Template.md",
