@@ -1,11 +1,15 @@
 ---
 Category:
   - NPC
-Affiliation(s): 
-1st Quest Driver: 
-2nd Quest Driver: 
-Connections: 
+Race: Haniwa
+Affiliation(s):
+  - "[[Heirs of Kirin]]"
+1st Quest Driver: Morality
+2nd Quest Driver: Curiosity
+Connections:
+  - "[[Bombuku]]"
 Status:
+  - Alive
 ---
 
 # Overview

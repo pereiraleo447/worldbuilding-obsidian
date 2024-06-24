@@ -3,7 +3,8 @@ Category:
   - Faction
 Affiliation(s): 
 Connections: 
-Primary Quest Driver: 
+1st Quest Driver: 
+2nd Quest Driver: 
 Status: 
 Notable Character(s):
 ---

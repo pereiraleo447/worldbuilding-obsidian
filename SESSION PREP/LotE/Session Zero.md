@@ -7,10 +7,10 @@
 
 What are the six most important things you want your players to understand about the world and the campaign? Share these with your players.
 
--  The Rising
-- 
-- 
-- 
+- Small, organized Oni raids have been laying waste to villages in the countryside, which is not only devastating but also unprecedented. Oni are selfish, egotistical and incredibly territorial, and they've never been know to cooperate with one another until now. 
+- Tensions have been rising as the [[Silk Purse]]'s profit-obsessed government continues to strangle the common man. Rumors exist of a grassroots faction of disconnected cells known as the [[Rising Blossoms]]. They threaten that the Silk Purse has long overstayed their welcome and that the time of change will come soon-- and people should be ready when it does.
+- Massive beasts known as kaiju have been rampaging throughout the Lands. Manifestations of primal magic, their mere presence can shatter the ecological balance of an entire continent. Their origin, as well as the reason for their rampage, is unknown. But the destruction they bring is certain. Could this be part of the cycle of the Lands, or is something else amiss?
+- A burgeoning branch of divination magic called historiomancy is on the rise. Pioneered by [[The Chroniclers]], it allows the caster to peer into the past, uncovering the truth behind events. Originally conceived as a way to aid Chroniclers in their effort to record history without bias, it may prove invaluable in figuring out the reason behind all these strange events ocurring across the Lands.
 - 
 - 
 

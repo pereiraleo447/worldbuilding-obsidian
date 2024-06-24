@@ -1,6 +1,7 @@
 ---
 Category:
   - NPC
+Race: Tanukin
 Affiliation(s):
   - "[[College of Hanabi]]"
 1st Quest Driver: Curiosity
