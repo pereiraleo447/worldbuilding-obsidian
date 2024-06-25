@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESSION PREP/LotE/Session Zero.md",
-                "mode": "source",
+                "file": "Templates/Sly Flourish Session Planning Template.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "SESSION PREP/LotE/Session Zero.md",
+            "file": "Templates/Sly Flourish Session Planning Template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "SESSION PREP/LotE/Session Zero.md",
+            "file": "Templates/Sly Flourish Session Planning Template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "SESSION PREP/LotE/Session Zero.md"
+            "file": "Templates/Sly Flourish Session Planning Template.md"
           }
         }
       }
@@ -135,8 +135,10 @@
   },
   "active": "90ae33af5fcb7523",
   "lastOpenFiles": [
-    "Lands of the East (Working Title)/LOCATIONS/Yoakemori Village.md",
+    "Templates/Session Zero Notes Template.md",
+    "SESSION PREP/LotE/Session Zero.md",
     "Lands of the East (Working Title)/FACTIONS/College of Hanabi.md",
+    "Lands of the East (Working Title)/LOCATIONS/Yoakemori Village.md",
     "Lands of the East (Working Title)/NPCs/Ryoko.md",
     "Lands of the East (Working Title)/FACTIONS/Silk Purse.md",
     "Lands of the East (Working Title)/FACTIONS/Rising Blossoms.md",
@@ -164,8 +166,6 @@
     "Eldranos (Working Title)/Resources/Spells/Detect Thoughts.md",
     "Eldranos (Working Title)/Resources/Spells/Poison Spray.md",
     "Eldranos (Working Title)/Resources/Spells/Remove Curse.md",
-    "Eldranos (Working Title)/Resources/Spells/Finger of Death.md",
-    "Eldranos (Working Title)/Resources/Spells/Shillelagh.md",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/eldranosMap1.png",
     "Eldranos (Working Title)/Resources/Spells",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS",
