@@ -8,9 +8,13 @@
 What are the six most important things you want your players to understand about the world and the campaign? Share these with your players.
 
 - Small, organized Oni raids have been laying waste to villages in the countryside, which is not only devastating but also unprecedented. Oni are selfish, egotistical and incredibly territorial, and they've never been known to cooperate with one another until now. What could be behind this?
-- Tensions have been rising as the [[Silk Purse]]'s profit-obsessed government continues to strangle the common man. Rumors exist of a grassroots faction of disconnected cells known as the [[Rising Blossoms]]. They threaten that the Silk Purse has long overstayed their welcome and that the time of change will come soon-- and people should be ready when it does.
+- Tensions have been rising as the [[Silk Purse]]'s profit-obsessed government continues to strangle the common man. Rumors exist of a grassroots faction of disconnected cells known as the [[Rising Blossoms]]. They threaten that the Silk Purse has long overstayed their welcome, and that the “time of change” will come soon-- and urge their audience to be ready when it does.
 - Gargantuan beasts known as kaiju have been rampaging throughout the Lands. Manifestations of primal magic, their mere presence can shatter the ecological balance of an entire continent. Their origin, as well as the reason for their rampage, is unknown, but the destruction they bring is nothing but certain. Could this be part of the cycle of the Lands, or is something else amiss?
+<<<<<<< Updated upstream
 - A burgeoning branch of divination magic called historiomancy is on the rise. Pioneered by [[The Chroniclers]], it allows the caster to peer into the past, assisting in uncovering the truth behind events. Originally conceived as a way to aid Chroniclers in their effort to record history without bias, it may now prove invaluable in figuring out the reason behind all these strange events occurring across the Lands.
+=======
+- A burgeoning branch of divination magic called Historiomancy is on the rise. Pioneered by [[The Chroniclers]], it allows the caster to peer into the past, uncovering the truth behind events. Originally conceived as a way to aid Chroniclers in their effort to record history without bias, it wasn't long before historiomancers were dispatched to all corners of the Lands of the East in an effort to uncover secrets previously relegated to undiscoverable mysteries. Thanks to them, many innocent prisoners have been freed, and guilty nobles have been brought to justice. Now, the Chroniclers are on the path to investigate the strange happenings plaguing the Lands– particularly the kaiju– and are looking for as much assistance as they can recruit.
+>>>>>>> Stashed changes
 - 
 - 
 
