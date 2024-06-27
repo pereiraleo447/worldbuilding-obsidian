@@ -20,24 +20,24 @@
             }
           },
           {
-            "id": "67fdb3046a377988",
+            "id": "edff38a8ed009339",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md",
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "edff38a8ed009339",
+            "id": "49c84a30214d2757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md",
+                "file": "SESSION PREP/LotE/Session Zero.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,6 @@
       {
         "id": "1ffb012be2570b50",
         "type": "tabs",
-        "dimension": 65.60077519379846,
         "children": [
           {
             "id": "c2b88cf04b8c4f10",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md"
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md",
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md",
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +159,6 @@
       {
         "id": "9cc3fbfd6fa2f18d",
         "type": "tabs",
-        "dimension": 34.39922480620155,
         "children": [
           {
             "id": "7c246c47d5a69a9f",
@@ -187,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,16 +196,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false
+      "calendarium:Open Calendarium": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "67fdb3046a377988",
+  "active": "edff38a8ed009339",
   "lastOpenFiles": [
     "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
-    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md",
+    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
+    "SESSION PREP/LotE/Session Zero.md",
+    "Eldranos (Working Title)/Resources/Spells/Fire Bolt.md",
     "Lands of the East (Working Title)/NPCs/VILLAINS/Izamaru.md",
     "Lands of the East (Working Title)/NPCs/VILLAINS",
-    "SESSION PREP/LotE/Session Zero.md",
     "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE",
     "Lands of the East (Working Title)/QUESTS",
     "Lands of the East (Working Title)/FACTIONS/College of Hanabi.md",
