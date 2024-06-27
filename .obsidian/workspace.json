@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SESSION PREP/LotE/Session Zero.md",
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edff38a8ed009339",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SESSION PREP/LotE/Session Zero.md"
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md"
               }
             }
           },
@@ -109,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SESSION PREP/LotE/Session Zero.md",
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SESSION PREP/LotE/Session Zero.md",
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,8 +202,13 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "67fdb3046a377988",
+  "active": "edff38a8ed009339",
   "lastOpenFiles": [
+    "SESSION PREP/LotE/Session Zero.md",
+    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Oni Raids.md",
+    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
+    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE",
+    "Lands of the East (Working Title)/QUESTS",
     "Lands of the East (Working Title)/FACTIONS/College of Hanabi.md",
     "Lands of the East (Working Title)/LOCATIONS/Yoakemori Village.md",
     "Lands of the East (Working Title)/FACTIONS/Silk Purse.md",
@@ -202,7 +219,6 @@
     "Lands of the East (Working Title)/NPCs/Chuji Firestarter.md",
     "Lands of the East (Working Title)/NPCs/Captain Totsuka.md",
     "Lands of the East (Working Title)/FACTIONS/Heirs of Kirin.md",
-    "SESSION PREP/LotE/Session Zero.md",
     "Templates/City or Town Template.md",
     "Templates/NPC Template 2.0.md",
     "Lands of the East (Working Title)/NPCs/Bombuku.md",
@@ -223,8 +239,6 @@
     "Lands of the East (Working Title)",
     "Eldranos (Working Title)/5. LOCATIONS/Fire Brand Kobold Camp.md",
     "Example.md",
-    "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Silvercrest Conservatory.md",
-    "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Valoria.md",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/eldranosMap1.png",
     "Solo D&D Campaign",
     "Attachments/Untitled 1 2.png",
@@ -235,8 +249,6 @@
     "PROJECT HARUKA",
     "Attachments/EE-Banner-Website-Dragon_26Kobol.png",
     "Attachments/Scene Cards4-01.jpg",
-    "Attachments/palace_art.jpg",
-    "Feudal Japan-style Campaign",
-    "Eldranos (Working Title)/Resources/Books"
+    "Attachments/palace_art.jpg"
   ]
 }
