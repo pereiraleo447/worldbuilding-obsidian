@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49c84a30214d2757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SESSION PREP/LotE/Session Zero.md",
+                "file": "Lands of the East (Working Title)/QUESTS/Timeline.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md"
+                "file": "Lands of the East (Working Title)/QUESTS/Timeline.md"
               }
             }
           },
@@ -120,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
+                "file": "Lands of the East (Working Title)/QUESTS/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
+                "file": "Lands of the East (Working Title)/QUESTS/Timeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +190,17 @@
   },
   "active": "edff38a8ed009339",
   "lastOpenFiles": [
-    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
+    "Lands of the East (Working Title)/Lands of the East.md",
+    "Lands of the East (Working Title)/QUESTS/Timeline.md",
+    "Lands of the East (Working Title)/QUESTS/_about_.md",
     "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
+    "Lands of the East (Working Title)/LOCATIONS/LOCATIONS.md",
+    "Plot Web.canvas",
+    "Untitled.canvas",
     "SESSION PREP/LotE/Session Zero.md",
+    "Lands of the East (Working Title)/NPCs/VILLAINS/Izanmaru.md",
+    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
     "Eldranos (Working Title)/Resources/Spells/Fire Bolt.md",
-    "Lands of the East (Working Title)/NPCs/VILLAINS/Izamaru.md",
     "Lands of the East (Working Title)/NPCs/VILLAINS",
     "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE",
     "Lands of the East (Working Title)/QUESTS",
@@ -229,13 +223,9 @@
     "Lands of the East (Working Title)/NPCs",
     "SESSION PREP/LotE/The Quiet Undead (One Shot).md",
     "SESSION PREP/LotE",
-    "Lands of the East (Working Title)/Lands of the East.md",
     "Lands of the East (Working Title)/FACTIONS",
-    "Solo D&D Campaign/Drada's Apothecary.md",
     "Lands of the East (Working Title)/LOCATIONS",
-    "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Eldranos.md",
     "Attachments/yoakemori_village.png",
-    "Templates/Sly Flourish Session Planning Template.md",
     "SESSION PREP",
     "Lands of the East (Working Title)",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/eldranosMap1.png",
