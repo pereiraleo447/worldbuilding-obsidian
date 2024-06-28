@@ -1,6 +1,8 @@
 [
+  "dataview",
   "obsidian-admonition",
   "calendarium",
   "obsidian-leaflet-plugin",
-  "obsidian-5e-statblocks"
+  "obsidian-icon-folder",
+  "obsidian-banners"
 ]
