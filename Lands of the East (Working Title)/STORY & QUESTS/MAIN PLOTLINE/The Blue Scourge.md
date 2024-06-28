@@ -9,7 +9,8 @@ ___
 
 As he lay dying, the cold, unrelenting rage within him grew stronger. In his grief and sorrow, he gladly embraced it. It wasn't long before he was completely consumed by his need for retribution, and this is when his transformation begins. He vowed to cast aside all other feelings-- his revenge was all that mattered now-- and in doing so, Izanmaru was reborn as an oni, his body engulfed in pale blue flames that symbolized his undying fury. Now known as the Azure Scourge, Izanmaru roams the countryside, leaving a trail of destruction in his wake. Entire villages are reduced to ashes, their inhabitants slaughtered, save for one or two deliberately spared. These remnants become his *vendettas*-- living phylacteries, unknowingly carrying a piece of his soul within their hatred for the oni, fueling his dark magic and ensuring his eventual rebirth should he fall in battle.
 
-# Game Plan
+# Outline
 
-- ***Act I.*** *The calm before the storm.*
-	- 
+## Chapter 1
+
+The players hear rumors about yet another village attacked by the Blue Scourge. The [[Heirs of Kirin]] are eager to help, but are stretched way beyond thin. They are offering compensation to any adventurers willing to recon for survivors and escort them to safety.
