@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Sly Flourish Session Planning Template.md",
-                "mode": "preview",
+                "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Templates/Sly Flourish Session Planning Template.md",
+            "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Templates/Sly Flourish Session Planning Template.md",
+            "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Templates/Sly Flourish Session Planning Template.md"
+            "file": "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md"
           }
         }
       }
@@ -135,6 +135,13 @@
   },
   "active": "90ae33af5fcb7523",
   "lastOpenFiles": [
+    "Templates/Sly Flourish Session Planning Template.md",
+    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
+    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
+    "Lands of the East (Working Title)/QUESTS/MAIN PLOTLINE",
+    "Lands of the East (Working Title)/QUESTS",
+    "Lands of the East (Working Title)/NPCs/VILLAINS/Izamaru.md",
+    "Lands of the East (Working Title)/NPCs/VILLAINS",
     "Templates/Session Zero Notes Template.md",
     "SESSION PREP/LotE/Session Zero.md",
     "Lands of the East (Working Title)/FACTIONS/College of Hanabi.md",
@@ -162,16 +169,9 @@
     "Eldranos (Working Title)/Resources/Spells/Dimension Door.md",
     "Eldranos (Working Title)/Resources/Spells/Counterspell.md",
     "Eldranos (Working Title)/Resources/Spells/Pass without Trace.md",
-    "Eldranos (Working Title)/Resources/Spells/Unseen Servant.md",
-    "Eldranos (Working Title)/Resources/Spells/Detect Thoughts.md",
-    "Eldranos (Working Title)/Resources/Spells/Poison Spray.md",
-    "Eldranos (Working Title)/Resources/Spells/Remove Curse.md",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/eldranosMap1.png",
     "Eldranos (Working Title)/Resources/Spells",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS",
-    "Eldranos (Working Title)/7. ARCHIVE",
-    "Eldranos (Working Title)/Resources",
-    "Eldranos (Working Title)/4. FACTIONS",
     "Attachments/yoakemori_village.png",
     "Attachments/Emilia Court.jpg",
     "Attachments/Scene Cards4-01.jpg",

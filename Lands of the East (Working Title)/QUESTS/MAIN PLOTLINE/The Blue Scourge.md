@@ -1,7 +1,7 @@
 ___
 # Overview
 
->*Reports of a lone oni, wreathed in blue flames, have spread like wildfire. This fearsome creature singlehandedly razes entire villages to the ground, yet curiously, always spares one or two survivors—a stark contrast to the brutal, clan-bound nature of his kind, consumed by bloodlust for every last kill. The survivors, haunted by the icy blue glow and the eerie silence that follows the destruction, speak of the oni’s eyes—burning with an intense, unquenchable anger that hints at a deeper, darker purpose. How did a solitary oni become this powerful, and what is the meaning behind his strange acts of mercy? Is this just a bio-magical anomaly, or is there more to the so called "Blue Scourge"?*
+>*Reports of a lone oni, wreathed in blue flames, have spread like wildfire in the countryside. This fearsome creature singlehandedly razes entire villages to the ground, yet curiously, always seems to deliberately spare a few survivors—a stark contrast to the brutal, clan-bound nature of the rest of his kind, who lusts for every last kill. The survivors, haunted by the icy blue glow and the eerie silence that follows the destruction, speak of the oni’s eyes—burning with an intense, unquenchable anger that hints at a deeper, darker purpose. How did a solitary oni become this powerful, and what is the meaning behind his strange acts of mercy? Is this just a bio-magical anomaly, or is there more to the so called "Blue Scourge"?*
 
 # Background
 
