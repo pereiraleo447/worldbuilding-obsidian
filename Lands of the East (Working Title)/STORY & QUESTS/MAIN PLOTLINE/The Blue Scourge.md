@@ -13,4 +13,4 @@ As he lay dying, the cold, unrelenting rage within him grew stronger. In his gri
 
 ## Chapter 1
 
-The players hear rumors about yet another village attacked by the Blue Scourge. The [[Heirs of Kirin]] are eager to help, but are stretched way beyond thin. They are offering compensation to any adventurers willing to recon for survivors and escort them to safety.
+The players hear rumors about yet another village attacked by the Blue Scourge. The [[Heirs of Kirin]] are eager to help, but are stretched way beyond thin. They are offering compensation to any adventurers willing to travel to the village, recon for survivors and escort them to safety.
