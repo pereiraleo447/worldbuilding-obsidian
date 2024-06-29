@@ -14,8 +14,6 @@ Watabou Link:
 # Overview & History
 
 > *A quiet, peaceful village nestled amidst rolling plains. The gentle sway of paper lanterns lights the way to an ornate, well-kept temple at the end of the main street, its tori gates almost watching over the small town.*
-
-Write details about this place’s history including notable events, notable customs, 
 # Notable NPCs
 
 ## Example
@@ -58,9 +56,7 @@ Other Patrons:
 **Specials:**
 - Cobbler's Tools (phb 154) (24 gp)
 - Cook's Utensils (phb 154) (50 gp)
-- Weaver's Tools (phb 154) (1 gp)
-
-  
+- Weaver's Tools (phb 154) (1 gp)  
 
 Other Patrons:
 - Dain Fireforge, Male Dwarf
