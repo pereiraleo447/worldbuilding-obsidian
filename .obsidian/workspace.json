@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd67f327a54b2574",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,11 +182,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "calendarium:Open Calendarium": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
-  "active": "d249137ae9f4415b",
+  "active": "fd67f327a54b2574",
   "lastOpenFiles": [
     "Lands of the East (Working Title)/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
     "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
