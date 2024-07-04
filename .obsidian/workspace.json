@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fd67f327a54b2574",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +175,7 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "fd67f327a54b2574",
+  "active": "d249137ae9f4415b",
   "lastOpenFiles": [
     "Lands of the East (Working Title)/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
     "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
