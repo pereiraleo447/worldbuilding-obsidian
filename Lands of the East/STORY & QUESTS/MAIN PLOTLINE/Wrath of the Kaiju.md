@@ -12,3 +12,7 @@ Since then, kaiju will occasionally "slip through"-- their primordial magic seep
 
 And as the barrier between our planes continues to weaken, kaiju sightings are increasing in number. Decade by decade, the number of reports trends upward, and the governing bodies of the Lands have picked up on the pattern. Will they find a solution? Or will the Lands eventually succumb under the kaiju's might?
 
+# Scenes and Encounters
+
+- A massive caravan, easily in the hundreds, travels mostly in silence, escorted by [[Silk Purse]] officials / [[Heirs of Kirin]] volunteers. They are the only remaining survivors of a kaiju rampage a few towns over, and are to be relocated in a different town/city.
+	- Could lead to a side quest where the players themselves are asked to help with escorting future refugees through a dangerous environment, or even helping this same caravan reach their destination.

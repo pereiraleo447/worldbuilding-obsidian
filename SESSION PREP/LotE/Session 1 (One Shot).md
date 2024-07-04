@@ -1,8 +1,10 @@
 ## Overview
 
 
-> [!abstract] Adventure summary
-*The dead have mysteriously begun to rise from a family's crypt and figures were seen skulking around in the dark. The party is hired by the local temple to investigate the cause and put the corpses back to rest*
+> [!abstract] Premise
+ Yoakemori Village lives in a prosperous valley east of the capitol of Heian and has been blessed with good harvests and protection for generations, but recently, a shadow has fallen over the town. The village's warding stones were inadvertently broken by a handful of village youths, and evil *yokai* have crept upriver. This culminated in two villagers strangled to death by a *kappa* in the riverbank. Hoping to avoid drawing officials, and because his own son is thought to be responsible for breaking the ward, the town headman has refused to ask for outside help. Meanwhile, one of the other kids, named Chiyo, responsible for breaking the warding stone decided to make the trek downstream to repair it, and got herself kidnapped by bullywugs. Now, her distraught grandmother has secretly posted a rescue ad to the adventurer's guild in hopes that someone would come to their aid.
+ 
+ 
 
 ## Characters  
 
@@ -19,7 +21,7 @@ The party reports to the temple at the edge of town, where they're greeted by tw
   
 ## Scenes  
   
-* The party meets up with Yukiko and Alnora at the temple. The half-elf explains the situation and lays out the quest.
+* The party meets up with Sueko on the Great 
 *  The party 
 *  
 *  
