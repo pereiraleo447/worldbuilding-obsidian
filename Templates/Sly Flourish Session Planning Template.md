@@ -1,4 +1,4 @@
-## Characters  
+# Characters  
   
 **Name.** Description.  
   
@@ -8,42 +8,24 @@
   
 **Name.** Description.  
   
-## Strong Start  
+# Strong Start  
   
 Description of your strong start.  
   
-## Scenes  
+# Scenes  
   
-* Small scene description.  
-*  
-*  
-*  
-*  
+- [ ] Scene description
+- [ ] 
   
-## Secrets and Clues  
+# Secrets and Clues  
   
-* Secret description  
-*  
-*  
-*  
-*  
-*  
-*  
-*  
-*  
-*  
+* Secret description 
   
-## Fantastic Locations  
+# Locations  
   
 **Location**: aspect, aspect, aspect  
   
-**Location**: aspect, aspect, aspect  
-  
-**Location**: aspect, aspect, aspect  
-  
-**Location**: aspect, aspect, aspect  
-  
-## Important NPCs  
+# Important NPCs  
   
 **Name.** Description  
   
@@ -53,15 +35,20 @@ Description of your strong start.
   
 **Name.** Description  
   
-## Potential Monsters  
+# Monsters / Encounters  
   
 * Name  
 *  
 *  
 *  
-## Potential Treasure  
+# Treasure / Rewards  
   
 * Description  
 *  
 *  
-*
+
+# Session Notes
+
+
+
+# Recap

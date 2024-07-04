@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "139dcd4bd22d0dba",
@@ -160,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,8 +177,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "d249137ae9f4415b",
+  "active": "6d59bab905d82dba",
   "lastOpenFiles": [
+    "Templates/Sly Flourish Session Planning Template.md",
+    "SESSION PREP/LotE/The Quiet Undead (One Shot).md",
     "Lands of the East (Working Title)/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
     "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
     "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
@@ -201,7 +205,6 @@
     "Lands of the East/FACTIONS/College of Hanabi.md",
     "Lands of the East/FACTIONS",
     "Lands of the East",
-    "SESSION PREP/LotE/The Quiet Undead (One Shot).md",
     "Lands of the East (Working Title)/FACTIONS/Rising Blossoms.md",
     "Lands of the East (Working Title)/FACTIONS/College of Hanabi.md",
     "Lands of the East (Working Title)/Lands of the East.md",
@@ -212,7 +215,6 @@
     "Lands of the East (Working Title)/Plot Web.canvas",
     "Untitled.canvas",
     "SESSION PREP/LotE/Session Zero.md",
-    "Lands of the East (Working Title)/NPCs/VILLAINS/Izanmaru.md",
     "Lands of the East (Working Title)/NPCs/VILLAINS",
     "Lands of the East (Working Title)/STORY & QUESTS/MAIN PLOTLINE",
     "Attachments/yoakemori_village.png",
