@@ -11,8 +11,12 @@
             "id": "b0985ccf945e9320",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SESSION PREP/LotE/Session 1 (One Shot).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "SESSION PREP/LotE/Session 1 (One Shot).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "SESSION PREP/LotE/Session 1 (One Shot).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "SESSION PREP/LotE/Session 1 (One Shot).md"
+          }
         }
       }
     ],
@@ -127,5 +135,13 @@
     }
   },
   "active": "b0985ccf945e9320",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
+    "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
+    "SESSION PREP/LotE/Session Zero.md",
+    "SESSION PREP/LotE/Session 1 (One Shot).md",
+    "Templates/Sly Flourish Session Planning Template.md",
+    "Lands of the East/FACTIONS/College of Hanabi.md",
+    "Lands of the East/FACTIONS/Heirs of Kirin.md"
+  ]
 }
