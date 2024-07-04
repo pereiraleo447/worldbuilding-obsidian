@@ -14,5 +14,7 @@ And as the barrier between our planes continues to weaken, kaiju sightings are i
 
 # Scenes and Encounters
 
-- A massive caravan, easily in the hundreds, travels mostly in silence, escorted by [[Silk Purse]] officials / [[Heirs of Kirin]] volunteers. They are the only remaining survivors of a kaiju rampage a few towns over, and are to be relocated in a different town/city.
-	- Could lead to a side quest where the players themselves are asked to help with escorting future refugees through a dangerous environment, or even helping this same caravan reach their destination.
+- [ ] A massive caravan, easily in the hundreds, travels mostly in silence, escorted by [[Silk Purse]] officials / [[Heirs of Kirin]] volunteers. The civilians, battered and bruised, are the only remaining survivors of a kaiju rampage a few towns over, and are being escorted as refugees into the capitol.
+	- [ ] Leads to a side quest where the players themselves are asked to help with escorting the refugees through a dangerous environment, or even helping this same caravan reach their destination.
+- [ ] The ruins of a rampaged town can be seen in the distance, the residue of primordial magic still lingers heavy in the air. The environment is unusually still for the next few miles, almost as if the landscape itself is in mourning.
+	- [ ] If searched, the village ruins contains a very small amount of treasure (maybe a minor magic item). A successful check reveals dozens of previous tracks-- there's always more than a few people willing to profit off of someone else's suffering...
