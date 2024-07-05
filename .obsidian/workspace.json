@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
+                "file": "SESSION PREP/LotE/Session Zero.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "139dcd4bd22d0dba",
@@ -86,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md"
+                "file": "SESSION PREP/LotE/Session Zero.md"
               }
             }
           },
@@ -96,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
+                "file": "SESSION PREP/LotE/Session Zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
+                "file": "SESSION PREP/LotE/Session Zero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +178,10 @@
   },
   "active": "6d59bab905d82dba",
   "lastOpenFiles": [
-    "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
+    "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Eldranos.md",
+    "Solo D&D Campaign/Drada's Apothecary.md",
     "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
+    "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
     "SESSION PREP/LotE/Session 1 (One Shot).md",
     "Templates/Sly Flourish Session Planning Template.md",
     "Lands of the East (Working Title)/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
@@ -211,10 +212,8 @@
     "Lands of the East (Working Title)/STORY & QUESTS/Timeline.md",
     "Lands of the East (Working Title)/STORY & QUESTS/SIDE QUESTS",
     "Lands of the East (Working Title)/QUESTS/_about_.md",
-    "Lands of the East (Working Title)/LOCATIONS/LOCATIONS.md",
     "Lands of the East (Working Title)/Plot Web.canvas",
     "Untitled.canvas",
-    "SESSION PREP/LotE/Session Zero.md",
     "Lands of the East (Working Title)/NPCs/VILLAINS",
     "Lands of the East (Working Title)/STORY & QUESTS/MAIN PLOTLINE",
     "Attachments/yoakemori_village.png",
