@@ -21,8 +21,8 @@ The party reports to the temple at the edge of town, where they're greeted by tw
   
 ## Scenes  
   
-* The party meets up with Sueko on the Great 
-*  The party 
+* The party meets up with Sueko on the Great East-West Road. She takes them back to the village and rambles on about its "hot goss" on the trail. Upon arriving at the village, they're met with Jinbei, the village headman, who argues with Sueko about bringing in outsiders. The party tries to convince him to let them stay and help.
+* 
 *  
 *  
 *  
