@@ -5,6 +5,9 @@
     "tags": "tags",
     "Affiliation(s)": "multitext",
     "Connections": "multitext",
-    "Status": "multitext"
+    "Status": "multitext",
+    "Class": "text",
+    "Date": "number",
+    "Players": "text"
   }
 }

@@ -1,3 +1,8 @@
+---
+Date: 
+Player(s):
+---
+
 ## Overview
 
 
@@ -36,19 +41,11 @@ The party reports to the temple at the edge of town, where they're greeted by tw
   
 [[Yoakemori Village]]: A quiet, peaceful village amidst rolling hills and pleasant weather.
   
-**Davos Family Crypt**
-> [!abstract] Summary
-> The journey to the Davos family crypt is uneventful. The path there leads out of town and winds like a snake through the hillside before coming to a stop outside a rusted gate. Beyond it, a small graveyard can be seen, the centerpiece of which is a mausoleum bearing the Davos name.
-  
-**Cult Hideout**
-  
-
-  
 ## Important NPCs  
   
-**Head Priestess Yukiko.** A shy, silver-furred kitsune eager to help the Davos family. She tried to investigate the crypt herself, but upon descending the mausoleum, she got scared and turned tails, opting to post an ad at the local adventurer's guild for help instead.
+**Sueko.** Sueko is one of the village elders, and has lived a long, full life. She has a reputation for feistiness that has long given the village headman a headache
   
-**Alnora Davos.** Description  
+**Jinbei.** Description  
   
 **Name.** Description  
   
