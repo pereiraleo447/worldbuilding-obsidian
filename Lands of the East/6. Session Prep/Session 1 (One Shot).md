@@ -25,8 +25,15 @@ Player(s):
 The party reports to the temple at the edge of town, where they're greeted by two women. The half-elf, Alnora, panics about her situation, while the awkward kitsune Yukiko attempts to comfort her, largely in vain.
   
 ## Scenes  
-  
-* The party meets up with Sueko on the Great East-West Road. She takes them back to the village and rambles on about its "hot goss" on the trail. Upon arriving at the village, they're met with Jinbei, the village headman, who argues with Sueko about bringing in outsiders. The party tries to convince him to let them stay and help.
+
+- Chapter 1
+	* The party has accepted Sueko’s commission from a neighboring town, and travelled the Great East-West Road for a day and a half. A small trail branches off from the path, and this is where Sueko meets the party.
+		* She takes them to the village and explains the situation on the way. Two villagers were found dead, her granddaughter is missing and she fears she will suffer the same fate. Something evil stalks the waterways downriver of Yae.
+		* They bump into the village headman, Jinbei, shortly after arriving. He argues with Sueko about ignoring his authority and bringing outsiders in. The party can intervene (DC 14 Persuasion).
+			* Success: Party stays at Sueko’s house and are free to explore the town without repercussion.
+				* The family will provide basic needs, but have little to offer in terms of supplies. They suggest the party go into town.
+			* Failure: Party stays in a secret hut a few miles downstream, and meets Kurion and Sarivol. Exploring the town will prove a little inconvenient.
+				* 
 * 
 *  
 *  
