@@ -10,7 +10,7 @@ Connections:
 ---
 # Backstory
 
-- Rin's village was one of the earliest reported attacks attributed to the oni we now call the Blue Scourge
+- Rin's village was one of the earliest reported attacks attributed to the oni we now call the Blue Scourge, about 120 years ago.
 - She was the only survivor, and likely one of the first vendettas
 - She lost her entire family-- a mother, a father and an older brother, Renjiro-- and took refuge inside a [[Dylan's Character|hollowed out tree]].
 
