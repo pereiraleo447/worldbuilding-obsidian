@@ -8,7 +8,6 @@ Affiliation(s):
 2nd Quest Driver: Morality
 Connections:
   - "[[Captain Totsuka]]"
-  - "[[Heirs of Kirin]]"
 Status:
   - Undead
   - (Soul embedded in a pendant)
@@ -28,13 +27,16 @@ Roku's younger years were spent fighting in the War Against The West. While his 
 - Write bullet points about the character's speech and mannerisms, such as a particular accent or the sound of their voice.
 
 ***Desires & Motives***
-- Currently, all Roku wants is to spend time with [[Ozai|his son]] before his own second lease on life comes to an end. He knows that, short of necromancy or lichdom, he can't extend his life forever. So, like any good parent, he just wants to make *sure* his son is ready for the world.
+- Currently, all Roku wants is to spend time with [[Ozai|his son]] before his own second lease on life comes to an end. He knows that short of necromancy or achieving lichdom-- both of which he despises-- he can't extend his life forever. So, like any good parent, he just wants to make sure his son is ready for the world.
 
 ***Fears & Deterrents***
-- Write bullet points about the character's fears and deterrents, such as things that scare them or that they're hesitant about.
+- Roku is terrified that he might lose Ozai. The death of his pregnant wife still weigh on him, even after all these decades, and being a mentor to Ozai is the only thing left filling that emotional void.
 
 # Relationships
 
 ***[[Heirs of Kirin]]*** *(and [[Captain Totsuka]])*
 - After his stay in the military, Roku dedicated a good portion of his life to working disaster relief. His rapidly evolving command of the elements was a great asset to the effort and quickly earned him a name-- particularly with Captain Totsuka, who greatly employed his talents and further enabled his mastery of the elements.
 - Even after he left, his heart was always with the cause. He kept his old robes and a few trinkets, as a reminder of the good work they do and the values he hoped to impart on his protege.
+
+***[[Ozai]]***
+- His protege and surrogate child, Roku loves Ozai like the son he never had. He feels incredibly proud of what the young elf has already achieved, and is enthusiastic about his potential accomplishments in the future.

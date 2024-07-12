@@ -5,7 +5,7 @@ Race: Tanukin
 Affiliation(s):
   - "[[College of Hanabi]]"
 1st Quest Driver: Curiosity
-2nd Quest Driver: 
+2nd Quest Driver: Morality
 Connections:
   - "[[Captain Totsuka]]"
 Status:
