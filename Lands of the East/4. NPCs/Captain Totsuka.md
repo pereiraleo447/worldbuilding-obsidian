@@ -14,10 +14,10 @@ Status:
 ---
 
 # Overview
-Write a short paragraph about who this character is.
+Once a paladin of the Oath of Honour, Captain Totsuka now dedicates her life to the Heirs' mission. She operates semi-autonomously, moving from disaster site to disaster site, ever furthering their aid mission and relief efforts. She's remarkable among the haniwa for sustaining two constructs simultaneously, Kinji and Ginji-- who often behave more like her unruly children.
 
 ***Personality*** 
-- Write bullet points about the character's personality.
+- Calm and gracious, Totsuka is impervious to intimidation or coercion. She is perceptive and insightful, and is quickly able to see the thread of the past on a person's actions. She judges behaviors rather than people, and will always speak against injustice-- not confrontationally, but encouraging the perpetrator to see the error of their ways.
 
 ***Appearance***
 - Write bullet points about the character's appearance, such as their physical attributes and the clothes they wear.
@@ -33,5 +33,5 @@ Write a short paragraph about who this character is.
 
 # Relationships
 
-***Example***
-- Write bullet points about the character's relationships with other characters, factions, etc.
+***[[Master Roku]]***
+- Knew Master Roku and worked alongside him while he was an Heir.
