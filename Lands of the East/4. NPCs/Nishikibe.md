@@ -71,3 +71,5 @@ Realizing Nishikibe's connections could prove useful, the councilman bought his 
 ***[[The Chroniclers]]***
 - Historiomancy makes him quite wary, as it poses a great risk of revealing his identity and role, and its one of the primary reasons Nishikibe has people do his dirty work for him. If he wasn't there, there's nothing to uncover.
 - Avoids [[Ryoko]] for that reason.
+
+![[nishikibe-splashart.png]]

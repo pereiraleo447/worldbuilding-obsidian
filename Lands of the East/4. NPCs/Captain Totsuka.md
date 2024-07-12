@@ -41,5 +41,27 @@ Once a paladin of the Oath of Honour, Captain Totsuka now dedicates her life to 
 
 # Relationships
 
-***[[Master Roku]]***
+***[[Master Roku (WIP)]]***
 - Knew Master Roku and worked alongside him while he was an Heir. Totsuka was enthusiastic about the idea of Roku mentoring [[Ozai]], and reclaiming a portion of himself he lost long ago.
+
+***[[Heirs of Kirin]]***
+- She is endlessly grateful for the competence and generosity of her colleagues. 
+- She feels that life is a daily scramble from disaster to disaster, and that her brothers and sisters are stretched thin. 
+- She wishes the organization would stop, take stock of its actions so far, and work out a route to foment a more permanent change.
+
+***[[College of Hanabi]]***
+- The creations of these genius minds are phenomenal, allowing Totsuka and the Heirs to do more than ever before. But they're still bandages for the wounds that the world suffers.
+- She hopes that if the creations of the College can do the work of the common man, everyone can live without suffering.
+
+***[[Rising Blossoms]]***
+- She believes that their means are right but their methods are wrong. There are dangerous individuals among them, people who could cause more suffering.
+- She isn't entirely sure if [[Chuji Firestarter|Chuji]] is a member, but does suspect so. If true, she believes that Chuji holds an ember that could become a wildfire if pushed the wrong way, or be snuffed out if they lose interest.
+
+***[[Silk Purse]]***
+- Order is not a bad thing, and Totsuka is no stranger to the roads and wayhouses that the Silk Purse keeps safe. However, their tendency to reduce people and events to numbers is demeaning and dangerous in their eyes.
+
+***[[The Chroniclers]]***
+- Totsuka has high hopes for historiomancy, especially when it comes to figuring out the reason behind the kaiju's rampage. 
+- She hopes that their new branch of magic could be the key to unlocking a peaceful era, where everyone understands each other and secrets are brought to the limelight.
+
+![[totsuka-splashart.png]]

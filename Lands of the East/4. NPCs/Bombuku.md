@@ -56,10 +56,7 @@ Professor Minimoto "Copperpot" Bumbuku is the Dean of Arcanomechanics at the Col
 ***[[Silk Purse]]***
 - He sees them as a necessary evil: they deal with the bureaucracy of supply line so that invention can happen.
 - Unlike his more gullible colleagues, he doubts that the Silk Purse has the workers' best interests at heart.
-- He searches for project funding outside of Silk Purse grants and bursaries, and does not really like [[Nishikibe]].
+- He searches for project funding outside of Silk Purse grants and bursaries, and does not really like [[Nishikibe]]
 
-
-
-
-
+![[bombuku-splashart.png]]
 

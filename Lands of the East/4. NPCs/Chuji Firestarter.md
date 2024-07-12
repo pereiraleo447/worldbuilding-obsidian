@@ -68,3 +68,5 @@ After graduating top of their class and gaining renown as a katana master and ta
 ***[[The Chroniclers]]***
 - Chuji has met [[Ryoko]] several times and is impressed by both her forthrightness and her books.
 - Chuji doesn't believe that the Chronicles could be of use to further the Blossoms' aims. After all, history is written by the victors.
+
+![[chuji-splashart.png]]

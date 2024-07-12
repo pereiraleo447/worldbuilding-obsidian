@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East/4. NPCs/Captain Totsuka.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10a8117737b71467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lands of the East/4. NPCs/Master Roku.md",
+                "file": "Lands of the East/4. NPCs/Bombuku.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "139dcd4bd22d0dba",
@@ -98,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East/4. NPCs/Captain Totsuka.md"
+                "file": "Lands of the East/4. NPCs/Bombuku.md"
               }
             }
           },
@@ -108,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East/4. NPCs/Captain Totsuka.md",
+                "file": "Lands of the East/4. NPCs/Bombuku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East/4. NPCs/Captain Totsuka.md",
+                "file": "Lands of the East/4. NPCs/Bombuku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,11 +178,21 @@
   },
   "active": "6d59bab905d82dba",
   "lastOpenFiles": [
-    "Lands of the East/4. NPCs/Chuji Firestarter.md",
     "Lands of the East/4. NPCs/Captain Totsuka.md",
+    "Lands of the East/4. NPCs/Bombuku.md",
+    "Attachments/bombuku-splashart.png",
+    "Attachments/ryoko-splashart.png",
+    "Attachments/nishikibe-splashart.png",
+    "Attachments/chuji-splashart.png",
+    "Attachments/totsuka-splashart.png",
+    "Lands of the East/4. NPCs/Master Roku (WIP).md",
+    "Lands of the East/5. Quests & Lore/5b. General Lore/Hanamori.md",
+    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/Wrath of the Kaiju.md",
+    "Lands of the East/4. NPCs/Ryoko.md",
+    "Lands of the East/4. NPCs/Nishikibe.md",
+    "Lands of the East/4. NPCs/Chuji Firestarter.md",
     "Lands of the East/4. NPCs/VILLAINS/Izanmaru.md",
     "Lands of the East/1. Player Characters/Ozai.md",
-    "Lands of the East/4. NPCs/Master Roku.md",
     "Lands of the East/2. Factions/Heirs of Kirin.md",
     "Lands of the East/1. Player Characters/Mitsu.md",
     "Lands of the East/1. Player Characters/Rin.md",
@@ -204,25 +201,19 @@
     "Lands of the East/6. Session Prep/Session 1 (One Shot).md",
     "Lands of the East/6. Session Prep/Session 2.md",
     "Lands of the East/6. Session Prep/Session 0.md",
-    "Lands of the East/5. Quests & Lore/5b. General Lore/Hanamori.md",
     "Lands of the East/3. Locations/Lands of the East.md",
     "Lands of the East/5. Quests & Lore/5b. General Lore",
     "Lands of the East/STORY & QUESTS/Timeline.md",
     "Lands of the East/1. Player Characters",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Eldranos.md",
     "Solo D&D Campaign/Drada's Apothecary.md",
-    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/Wrath of the Kaiju.md",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Blue Scourge.md",
     "Templates/Sly Flourish Session Planning Template.md",
     "Lands of the East (Working Title)/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore",
     "Lands of the East/5. Quests & Lore",
     "Lands of the East/4. NPCs/VILLAINS",
-    "Lands of the East/4. NPCs/Ryoko.md",
-    "Lands of the East/4. NPCs/Nishikibe.md",
-    "Lands of the East/4. NPCs/Bombuku.md",
     "Lands of the East/4. NPCs",
-    "Lands of the East/3. Locations/Yoakemori Village.md",
     "Lands of the East/3. Locations",
     "Lands of the East/2. Factions",
     "Lands of the East",
@@ -233,11 +224,6 @@
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/eldranosMap1.png",
     "Attachments/Untitled 1 2.png",
     "Attachments/Untitled 1.png",
-    "Attachments/Untitled.png",
-    "Attachments/Tomb_of_Kings.jpeg",
-    "Attachments/TheBlackCathedral.jpeg",
-    "Attachments/EE-Banner-Website-Dragon_26Kobol.png",
-    "Attachments/Scene Cards4-01.jpg",
-    "Attachments/palace_art.jpg"
+    "Attachments/Untitled.png"
   ]
 }

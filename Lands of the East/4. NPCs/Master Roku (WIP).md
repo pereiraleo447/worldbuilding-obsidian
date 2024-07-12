@@ -4,9 +4,11 @@ Category:
 Race: Human
 Affiliation(s):
   - "[[Heirs of Kirin]]"
-1st Quest Driver: 
-2nd Quest Driver: 
-Connections: 
+1st Quest Driver: Curiosity
+2nd Quest Driver: Morality
+Connections:
+  - "[[Captain Totsuka]]"
+  - "[[Heirs of Kirin]]"
 Status:
   - Undead
   - (Soul embedded in a pendant)
@@ -33,6 +35,6 @@ Roku's younger years were spent fighting in the War Against The West. While his 
 
 # Relationships
 
-***[[Heirs of Kirin]]***
-- After his stay in the military, Roku dedicated a good portion of his life to working disaster relief. His rapidly evolving command of the elements was a great asset to the effort and quickly earned him a name-- particularly with [[Captain Totsuka]], who greatly employed his talents and further enabled his mastery of the elements.
-- Even after he left, his heart was always with the cause. He kept his old robes and a few trinkets, as a reminder
+***[[Heirs of Kirin]]*** *(and [[Captain Totsuka]])*
+- After his stay in the military, Roku dedicated a good portion of his life to working disaster relief. His rapidly evolving command of the elements was a great asset to the effort and quickly earned him a name-- particularly with Captain Totsuka, who greatly employed his talents and further enabled his mastery of the elements.
+- Even after he left, his heart was always with the cause. He kept his old robes and a few trinkets, as a reminder of the good work they do and the values he hoped to impart on his protege.

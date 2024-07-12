@@ -66,3 +66,5 @@ She found solace in books, magic, and the burgeoning art of historiomancy. They 
 ***[[Silk Purse]]***
 - The Silk Purse has a policy of not allowing Chroniclers access to their reems of records, allegedly for the privacy of their investors. Nevertheless, they use Chroniclers as witnesses whenever they have a public-facing announcement.
 - Ryoko admires the efficiency of their bureaucracy, but is ambivalent to their goals; the wheeling and dealing of the business world is something she'd rather ignore, and something about Nishikibe makes her uncomfortable...
+
+![[ryoko-splashart.png]]
