@@ -11,8 +11,12 @@
             "id": "6d59bab905d82dba",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md"
+              }
             }
           },
           {
@@ -89,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +175,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "7c246c47d5a69a9f",
+  "active": "6d59bab905d82dba",
   "lastOpenFiles": [
     "Lands of the East/4. NPCs/Master Roku (WIP).md",
+    "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
+    "Lands of the East/6. Items/6.a Magic & Special Items",
+    "Lands of the East/6. Items",
     "Untitled.md",
     "Lands of the East/4. NPCs/Captain Totsuka.md",
     "Lands of the East/4. NPCs/Nishikibe.md",
@@ -190,9 +201,9 @@
     "Lands of the East/1. Player Characters/Rin.md",
     "Lands of the East/1. Player Characters/Xhels.md",
     "Templates/Player Character Template.md",
-    "Lands of the East/6. Session Prep/Session 1 (One Shot).md",
-    "Lands of the East/6. Session Prep/Session 2.md",
-    "Lands of the East/6. Session Prep/Session 0.md",
+    "Lands of the East/7. Session Prep/Session 1 (One Shot).md",
+    "Lands of the East/7. Session Prep/Session 2.md",
+    "Lands of the East/7. Session Prep/Session 0.md",
     "Lands of the East/3. Locations/Lands of the East.md",
     "Lands of the East/5. Quests & Lore/5b. General Lore",
     "Lands of the East/STORY & QUESTS/Timeline.md",
@@ -201,15 +212,12 @@
     "Solo D&D Campaign/Drada's Apothecary.md",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Blue Scourge.md",
     "Templates/Sly Flourish Session Planning Template.md",
-    "Lands of the East (Working Title)/STORY & QUESTS/MAIN PLOTLINE/The Blue Scourge.md",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore",
     "Lands of the East/5. Quests & Lore",
     "Lands of the East/4. NPCs/VILLAINS",
     "Lands of the East/4. NPCs",
     "Lands of the East/3. Locations",
     "Lands of the East/2. Factions",
-    "Lands of the East",
-    "Lands of the East (Working Title)/STORY & QUESTS/SIDE QUESTS",
     "Lands of the East (Working Title)/Plot Web.canvas",
     "Untitled.canvas",
     "Attachments/yoakemori_village.png",
