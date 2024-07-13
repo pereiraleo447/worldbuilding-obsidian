@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East/6. Session Prep/Session 1 (One Shot).md",
+                "file": "Lands of the East/4. NPCs/Captain Totsuka.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lands of the East/6. Session Prep/Session 1 (One Shot).md",
+            "file": "Lands of the East/4. NPCs/Captain Totsuka.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lands of the East/6. Session Prep/Session 1 (One Shot).md",
+            "file": "Lands of the East/4. NPCs/Captain Totsuka.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lands of the East/6. Session Prep/Session 1 (One Shot).md"
+            "file": "Lands of the East/4. NPCs/Captain Totsuka.md"
           }
         }
       }
@@ -136,9 +136,24 @@
   },
   "active": "b0985ccf945e9320",
   "lastOpenFiles": [
+    "Lands of the East/4. NPCs/Bombuku.md",
     "Lands of the East/1. Player Characters/Rin.md",
-    "Lands of the East/1. Player Characters/Xhels.md",
     "Lands of the East/6. Session Prep/Session 1 (One Shot).md",
+    "Lands of the East/1. Player Characters/Mitsu.md",
+    "Lands of the East/7. Session Prep/Session 2.md",
+    "Lands of the East/7. Session Prep/Session 1 (One Shot).md",
+    "Lands of the East/7. Session Prep/Session 0.md",
+    "Lands of the East/7. Session Prep",
+    "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
+    "Lands of the East/6. Items/6.a Magic & Special Items",
+    "Lands of the East/6. Items",
+    "Lands of the East/4. NPCs/Master Roku (WIP).md",
+    "Attachments/totsuka-splashart.png",
+    "Attachments/nishikibe-splashart.png",
+    "Attachments/bombuku-splashart.png",
+    "Attachments/ryoko-splashart.png",
+    "Attachments/chuji-splashart.png",
+    "Lands of the East/1. Player Characters/Xhels.md",
     "Templates/Sly Flourish Session Planning Template.md",
     "Lands of the East/STORY & QUESTS/MAIN PLOTLINE/Wrath of the Kaiju.md",
     "Lands of the East/3. Locations/Yoakemori Village.md",
@@ -161,15 +176,6 @@
     "Lands of the East/5. Quests & Lore/5b. General Lore/Hanamori.md",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore",
     "Lands of the East/5. Quests & Lore/5b. General Lore",
-    "Lands of the East/5. Quests & Lore",
-    "Lands of the East/4. NPCs/VILLAINS/Izanmaru.md",
-    "Lands of the East/4. NPCs/Bombuku.md",
-    "Lands of the East/4. NPCs/Captain Totsuka.md",
-    "Lands of the East/4. NPCs/Nishikibe.md",
-    "Lands of the East/4. NPCs/Chuji Firestarter.md",
-    "Lands of the East/4. NPCs/Ryoko.md",
-    "Lands of the East/4. NPCs/VILLAINS",
-    "Lands of the East/4. NPCs",
-    "Templates/Player Character Template.md"
+    "Lands of the East/5. Quests & Lore"
   ]
 }
