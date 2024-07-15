@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East/1. Player Characters/Rin.md",
+                "file": "Lands of the East/4. NPCs/Renjiro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East/1. Player Characters/Rin.md"
+                "file": "Lands of the East/4. NPCs/Renjiro.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East/1. Player Characters/Rin.md",
+                "file": "Lands of the East/4. NPCs/Renjiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East/1. Player Characters/Rin.md",
+                "file": "Lands of the East/4. NPCs/Renjiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,6 +177,7 @@
   },
   "active": "6d59bab905d82dba",
   "lastOpenFiles": [
+    "Lands of the East/4. NPCs/Chuji Firestarter.md",
     "Lands of the East/4. NPCs/Renjiro.md",
     "Lands of the East/1. Player Characters/Rin.md",
     "Lands of the East/1. Player Characters/Ozai.md",
@@ -198,7 +199,6 @@
     "Lands of the East/5. Quests & Lore/5b. General Lore/Hanamori.md",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/Wrath of the Kaiju.md",
     "Lands of the East/4. NPCs/Ryoko.md",
-    "Lands of the East/4. NPCs/Chuji Firestarter.md",
     "Lands of the East/4. NPCs/VILLAINS/Izanmaru.md",
     "Lands of the East/2. Factions/Heirs of Kirin.md",
     "Templates/Player Character Template.md",
