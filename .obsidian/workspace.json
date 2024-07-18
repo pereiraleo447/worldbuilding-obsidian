@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East/4. NPCs/Renjiro.md",
+                "file": "Lands of the East/3. Locations/Kitsune no Sanko.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East/4. NPCs/Renjiro.md"
+                "file": "Lands of the East/3. Locations/Kitsune no Sanko.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East/4. NPCs/Renjiro.md",
+                "file": "Lands of the East/3. Locations/Kitsune no Sanko.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East/4. NPCs/Renjiro.md",
+                "file": "Lands of the East/3. Locations/Kitsune no Sanko.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,8 +177,9 @@
   },
   "active": "6d59bab905d82dba",
   "lastOpenFiles": [
-    "Lands of the East/4. NPCs/Chuji Firestarter.md",
     "Lands of the East/4. NPCs/Renjiro.md",
+    "Lands of the East/3. Locations/Kitsune no Sanko.md",
+    "Lands of the East/4. NPCs/Chuji Firestarter.md",
     "Lands of the East/1. Player Characters/Rin.md",
     "Lands of the East/1. Player Characters/Ozai.md",
     "Lands of the East/1. Player Characters/Mitsu.md",
@@ -211,7 +212,6 @@
     "Lands of the East/1. Player Characters",
     "Eldranos (Working Title)/5. LOCATIONS/ELDRANOS/Eldranos.md",
     "Solo D&D Campaign/Drada's Apothecary.md",
-    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Blue Scourge.md",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore",
     "Lands of the East/5. Quests & Lore",
     "Lands of the East/4. NPCs/VILLAINS",
