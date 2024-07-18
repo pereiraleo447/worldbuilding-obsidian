@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East/4. NPCs/Captain Totsuka.md",
+                "file": "Lands of the East/4. NPCs/Chuji Firestarter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd04bd780011b5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lands of the East/4. NPCs/VILLAINS/Izanmaru.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lands of the East/4. NPCs/Captain Totsuka.md",
+            "file": "Lands of the East/4. NPCs/VILLAINS/Izanmaru.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lands of the East/4. NPCs/Captain Totsuka.md",
+            "file": "Lands of the East/4. NPCs/VILLAINS/Izanmaru.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lands of the East/4. NPCs/Captain Totsuka.md"
+            "file": "Lands of the East/4. NPCs/VILLAINS/Izanmaru.md"
           }
         }
       }
@@ -134,8 +147,14 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b0985ccf945e9320",
+  "active": "dd04bd780011b5be",
   "lastOpenFiles": [
+    "Lands of the East/1. Player Characters/Chelsea.md",
+    "Lands of the East/4. NPCs/Renjiro.md",
+    "Lands of the East/2. Factions/Rising Blossoms.md",
+    "Lands of the East/4. NPCs/Chuji Firestarter.md",
+    "Lands of the East/4. NPCs/Master Roku (WIP).md",
+    "Lands of the East/4. NPCs/Captain Totsuka.md",
     "Lands of the East/4. NPCs/Bombuku.md",
     "Lands of the East/1. Player Characters/Rin.md",
     "Lands of the East/6. Session Prep/Session 1 (One Shot).md",
@@ -147,7 +166,6 @@
     "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
     "Lands of the East/6. Items/6.a Magic & Special Items",
     "Lands of the East/6. Items",
-    "Lands of the East/4. NPCs/Master Roku (WIP).md",
     "Attachments/totsuka-splashart.png",
     "Attachments/nishikibe-splashart.png",
     "Attachments/bombuku-splashart.png",
@@ -164,16 +182,11 @@
     "Lands of the East/1. Player Characters",
     "Lands of the East/2. Factions/Silk Purse.md",
     "Lands of the East/2. Factions/College of Hanabi.md",
-    "Lands of the East/2. Factions/Rising Blossoms.md",
     "Lands of the East/2. Factions/Heirs of Kirin.md",
     "Lands of the East/2. Factions/The Chroniclers.md",
     "Lands of the East/2. Factions",
     "Lands of the East/6. Session Prep/Session 2.md",
-    "Lands of the East/6. Session Prep/Session 0.md",
     "Lands of the East/6. Session Prep",
-    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/Wrath of the Kaiju.md",
-    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Blue Scourge.md",
-    "Lands of the East/5. Quests & Lore/5b. General Lore/Hanamori.md",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore",
     "Lands of the East/5. Quests & Lore/5b. General Lore",
     "Lands of the East/5. Quests & Lore"
