@@ -21,7 +21,7 @@ Status:
 - Carries the guilt for not being able to protect his family, especially his little sister [[Rin]].
 
 ***Appearance***
-- Write bullet points about the character's appearance, such as their physical attributes and the clothes they wear.
+- Renjiro is a tall, muscular kitsune with white hair and glowing, teal-tinted tattoos.
 
 ***Speech & Mannerisms***
 - Write bullet points about the character's speech and mannerisms, such as a particular accent or the sound of their voice.

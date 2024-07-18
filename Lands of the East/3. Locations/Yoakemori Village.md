@@ -23,7 +23,7 @@ Write a list of notable characters your players might come across. Make sure to 
 
 ## Akainu Tavern & Inn
 
-**Owner:** Harukamiko Nagayoshiki, Female Nishikin (boisterous, extroverted)
+**Owner:** Haruka Nagayoshiki, Female Nishikin (boisterous, extroverted)
 
 **Location:** In a corner of the main street, overlooking a brave-looking cleric statue. The street outside is crowded with shoppers.  
 
@@ -47,7 +47,7 @@ Other Patrons:
 
 ## Kami's Petunia General Store
 
-**Owner:** Yoshitakeda Nagayoshiki, Male Nishikin (flamboyant, extroverted)
+**Owner:** Yoshike Nagayoshiki, Male Nishikin (flamboyant, extroverted)
 
 **Location:** In a small alley. The street outside has a crowd watching performers.  
 

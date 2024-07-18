@@ -8,6 +8,7 @@
     "Status": "multitext",
     "Class": "text",
     "Date": "number",
-    "Players": "text"
+    "Players": "text",
+    "Notable Character(s)": "multitext"
   }
 }

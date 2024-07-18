@@ -12,7 +12,7 @@ Connections:
 
 - Rin's village was one of the earliest reported attacks attributed to the oni we now call the Blue Scourge, about 120 years ago.
 - She was the only survivor, and likely one of the first vendettas
-- She lost her entire family-- a mother, a father and an older brother, [[Renjiro]]-- and took refuge inside a [[Mitsu|hollowed out tree]].
+- She lost her entire family-- a mother, a father and an older brother, [[Renjiro (WIP)]]-- and took refuge inside a [[Mitsu|hollowed out tree]].
 - Player doc: [LINK](https://docs.google.com/document/d/1muT9i9AVnczkjHsu1Ih1E_O0SiQUlBLyMY9oy33D2dw/edit#heading=h.2of2mfkif5oh)
 
 # Relationships
@@ -24,4 +24,4 @@ Connections:
 - Family
 	- Natsumi (Mom)
 	- Masaru (Dad)
-	- [[Renjiro]] (Brother)
+	- [[Renjiro (WIP)]] (Brother)

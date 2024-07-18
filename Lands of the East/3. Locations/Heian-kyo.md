@@ -1,19 +1,16 @@
 ---
 Category:
   - Location
-  - Village
-Location: "[[Lands of the East]]"
-Affiliation(s):
-  - None
+  - City
+Location: 
+Affiliation(s): 
 Notable Character(s):
-  - "[[Rin]]"
-  - "[[Renjiro (WIP)]]"
 ---
 # Overview & History
 
 > *Write a short, evocative description about the place you’re creating.*
 
-Kitsune no Sanko was a secluded *kitsune* village hidden at the foot of a mountain. The village was one of the first reported victims of [[The Blue Scourge]]'s rampage.
+Write details about this place’s history including notable events, notable customs, 
 # Notable NPCs
 
 ***Example***
