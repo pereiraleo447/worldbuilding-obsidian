@@ -45,10 +45,6 @@ Realizing Nishikibe's connections could prove useful, the councilman bought his 
 - Nishikibe admires cunning, quick wit, and the ability to engage with his metaphors and wordplay. He favors people he can understand, because that way he can predict them.
 - He values people for the ways he can use them, ever-confident in his ability to stay one step ahead.
 
-![[Recording 20240720084222.webm]]
-
-![[Recording 20240720084227.webm]]
-
 ***Fears & Deterrents***
 - Nishikibe acts out in loyalty to his family, but fears that the actions he must take might change him. What would be the point in becoming the puppeteer if he's constantly looking over his shoulder?
 - To be in power is to be a target.
