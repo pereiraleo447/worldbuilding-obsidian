@@ -15,6 +15,7 @@ Status:
 # Overview
 - Thought to be dead, but actually survived. Is currently a vendetta for [[The Blue Scourge]].
 - The [[Heirs of Kirin]] took longer than expected to catch wind of the Blue Scourge's attack on Kitsune no Sanko due to the village's guarded nature. Once they arrived, [[Rin]] was already gone and Renjiro was the only surviving fox, buried in the rubble under his dad's corpse.
+- He worked with the Heirs for a while, but his rage quickly led him to joining the [[Rising Blossoms]] and climbing the ranks.
 
 ***Personality*** 
 - Serious and vindictive, Renjiro's experience has changed him forever.
@@ -22,6 +23,8 @@ Status:
 
 ***Appearance***
 - Renjiro is a tall, muscular kitsune with white hair and glowing, teal-tinted tattoos.
+- Digitigrade legs
+- 
 
 ***Speech & Mannerisms***
 - Write bullet points about the character's speech and mannerisms, such as a particular accent or the sound of their voice.

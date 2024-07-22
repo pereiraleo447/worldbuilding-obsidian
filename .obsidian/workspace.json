@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East/4. NPCs/4a. Villains/Nishikibe.md",
+                "file": "Lands of the East/4. NPCs/4b. Major NPCs/Renjiro (WIP).md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 281.5,
+    "collapsed": true
   },
   "right": {
     "id": "139dcd4bd22d0dba",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East/4. NPCs/4a. Villains/Nishikibe.md"
+                "file": "Lands of the East/4. NPCs/4b. Major NPCs/Renjiro (WIP).md"
               }
             }
           },
@@ -95,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East/4. NPCs/4a. Villains/Nishikibe.md",
+                "file": "Lands of the East/4. NPCs/4b. Major NPCs/Renjiro (WIP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East/4. NPCs/4a. Villains/Nishikibe.md",
+                "file": "Lands of the East/4. NPCs/4b. Major NPCs/Renjiro (WIP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,11 +178,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d249137ae9f4415b",
+  "active": "6d59bab905d82dba",
   "lastOpenFiles": [
+    "Lands of the East/4. NPCs/4a. Villains/Nishikibe.md",
     "Recording 20240720093121.webm",
     "Recording 20240720084227.webm",
-    "Lands of the East/4. NPCs/4a. Villains/Nishikibe.md",
     "Recording 20240720084222.webm",
     "Lands of the East/4. NPCs/4b. Major NPCs/Bombuku.md",
     "Lands of the East/7. Session Prep/Session 1 (One Shot).md",
@@ -219,7 +220,6 @@
     "Lands of the East/5. Quests & Lore/5b. General Lore",
     "Lands of the East/1. Player Characters",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore",
-    "Lands of the East/5. Quests & Lore",
     "Lands of the East (Working Title)/Plot Web.canvas",
     "Untitled.canvas",
     "Attachments/yoakemori_village.png",
