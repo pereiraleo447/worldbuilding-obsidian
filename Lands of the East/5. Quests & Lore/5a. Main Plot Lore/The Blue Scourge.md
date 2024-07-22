@@ -5,13 +5,14 @@ ___
 
 # Background
 
-[[Izanmaru|Izanmaru, the Blue Scourge]] is a lone oni that terrorizes the countryside. Once a loyal and honorable human warrior, Izanmaru was the head of the Kagehana clan-- an independent warrior tribe with ties to the [[Rising Blossoms]] that dedicated themselves to protecting the weak and downtrodden. Known for his strategic brilliance and viciousness in the battlefield, Izanmaru was revered by his comrades and feared by his enemies. However, within the halls of the clan, the seed of greed festered. The Silk Purse caught wind of their relationship with the rebels, and as sizeable as the Kagehana clan was, it's hard to make money when over half your labor is provided *pro bono*. Three people was all it took-- a watchmen, who suddenly fell asleep at his gateside post; a patrol, who only had to overlook [[Nishikibe|a single stranger]] inside their camp; and Izanmaru's wife, who was just sick of living in mediocrity and wanted a grand life in the capital. Betrayed by those he once called family, Izanmaru was left for dead in the aftermath of a brutal coup. His home was taken, his honor shattered, and his heart consumed by a fire that no mortal means could extinguish.
+[[Izanmaru|Izanmaru, the Blue Scourge]] is a lone oni that terrorizes the countryside. 
 
-As he lay dying, the cold, unrelenting rage within him grew stronger. In his grief and sorrow, he gladly embraced it. It wasn't long before he was completely consumed by his need for retribution, and this is when his transformation begins. He vowed to cast aside all other feelings-- his revenge was all that mattered now-- and in doing so, Izanmaru was reborn as an oni scourge, his body engulfed in pale blue flames that symbolized his undying fury. Now known as the Blue Scourge, Izanmaru roams the countryside, leaving a trail of destruction in his wake. Entire villages are reduced to ashes, their inhabitants slaughtered, save for one or two deliberately spared. These remnants become his *vendettas*-- living phylacteries, unknowingly carrying a piece of his soul within their hatred, fueling his dark magic and ensuring his eventual rebirth should he fall in battle.
+- Lawful Evil
+- Terrorizes villages to breed strong warriors. Through seeking revenge on him, Izanmaru hopes that his vendettas will pursue ever-growing power, at which point he will either offer or attempt to forcefully conscript them to his Death March.
 
 # Scenes and Encounters
 
 - [ ] The players hear rumors about yet another village attacked by the Blue Scourge. The [[Heirs of Kirin]] are eager to help, but are stretched way beyond thin. They are offering compensation to any adventurers willing to travel to the village, recon for survivors and escort them to safety.
 
-- [ ] The [[Rising Blossoms]] mount a large-scale effort to capture the oni.
+- [ ] The [[Rising Blossoms]] mount a large-scale effort to work with the oni.
 	- [ ] If successful, they will attempt to harness his rage to execute an attempt at a coup. Mobilizing all their available resources, they will attempt to infiltrate and overturn the [[Silk Purse]] higher-ups stationed in [[Heian-kyo]].

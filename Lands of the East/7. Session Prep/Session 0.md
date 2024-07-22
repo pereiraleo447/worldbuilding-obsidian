@@ -11,7 +11,9 @@
 - ***A Window to the Past.*** A burgeoning branch of divination magic called Historiomancy is on the rise. Pioneered by [[The Chroniclers]], it allows the caster to peer into the past, uncovering the truth behind events. Originally conceived as a way to aid Chroniclers in their effort to record history without bias, it wasn't long before historiomancers were dispatched to all corners of the Lands of the East in an effort to uncover secrets previously relegated to undiscoverable mysteries. Thanks to them, many innocent prisoners have been freed, and guilty nobles have been brought to justice. Now, the Chroniclers are on the path to investigate the strange happenings plaguing the Lands– particularly the kaiju– and are looking for as much assistance as they can recruit.
 ## Villain(s)
 
-[[Izanmaru|Izamaru, the Blue Scourge]]
+- Izanmaru, [[The Blue Scourge]]
+- [[Nishikibe]]
+- [[Silk Purse]]
 
 ## Character Options and House Rules
 
