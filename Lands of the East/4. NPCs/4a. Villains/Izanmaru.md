@@ -28,7 +28,8 @@ Status:
 - Write bullet points about the character's speech and mannerisms, such as a particular accent or the sound of their voice.
 
 ***Desires & Motives***
-- To destroy the kingdom that
+- Izanmaru's ultimate goal is to ascend to godhood...?
+	- 
 
 ***Fears & Deterrents***
 - Write bullet points about the character's fears and deterrents, such as things that scare them or that they're hesitant about.
