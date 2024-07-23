@@ -22,6 +22,8 @@ Player(s):
 ## Strong Start  
   
 The party finds themselves traveling the Great East-West Road, having accepted a rescue commission from Sueko. The remnants of the setting sun bathe the landscape in dappled streaks, and the subtle chill of the night air makes itself known. At a fork in the road, where the main trail offshoots deeper into the bramble, the party hears a rustling in the bushes...
+
+The party accepted a simple job comission on a nearby village, only to 
   
 ## Scenes  
 

@@ -1,22 +1,16 @@
 ---
 Category:
   - NPC
-Race: Oniborne
-Affiliation(s):
-  - "[[Rising Blossoms]]"
-  - "[[The Blue Scourge]]"
-1st Quest Driver: Morality
+Race: 
+Affiliation(s): 
+1st Quest Driver: 
 2nd Quest Driver: 
-Connections:
-  - "[[Renjiro (WIP)]]"
+Connections: 
 Status:
-  - Undead
 ---
 
 # Overview
-- Izanmaru is a lich, leader of the Blue Scourge death march. 
-- He conscripts warriors to his band by slaying them in battle and resurrecting them under his command as undead
-- Forcefully connscripted by nishikibe
+Write a short paragraph about who this character is.
 
 ***Personality*** 
 - Write bullet points about the character's personality.
@@ -28,7 +22,7 @@ Status:
 - Write bullet points about the character's speech and mannerisms, such as a particular accent or the sound of their voice.
 
 ***Desires & Motives***
-- To destroy the kingdom that
+- Write bullet points about the character's desires and motives, such as a particular goal they want to accomplish or an underlying reason behind their current pursuits.
 
 ***Fears & Deterrents***
 - Write bullet points about the character's fears and deterrents, such as things that scare them or that they're hesitant about.

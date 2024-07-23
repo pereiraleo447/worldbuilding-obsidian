@@ -30,4 +30,4 @@ Write a short paragraph about who this character is.
 # Relationships
 
 ***Example***
-- Write bullet points about the character's relationships with other characters, factions, etc.
+- Write bullet points about the character's relationships with other characters, factions, etc. 
