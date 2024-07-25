@@ -8,11 +8,12 @@ ___
 [[Izanmaru|Izanmaru, the Blue Scourge]] is a lone oni that terrorizes the countryside. 
 
 - Lawful Evil
-- Terrorizes villages to breed strong warriors. Through seeking revenge on him, Izanmaru hopes that his vendettas will pursue ever-growing power, at which point he will either offer or attempt to forcefully conscript them to his Death March.
+- Terrorizes villages to breed strong warriors. Through seeking revenge on him, Izanmaru hopes that his vendettas will pursue ever-growing power, at which point he will either propose an offer or forcefully conscript them to his death march.
 
+# Izanmaru's Plan
+
+- The Blue Scourge's ultimate goal is to mount a large scale assault on the capital, eliminating all who stand in his way.
+- Everyone he's slain houses a piece of his soul, and can thus be resurrected into his death march. However, his magical capabilities are currently limited, so he selects the strongest warriors to conscript and leaves the rest of the bodies as sleeper agents, waiting for the moment of his final reckoning.
 # Scenes and Encounters
 
 - [ ] The players hear rumors about yet another village attacked by the Blue Scourge. The [[Heirs of Kirin]] are eager to help, but are stretched way beyond thin. They are offering compensation to any adventurers willing to travel to the village, recon for survivors and escort them to safety.
-
-- [ ] The [[Rising Blossoms]] mount a large-scale effort to work with the oni.
-	- [ ] If successful, they will attempt to harness his rage to execute an attempt at a coup. Mobilizing all their available resources, they will attempt to infiltrate and overturn the [[Silk Purse]] higher-ups stationed in [[Heian-kyo]].
