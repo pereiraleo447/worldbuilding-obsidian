@@ -13,7 +13,7 @@ Status:
 ---
 
 # Overview
-- Thought to be dead, but actually survived. Is currently a vendetta for [[The Blue Scourge]].
+- Thought to be dead, but actually survived. Was spared by the Blue Scourge.
 - The [[Heirs of Kirin]] took longer than expected to catch wind of the Blue Scourge's attack on Kitsune no Sanko due to the village's guarded nature. Once they arrived, [[Rin]] was already gone and Renjiro was the only surviving fox, buried in the rubble under his dad's corpse.
 - He worked with the Heirs for a while, but his unrelenting rage quickly led him to joining the [[Rising Blossoms]] and climbing the ranks.
 
