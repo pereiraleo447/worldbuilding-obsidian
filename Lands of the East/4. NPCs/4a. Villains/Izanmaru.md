@@ -37,5 +37,5 @@ Status:
 
 # Relationships
 
-***Example***
+***[[Master Roku (WIP)]]***
 - Write bullet points about the character's relationships with other characters, factions, etc.
