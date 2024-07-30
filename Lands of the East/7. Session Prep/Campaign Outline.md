@@ -1,4 +1,4 @@
-# Act I (Lvl 1-6)
+# Act I (Lvl 1-5)
 
 ## Intro
 
@@ -16,7 +16,7 @@
 
 - Izanmaru achieves true lichdom, and retreats to prepare his final assault.
 
-# Act II (Lvl 6-12)
+# Act II (Lvl 5-8)
 
 # Intro
 
@@ -35,4 +35,4 @@
 
 # Point of No Return
 
-# Act III (Lvl 12-15ish)
+# Act III (Lvl 8-10ish)

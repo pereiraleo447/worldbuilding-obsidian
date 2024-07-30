@@ -13,7 +13,7 @@ ___
 # Izanmaru's Plan
 
 - The Blue Scourge's ultimate goal is to mount a large scale assault on the capital, eliminating all who stand in his way.
-- Everyone he's slain houses a piece of his soul, and can thus be resurrected into his death march. However, his magical capabilities are currently limited, so he selects the strongest warriors to conscript and leaves the rest of the bodies as sleeper agents, waiting for the moment of his final reckoning.
+	- Everyone he's slain houses a piece of his soul, and can thus be resurrected into his death march. However, his magical capabilities are currently limited, so he selects the strongest warriors to conscript and leaves the rest of the bodies as sleeper agents, waiting for the moment of his final reckoning.
 # Scenes and Encounters
 
 - [ ] The players hear rumors about yet another village attacked by the Blue Scourge. The [[Heirs of Kirin]] are eager to help, but are stretched way beyond thin. They are offering compensation to any adventurers willing to travel to the village, recon for survivors and escort them to safety.
