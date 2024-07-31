@@ -4,10 +4,6 @@ Player(s):
 ---
 
 ## Overview
-
-
-> [!abstract] Premise
- Yoakemori Village lives in a prosperous valley east of Heian-kyo and has been blessed with good harvests and protection for generations, but recently, a shadow has fallen over the town. The village's warding stones were inadvertently broken by a handful of village youths, and evil *yokai* have crept upriver. This culminated in two villagers strangled to death by a *kappa* in the riverbank. Hoping to avoid drawing officials, and because his own son is thought to be responsible for breaking the ward, the town headman has refused to ask for outside help. Meanwhile Chiyo, one of the other kids responsible for breaking the warding stones, decided to make the trek downstream to repair it, and got herself kidnapped by bullywugs. Now, her distraught grandmother has secretly posted a rescue ad to the adventurer's guild in hopes that someone would come to their aid.
  
  
 
@@ -21,9 +17,7 @@ Player(s):
   
 ## Strong Start  
   
-The party finds themselves traveling the Great East-West Road, having accepted a rescue commission from Sueko. The remnants of the setting sun bathe the landscape in dappled streaks, and the subtle chill of the night air makes itself known. At a fork in the road, where the main trail offshoots deeper into the bramble, the party hears a rustling in the bushes...
-
-The party accepted a simple job comission on a nearby village, only to 
+What was supposed to be a simple delivery job for money turned out to be much more complicated. The sleepy countryside town that was supposed to be your destination is now covered in blue flames and smoke.
   
 ## Scenes  
 
