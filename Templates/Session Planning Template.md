@@ -1,3 +1,8 @@
+---
+Date: 
+Players:
+---
+
 # Characters  
   
 **Name.** Description.  
