@@ -123,19 +123,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "calendarium:Open Calendarium": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-5e-statblocks:Open Creature pane": false
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
     }
   },
   "active": "dd04bd780011b5be",
   "lastOpenFiles": [
+    "Lands of the East/3. Locations/3b. Minor Locations/Aohi Village.md",
+    "Lands of the East/3. Locations/3b. Minor Locations",
+    "Lands of the East/3. Locations/3a. Major Locations/Yoakemori Village.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Heian-kyo.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Lands of the East.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Kitsune no Sanko.md",
+    "Lands of the East/3. Locations/3a. Major Locations",
+    "Lands of the East/4. NPCs/4c. Minor NPCs/Koutarou.md",
+    "Templates/Session Planning Template.md",
     "Lands of the East/4. NPCs/4b. Major NPCs/Renjiro (WIP).md",
     "Lands of the East/7. Session Prep/Campaign Outline.md",
     "Lands of the East/4. NPCs/4b. Major NPCs/Nishikibe.md",
@@ -158,13 +168,6 @@
     "Lands of the East/4. NPCs/VILLAINS/Izanmaru.md",
     "Lands of the East/1. Player Characters/Chelsea.md",
     "Lands of the East/4. NPCs/Renjiro.md",
-    "Lands of the East/2. Factions/Rising Blossoms.md",
-    "Lands of the East/4. NPCs/Chuji Firestarter.md",
-    "Lands of the East/4. NPCs/Master Roku (WIP).md",
-    "Lands of the East/4. NPCs/Captain Totsuka.md",
-    "Lands of the East/4. NPCs/Bombuku.md",
-    "Lands of the East/1. Player Characters/Rin.md",
-    "Lands of the East/6. Session Prep/Session 1 (One Shot).md",
     "Lands of the East/7. Session Prep",
     "Lands of the East/6. Items/6.a Magic & Special Items",
     "Lands of the East/6. Items",
@@ -174,8 +177,6 @@
     "Attachments/ryoko-splashart.png",
     "Attachments/chuji-splashart.png",
     "Lands of the East/3. Locations",
-    "Lands of the East/1. Player Characters",
-    "Lands of the East/2. Factions",
-    "Lands of the East/6. Session Prep"
+    "Lands of the East/1. Player Characters"
   ]
 }
