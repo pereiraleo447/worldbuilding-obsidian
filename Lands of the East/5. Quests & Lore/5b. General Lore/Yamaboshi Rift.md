@@ -1,0 +1,1 @@
+The Yamaboshi Rift is a giant magical 'scar' that cuts throgh the sky of the [[Yamaboshi Valley]]

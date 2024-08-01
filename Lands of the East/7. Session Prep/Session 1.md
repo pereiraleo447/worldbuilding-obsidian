@@ -17,6 +17,7 @@ Players:
   
 - [ ] As the first encounter ends, one of the surviving villagers pleads for the party to help her son [[Koutarou]], saying "He's fighting alone in there, please go help him."
 - [ ] As the party makes their way into the village proper, Koutarou is standing his ground against a few undead. While he's no pushover, its easy to tell he doesn't have combat experience. Regardless, he dispatches his foes and comes to meet the party.
+- [ ] (Final)
   
 # Secrets and Clues  
   

@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East/4. NPCs/4a. Villains/Izanmaru.md",
+                "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5671ea0a0b0d876",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Wrath of the Kaiju.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East/7. Session Prep/Session 1.md"
+                "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md"
               }
             }
           },
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East/7. Session Prep/Session 1.md",
+                "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East/7. Session Prep/Session 1.md",
+                "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,14 +214,18 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "ceebdefe603d5a70",
+  "active": "e8c19d6682e07524",
   "lastOpenFiles": [
-    "Lands of the East/4. NPCs/4a. Villains/Izanmaru.md",
-    "Lands of the East/7. Session Prep/Session 1.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Kitsune no Sanko.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Yoakemori Village.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+    "Lands of the East/5. Quests & Lore/5b. General Lore/Yamaboshi Rift.md",
     "Lands of the East/6. Items/6.a Magic & Special Items/McGuffin.md",
+    "Lands of the East/4. NPCs/4a. Villains/Izanmaru.md",
+    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Wrath of the Kaiju.md",
+    "Lands of the East/7. Session Prep/Session 1.md",
     "Lands of the East/3. Locations/3b. Minor Locations/Aohi Village.md",
     "Lands of the East/4. NPCs/4c. Minor NPCs/Koutarou.md",
-    "Lands of the East/3. Locations/3a. Major Locations/Yoakemori Village.md",
     "Lands of the East/3. Locations/3b. Minor Locations",
     "Lands of the East/3. Locations/3a. Major Locations",
     "Lands of the East/4. NPCs/4c. Minor NPCs/Masaru.md",
@@ -232,10 +249,6 @@
     "Lands of the East/3. Locations/3a. Major Locations/Heian-kyo.md",
     "Lands of the East/1. Player Characters/Ozai.md",
     "Lands of the East/1. Player Characters/Chelsea.md",
-    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Wrath of the Kaiju.md",
-    "Lands of the East/4. NPCs/4b. Major NPCs/Master Roku (WIP).md",
-    "Lands of the East/3. Locations/3a. Major Locations/Lands of the East.md",
-    "Lands of the East/3. Locations/3a. Major Locations/Kitsune no Sanko.md",
     "Lands of the East/6. Items/6.a Magic & Special Items",
     "Lands of the East/6. Items",
     "Attachments/bombuku-splashart.png",
