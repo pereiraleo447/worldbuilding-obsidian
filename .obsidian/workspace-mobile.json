@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+            "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+            "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md"
+            "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md"
           }
         }
       }
@@ -172,12 +172,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "3ab91338f20c5a9c",
+  "active": "bac5e112e7c0d545",
   "lastOpenFiles": [
+    "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
     "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
     "Lands of the East/7. Session Prep/Session 1.md",
     "Lands of the East/4. NPCs/4c. Minor NPCs/Koutarou.md",
-    "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
     "Lands of the East/5. Quests & Lore/5b. General Lore/Yamaboshi Rift.md",
     "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
     "Lands of the East/3. Locations/3b. Minor Locations/Aohi Village.md",
