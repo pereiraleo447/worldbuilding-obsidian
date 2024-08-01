@@ -21,19 +21,20 @@ Status:
 - Izanmaru is ruthless and pragmatic. He knows his methods are brutal, but he doesn't feel remorse. Power is the birthright of the strong; culling the weak is the natural path to claim it.
 
 ***Appearance***
-- Izanmaru is an anomaly among oniborne-- while most of them tend to be of similar height as the other humanoid races, the Blue Scourge towers over most people and is built like a truck.
-- He wears full samurai armor except for a helmet. He also wears an oni face mask and leaves his horns exposed, fully embracing his oni side as a show of power in an age where most oniborne are discriminated against.
 - His most distinguishing feature is the wreath of blue flame he dons almost full time, obscuring his face and leaving but the silhouette of his mask's features and white, glowing eyes.
+- He wears full samurai armor except for a helmet.
+- The flames that cover his body take shape in a form similar to Itachi's Susanoo: long pointy nose, glowing eyes. Except his form also has long pointy horns and short, flaming hair, like Ten Tails Obito
 
 ***Speech & Mannerisms***
-- Write bullet points about the character's speech and mannerisms, such as a particular accent or the sound of their voice.
+- Izanmaru speaks through telepathy
+- His voice booms and echoes in the targets mind, and causes uncanny discomfort.
 
 ***Desires & Motives***
 - Izanmaru's ultimate goal is to subjugate every other race to his rule. He believes that oniborne are superior, and is sickened by the way society discriminates against them.
 - He desires ultimate freedom for his people, by all means necessary.
 
 ***Fears & Deterrents***
-- Izanmaru does recognize that his actions have made life significantly worse for oniborne in the present, but is confident that once he establishes his rule, all oniborne will rejoice-- and the ones that don't will be put to the sword.
+- 
 
 # Relationships
 

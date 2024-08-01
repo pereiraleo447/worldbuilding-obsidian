@@ -25,7 +25,10 @@ Players:
   
 # Locations  
   
-**Location**: aspect, aspect, aspect  
+- Village Outskirts
+- Village Streets
+- Temple Courtyard
+- Temple Interior
   
 # Important NPCs  
   
@@ -45,7 +48,8 @@ Players:
 *  ***Meeting Koutarou (Combat/RP)***
 	* **Objective:** Help Koutarou defeat the undead attacking him
 	* **Enemies:** Zombies x2; Yellow Musk Zombie x1
-*  
+*  ***Village Streets (Roleplay)
+	* 
 *  
 # Treasure / Rewards  
   
