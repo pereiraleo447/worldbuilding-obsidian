@@ -32,7 +32,7 @@ Status:
 
 ***Desires & Motives***
 - Izanmaru's ultimate goal in the campaign is to tear open a rift to the Primordial plane. He wants to build up an army as powerful as possible and establish his own domain on the prime material plane.
-- To achieve that, he's collecting three ancient [[McGuffin|McGuffins]]. He's gonna use them to destabilize the [[Yamaboshi Rift]] and summon a Kaiju
+- To achieve that, he's collecting three ancient [[Primordial Remnant|McGuffins]]. He's gonna use them to destabilize the [[Yamaboshi Rift]] and summon a Kaiju
 
 ***Fears & Deterrents***
 - 

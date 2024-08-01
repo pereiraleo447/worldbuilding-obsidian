@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bac5e112e7c0d545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ab91338f20c5a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfa7c7280dc2d085",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lands of the East/4. NPCs/4c. Minor NPCs/Koutarou.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Lands of the East/7. Session Prep/Session 1.md",
+            "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Lands of the East/7. Session Prep/Session 1.md",
+            "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Lands of the East/7. Session Prep/Session 1.md"
+            "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md"
           }
         }
       }
@@ -135,10 +172,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "dd04bd780011b5be",
+  "active": "3ab91338f20c5a9c",
   "lastOpenFiles": [
-    "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
+    "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
     "Lands of the East/7. Session Prep/Session 1.md",
+    "Lands of the East/4. NPCs/4c. Minor NPCs/Koutarou.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+    "Lands of the East/5. Quests & Lore/5b. General Lore/Yamaboshi Rift.md",
+    "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
     "Lands of the East/3. Locations/3b. Minor Locations/Aohi Village.md",
     "Lands of the East/3. Locations/3b. Minor Locations",
     "Lands of the East/3. Locations/3a. Major Locations/Yoakemori Village.md",
@@ -146,7 +187,6 @@
     "Lands of the East/3. Locations/3a. Major Locations/Lands of the East.md",
     "Lands of the East/3. Locations/3a. Major Locations/Kitsune no Sanko.md",
     "Lands of the East/3. Locations/3a. Major Locations",
-    "Lands of the East/4. NPCs/4c. Minor NPCs/Koutarou.md",
     "Templates/Session Planning Template.md",
     "Lands of the East/4. NPCs/4b. Major NPCs/Renjiro (WIP).md",
     "Lands of the East/7. Session Prep/Campaign Outline.md",
@@ -164,10 +204,7 @@
     "Lands of the East/4. NPCs/4b. Major NPCs/Master Roku (WIP).md",
     "Lands of the East/4. NPCs/4b. Major NPCs",
     "Lands of the East/4. NPCs/4a. Villains/Nishikibe.md",
-    "Lands of the East/4. NPCs/4a. Villains/Izanmaru.md",
     "Lands of the East/4. NPCs/4a. Villains",
-    "Lands of the East/4. NPCs/VILLAINS/Izanmaru.md",
-    "Lands of the East/1. Player Characters/Chelsea.md",
     "Lands of the East/7. Session Prep",
     "Lands of the East/6. Items/6.a Magic & Special Items",
     "Lands of the East/6. Items",

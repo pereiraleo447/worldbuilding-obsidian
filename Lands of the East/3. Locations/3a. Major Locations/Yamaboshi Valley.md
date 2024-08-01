@@ -17,8 +17,8 @@ It's the place where the campaign takes place
 - Write a list of notable characters your players might come across. Make sure to link to their page for more info, if applicable.
 # Notable Places
 
-***Example***
- - Write notable places your players might wanna visit. This could include shops and stores, the local adventurer’s guild, local taverns and inns, as well as other distinct locations. Link to their page, if applicable.
+***Star Mountain***
+- A giant, looming mountain in the middle of the Hoshikizu Mountain Range. Called as such because people believed that it was so tall that whoever could reach the summit would be able to reach up and pierce the night sky. 
 
 # Notable Factions
 
