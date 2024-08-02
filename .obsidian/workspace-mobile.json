@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd04bd780011b5be",
+            "id": "bac5e112e7c0d545",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,36 +20,12 @@
             }
           },
           {
-            "id": "bac5e112e7c0d545",
+            "id": "259f0ebe140e5386",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ab91338f20c5a9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfa7c7280dc2d085",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lands of the East/4. NPCs/4c. Minor NPCs/Koutarou.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,9 +130,30 @@
             "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md"
           }
         }
+      },
+      {
+        "id": "7ec6ca5e7f6ace44",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_2afa49d82a98",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 1,
+                "month": 3,
+                "year": 1
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            },
+            "id": "ID_b919c8eb0a2a"
+          }
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,18 +169,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bac5e112e7c0d545",
+  "active": "259f0ebe140e5386",
   "lastOpenFiles": [
-    "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
-    "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
     "Lands of the East/7. Session Prep/Session 1.md",
-    "Lands of the East/4. NPCs/4c. Minor NPCs/Koutarou.md",
     "Lands of the East/5. Quests & Lore/5b. General Lore/Yamaboshi Rift.md",
+    "2024-08-02.md",
+    "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
+    "Lands of the East/4. NPCs/4c. Minor NPCs/Koutaro.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Heian-kyo.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
     "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
     "Lands of the East/3. Locations/3b. Minor Locations/Aohi Village.md",
     "Lands of the East/3. Locations/3b. Minor Locations",
     "Lands of the East/3. Locations/3a. Major Locations/Yoakemori Village.md",
-    "Lands of the East/3. Locations/3a. Major Locations/Heian-kyo.md",
     "Lands of the East/3. Locations/3a. Major Locations/Lands of the East.md",
     "Lands of the East/3. Locations/3a. Major Locations/Kitsune no Sanko.md",
     "Lands of the East/3. Locations/3a. Major Locations",
@@ -203,7 +201,6 @@
     "Lands of the East/4. NPCs/4b. Major NPCs/Ryoko.md",
     "Lands of the East/4. NPCs/4b. Major NPCs/Master Roku (WIP).md",
     "Lands of the East/4. NPCs/4b. Major NPCs",
-    "Lands of the East/4. NPCs/4a. Villains/Nishikibe.md",
     "Lands of the East/4. NPCs/4a. Villains",
     "Lands of the East/7. Session Prep",
     "Lands of the East/6. Items/6.a Magic & Special Items",

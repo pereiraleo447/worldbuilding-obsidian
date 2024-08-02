@@ -15,21 +15,20 @@ Players:
   
 # Scenes  
   
-- [ ] As the first encounter ends, one of the surviving villagers pleads for the party to help young [[Koutarou]], saying "He's fighting alone in there, please go help him. He’s gonna get himself killed."
-- [ ] As the party makes their way into the village proper, Koutarou is standing his ground against a few undead. While he's no pushover, its easy to tell he doesn't have combat experience. Regardless, he dispatches his foes and comes to meet the party.
-- [ ] (Final)
+- [ ] As the party makes their way into the village proper, Koutaro is standing his ground against a few undead. A group of survivors huddle together behind a few monks from the temple, who are fending off the undead as best they can. As soon as the party clears a path, the monks quickly escort the refugees out of town. It’s clear to see Koutaro doesn’t have combat experience, but he addresses the party confidently.
+- [ ] (Final) [[Izanmaru]], possessing the body of a shadow monk wrapped in stealthy robes, deals the final blow to Tenshin. When he notices the party, Izanmaru reanimates Tenshin’s corpse, steps back into the shadows, and disappears in it with the first [[Primordial Remnant]] . Master Tenshin’s corpse then attacks the party
   
 # Secrets and Clues  
   
-- [ ] Koutarou was out running errands for Master Lian when the commotion started. He doesn't know how it began, but the first building to catch fire was the temple. The undead creatures started appearing after that.
-- [ ] Master Lian is presumed to still be in the temple, fighting to protect the town's [[Primordial Remnant]]. He could solve all of this rather quickly, but the fact that he hasn't means he’s busy with something else. Koutarou wants to go rescue him ASAP to put a stop to this madness and prevent more people from getting killed.
+- [ ] Koutarou was out running errands for Master Tenshin when the commotion started. He doesn't know how it began, but the first building to catch fire was the temple. The undead creatures started appearing after that.
+- [ ] Master Tenshin is presumed to still be in the temple, fighting to protect the town's [[Primordial Remnant]]. He could solve all of this rather quickly, but the fact that he hasn't means he’s busy with something else. Koutarou wants to go rescue him ASAP to put a stop to this madness and prevent more people from getting killed.
   
 # Locations  
-  
-- Village Outskirts
+
 - Village Streets
 - Temple Courtyard
 - Temple Interior
+- Remnant Chamber
   
 # Important NPCs  
   
@@ -43,12 +42,9 @@ Players:
   
 # Monsters / Encounters  
   
-* ***Village Outskirts (Combat)***
+* ***Village Streets (Combat)***
 	* **Objective**: Defeat the zombies while protecting as many villagers as possible.
-	* **Enemies:** Zombies x3
-*  ***Meeting Koutarou (Combat/RP)***
-	* **Objective:** Help Koutarou defeat the undead attacking him
-	* **Enemies:** Zombies x2; Yellow Musk Zombie x1
+	* **Enemies:** Zombies x4; Yellow Musk Zombie x1
 *  ***Village Streets (Roleplay)
 	* A couple other monks and clerics are fending off the undead for a group of refugees. The road to the temple is blocked off 
 *  
