@@ -17,8 +17,8 @@ It's the place where the campaign takes place
 - Write a list of notable characters your players might come across. Make sure to link to their page for more info, if applicable.
 # Notable Places
 
-***Star Mountain***
-- A giant, looming mountain in the middle of the Hoshikizu Mountain Range. Called as such because people believed that it was so tall that whoever could reach the summit would be able to reach up and pierce the night sky. 
+***Starcleave Mountain***
+- A giant, cloud-piercing mountain in the middle of the Hoshikizu Mountain Range, cleaved in half by an ancient kaiju. People believe that it was so tall that whoever could reach the summit would be able to reach up and pierce the night sky. 
 
 # Notable Factions
 
