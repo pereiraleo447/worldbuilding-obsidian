@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md"
+                "file": "Lands of the East/7. Session Prep/Session 1.md"
               }
             }
           },
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+                "file": "Lands of the East/7. Session Prep/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+                "file": "Lands of the East/7. Session Prep/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,13 +201,14 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "e8c19d6682e07524",
+  "active": "ceebdefe603d5a70",
   "lastOpenFiles": [
+    "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+    "Lands of the East/5. Quests & Lore/5b. General Lore/Yamaboshi Rift.md",
+    "Lands of the East/4. NPCs/4c. Minor NPCs/Koutaro.md",
     "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
     "Lands of the East/3. Locations/3a. Major Locations/Kitsune no Sanko.md",
     "Lands of the East/3. Locations/3a. Major Locations/Yoakemori Village.md",
-    "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
-    "Lands of the East/5. Quests & Lore/5b. General Lore/Yamaboshi Rift.md",
     "Lands of the East/6. Items/6.a Magic & Special Items/McGuffin.md",
     "Lands of the East/4. NPCs/4a. Villains/Izanmaru.md",
     "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Wrath of the Kaiju.md",
@@ -236,7 +236,6 @@
     "Lands of the East/4. NPCs/4c. Minor NPCs",
     "Lands of the East/4. NPCs/4b. Major NPCs",
     "Lands of the East/3. Locations/3a. Major Locations/Heian-kyo.md",
-    "Lands of the East/1. Player Characters/Ozai.md",
     "Lands of the East/6. Items/6.a Magic & Special Items",
     "Lands of the East/6. Items",
     "Attachments/bombuku-splashart.png",

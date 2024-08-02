@@ -18,7 +18,7 @@ It's the place where the campaign takes place
 # Notable Places
 
 ***Starcleave Mountain***
-- A giant, cloud-piercing mountain in the middle of the Hoshikizu Mountain Range, cleaved in half by an ancient kaiju. People believe that it was so tall that whoever could reach the summit would be able to reach up and pierce the night sky. 
+- A giant, cloud-piercing mountain in the middle of the Hoshikizu mountain range, cleaved in half by an ancient kaiju. People believe that it was so tall that whoever could reach the summit would be able to reach up and pierce the night sky. 
 
 # Notable Factions
 
