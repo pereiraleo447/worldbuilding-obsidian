@@ -1,0 +1,216 @@
+{
+  "main": {
+    "id": "7868dfd2cea65445",
+    "type": "split",
+    "children": [
+      {
+        "id": "3adc8c6e62473e9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bac5e112e7c0d545",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lands of the East/7. Session Prep/Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "259f0ebe140e5386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7b0f52afbb31715",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dc1f643beec761a4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "e35b2b15b1a220ae",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "1f37a7ddb0401fd3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ac643d2b4441f2b7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "37301645514e858f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "094c450f23ac402c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a67d541cb9ec53b0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1dbb0c7d63d3f618",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md"
+          }
+        }
+      },
+      {
+        "id": "7ec6ca5e7f6ace44",
+        "type": "leaf",
+        "state": {
+          "type": "CALENDARIUM",
+          "state": {
+            "calendar": "ID_2afa49d82a98",
+            "ephemeral": {
+              "viewState": 1,
+              "displaying": {
+                "day": 1,
+                "month": 3,
+                "year": 1
+              },
+              "displayDayNumber": false,
+              "displayMoons": true
+            },
+            "id": "ID_b919c8eb0a2a"
+          }
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "259f0ebe140e5386",
+  "lastOpenFiles": [
+    "Lands of the East/7. Session Prep/Session 1.md",
+    "Lands of the East/5. Quests & Lore/5b. General Lore/Yamaboshi Rift.md",
+    "2024-08-02.md",
+    "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnant.md",
+    "Lands of the East/4. NPCs/4c. Minor NPCs/Koutaro.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Heian-kyo.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
+    "Lands of the East/6. Items/6.a Magic & Special Items/Untitled.md",
+    "Lands of the East/3. Locations/3b. Minor Locations/Aohi Village.md",
+    "Lands of the East/3. Locations/3b. Minor Locations",
+    "Lands of the East/3. Locations/3a. Major Locations/Yoakemori Village.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Lands of the East.md",
+    "Lands of the East/3. Locations/3a. Major Locations/Kitsune no Sanko.md",
+    "Lands of the East/3. Locations/3a. Major Locations",
+    "Templates/Session Planning Template.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Renjiro (WIP).md",
+    "Lands of the East/7. Session Prep/Campaign Outline.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Nishikibe.md",
+    "Lands of the East/7. Session Prep/Campaign Planner.md",
+    "Lands of the East/4. NPCs/4c. Minor NPCs/Masaru.md",
+    "Lands of the East/4. NPCs/4c. Minor NPCs",
+    "Lands of the East/3. Locations/Heian-kyo.md",
+    "Lands of the East/3. Locations/Kitsune no Sanko.md",
+    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Wrath of the Kaiju.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Bombuku.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Captain Totsuka.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Chuji Firestarter.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Ryoko.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Master Roku (WIP).md",
+    "Lands of the East/4. NPCs/4b. Major NPCs",
+    "Lands of the East/4. NPCs/4a. Villains",
+    "Lands of the East/7. Session Prep",
+    "Lands of the East/6. Items/6.a Magic & Special Items",
+    "Lands of the East/6. Items",
+    "Attachments/totsuka-splashart.png",
+    "Attachments/nishikibe-splashart.png",
+    "Attachments/bombuku-splashart.png",
+    "Attachments/ryoko-splashart.png",
+    "Attachments/chuji-splashart.png",
+    "Lands of the East/3. Locations",
+    "Lands of the East/1. Player Characters"
+  ]
+}
