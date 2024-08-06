@@ -1,3 +1,3 @@
 The Yamaboshi Rift is a giant magical 'scar' that cuts through the sky of the [[Yamaboshi Valley]]. It’s the result of a planar fissure between the prime material plane and the primordial plane, when ancient emperors attempted to summon a massive kaiju to use as a weapon of war. Primordial energy flooded through the rift in massive amounts— an event that became known as The Flood—, which permanently damaged the veil between the two planes, leaving a sort of ‘magical scar’ in the atmosphere. This scar manifests itself in the sky above the valley, looking like a massive, ever-shifting celestial cluster.
 
-[[Yamaboshi Valley#Notable Places|Starcleave Mountain]]
+See also: [[Yamaboshi Valley#Notable Places|Starcleave Mountain]]
