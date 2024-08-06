@@ -197,7 +197,6 @@
       "command-palette:Open command palette": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
-      "audio-recorder:Start/stop recording": false,
       "calendarium:Open Calendarium": false
     }
   },
