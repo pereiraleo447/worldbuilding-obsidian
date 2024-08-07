@@ -25,6 +25,7 @@ Status:
 ***Appearance***
 - He wears full samurai armor except for a helmet.
 - The flames that cover his body take shape in a form similar to Itachi's Susanoo: long pointy nose, glowing eyes. Except his form also has long pointy horns and short, flaming hair, like Ten Tails Obito
+- Wears the ***Armour of the Oni King*** (from Ryoko's)
 
 ***Speech & Mannerisms***
 - Izanmaru can use his thrall's bodies to speak in a slightly distorted version of their own voice, but his main vessel only speaks through telepathy.
@@ -32,7 +33,7 @@ Status:
 
 ***Desires & Motives***
 - Izanmaru's ultimate goal in the campaign is to tear open a rift to the Primordial plane. He wants to build up an army as powerful as possible and establish his own domain on the prime material plane.
-- To achieve that, he's collecting three ancient [[Primordial Remnant|McGuffins]]. He's gonna use them to destabilize the [[Yamaboshi Rift]] and summon a Kaiju
+- To achieve that, he's collecting three ancient [[Primordial Remnants|McGuffins]]. He's gonna use them to destabilize the [[Yamaboshi Rift]] and summon a Kaiju
 
 ***Fears & Deterrents***
 - 
@@ -41,3 +42,4 @@ Status:
 
 ***[[Master Roku (WIP)]]***
 - Write bullet points about the character's relationships with other characters, factions, etc.
+

@@ -2,10 +2,10 @@
 
 ## Intro
 
-- The party stumbles upon a village, engulfed in flames and under assault by its own inhabitants. Something seems to be driving them mad.
+- The party stumbles upon a village, engulfed in blue flames and under assault by the undead. [[Izanmaru]] has come for the first half 
 ## Inciting Incident
 
-- The flames engulfing the village turn from blood red to pale blue, and the corpses of the slain rise once again in undeath, a cold flame burning in their sockets. [[Izanmaru]] has arrived to claim his prize, and the party must find a way out alive.
+- Izanmaru steals the first half of the [[Primordial Remnants#Compass of The Cascade|Compass of the Cascade]] from [[Aohi Village]] and sets off on his journey to claim the Primordial Remnants 
 ## Trial A
 
 ## Trial B

@@ -2,16 +2,24 @@ Primordial Remnants are ancient kaiju relics of great power, left to the world b
 
 Izanmaru hopes to use them to destabilize the [[Yamaboshi Rift]]-- a giant magical scar that cuts the sky of the [[Yamaboshi Valley]]— and summon a powerful kaiju under his thrall.
 
-# Compass of Desire
+# Compass of The Cascade
 
-- A spirit compass that can guide its owner to anything they truly desire. (From Ryoko’s)
-- Was being safeguarded by [[Koutaro]]'s master, Master Tenshin, in [[Aohi Village]].
-# Relic #2
+- A spirit compass that while not a primordial remnant in itself, can guide its owner to them. Constructed by a greedy wizard lookin to harvest the power of the remnants, it was sealed in [[Aohi Village]].
+- Was being safeguarded by [[Koutaro]]'s master, Tenshin, in [[Aohi Village]]. Subsequently stolen by [[Izanmaru]].
+
+# Hakuryo Valley Map
+
+- A map that helps navigate the Hakuryo Valley, a mythical dimension that belongs to [[Bakuryо̄, the Ascendant Cascade]]
+# Raiko's Thunderspear
 
 - Currently being studied by Professor [[Bombuku]] of the College of Hanabi, located in [[Heian-kyo|the capital]].
+- Can summon Raiko
 
-# Relic #3
+# Iminada's
 
 - Safeguarded by [[The Chroniclers]] in a vault on [[Oshimi Island]]
 
-# Relic #4
+# Nomi's
+
+- Currently safeguarded by [[Captain Totsuka]]
+
