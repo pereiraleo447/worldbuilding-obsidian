@@ -9,7 +9,7 @@ Izanmaru hopes to use them to destabilize the [[Yamaboshi Rift]]-- a giant magic
 
 # Hakuryo Valley Map
 
-- A map that helps navigate the Hakuryo Valley, a mythical dimension that belongs to [[Bakuryо̄, the Ascendant Cascade]]
+- A map that helps navigate the Hakuryo Valley, a mythical dimension ruled by [[Bakuryо̄, the Ascendant Cascade]]
 # Raiko's Thunderspear
 
 - Currently being studied by Professor [[Bombuku]] of the College of Hanabi, located in [[Heian-kyo|the capital]].

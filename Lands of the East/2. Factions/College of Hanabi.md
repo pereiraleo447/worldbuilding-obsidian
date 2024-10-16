@@ -13,8 +13,8 @@ Notable Character(s): "[[Bombuku]]"
 ---
 ---
 # Overview
-```ad-quote
-*"A step, no matter how small, is progress."*
+``` ad-quote
+"A step, no matter how small, is progress."
 
 ```
 
