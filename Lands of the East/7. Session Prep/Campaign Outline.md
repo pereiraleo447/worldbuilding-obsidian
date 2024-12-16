@@ -14,7 +14,7 @@
 
 ## Point of No Return
 
-- Izanmaru achieves true lichdom, and retreats to prepare his final assault.
+- Izanmaru makes an attempt on the Phoenix’s life. If successful, he retreats with the kaiju’s corpse and resurrects it under his thrall
 
 # Act II (Lvl 5-8)
 
