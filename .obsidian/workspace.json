@@ -8,49 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ceebdefe603d5a70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Call of Cthulhu/Dissociation/Dissociation One-Shot Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dissociation One-Shot Prep"
-            }
-          },
-          {
-            "id": "f970170722ad49df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Call of Cthulhu/Dissociation/Dissociation One-Shot Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dissociation One-Shot Prep"
-            }
-          },
-          {
             "id": "e5671ea0a0b0d876",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Wrath of the Kaiju.md",
+                "file": "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnants.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Wrath of the Kaiju"
+              "title": "Primordial Remnants"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 350.5
   },
   "right": {
     "id": "139dcd4bd22d0dba",
@@ -224,8 +194,26 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f970170722ad49df",
+  "active": "e5671ea0a0b0d876",
   "lastOpenFiles": [
+    "Lands of the East/3. Locations/3a. Major Locations/Kaiju Locations/Oshimi Island.md",
+    "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnants.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/A Note On Kaiju.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Master Roku (WIP).md",
+    "Lands of the East/1. Player Characters/Ozai.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/Natori, the Everlasting Flame.md",
+    "Lands of the East/7. Session Prep/Campaign Outline.md",
+    "Lands of the East/7. Session Prep/Session 1.md",
+    "Lands of the East/7. Session Prep/Session 0.md",
+    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Wrath of the Kaiju.md",
+    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Blue Scourge.md",
+    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/Yamaboshi Rift.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/Raiko, Herald of the Storm.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/Nomi, the Quaking Earth.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/Iminada, the Sovereign Undead.md",
+    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/Bakuryо̄, the Ascendant Cascade.md",
+    "Lands of the East/4. NPCs/4a. Villains/Izanmaru.md",
+    "Call of Cthulhu/Dissociation/Dissociation One-Shot Prep.md",
     "Attachments/Untitled.png",
     "Attachments/totsuka-splashart.png",
     "Attachments/Untitled 1.png",
@@ -236,36 +224,18 @@
     "Attachments/Untitled 4.png",
     "Attachments/Wheatcroft.jpg",
     "Attachments/yoakemori_village.png",
-    "Attachments/return_of_the_lazy_dungeon_master_cover_wide.jpg",
-    "Call of Cthulhu/Dissociation/Dissociation One-Shot Prep.md",
-    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/The Wrath of the Kaiju.md",
-    "Lands of the East/6. Items/6.a Magic & Special Items/Primordial Remnants.md",
     "Call of Cthulhu/Dissociation",
     "Call of Cthulhu",
     "Lands of the East/2. Factions/Heirs of Kirin.md",
     "Lands of the East/2. Factions/College of Hanabi.md",
-    "Lands of the East/7. Session Prep/Campaign Outline.md",
-    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/Iminada, the Sovereign Undead.md",
-    "Lands of the East/3. Locations/3a. Major Locations/Kaiju Locations/Oshimi Island.md",
-    "Lands of the East/4. NPCs/4a. Villains/Izanmaru.md",
-    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/Nomi, the Quaking Earth.md",
     "Lands of the East/3. Locations/3a. Major Locations/Kaiju Locations/Kihoso.md",
     "Lands of the East/3. Locations/3a. Major Locations/Kaiju Locations/Hakuryo Valley.md",
     "Lands of the East/3. Locations/3a. Major Locations/Kaiju Locations/Tetsumine Basin.md",
     "Lands of the East/3. Locations/3a. Major Locations/Kaiju Locations",
-    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/Bakuryо̄, the Ascendant Cascade.md",
-    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/Raiko, Herald of the Storm.md",
-    "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju/A Note On Kaiju.md",
     "Lands of the East/4. NPCs/4b. Major NPCs/Kaiju",
-    "Lands of the East/5. Quests & Lore/5a. Main Plot Lore/Yamaboshi Rift.md",
     "Lands of the East/3. Locations/3a. Major Locations/Yoakemori Village.md",
     "Lands of the East/3. Locations/3a. Major Locations/Yamaboshi Valley.md",
     "Lands of the East/5. Quests & Lore/5b. General Lore/Hanamori.md",
-    "Lands of the East/7. Session Prep/Session 1.md",
-    "Lands of the East/4. NPCs/4c. Minor NPCs/Koutaro.md",
-    "Lands of the East/3. Locations/3b. Minor Locations/Kitsune no Sanko.md",
-    "Lands of the East/6. Items/6.a Magic & Special Items/McGuffin.md",
-    "Lands of the East/3. Locations/3b. Minor Locations/Aohi Village.md",
     "Lands of the East/3. Locations/3b. Minor Locations",
     "Lands of the East/3. Locations/3a. Major Locations",
     "Recording 20240720093121.webm",
