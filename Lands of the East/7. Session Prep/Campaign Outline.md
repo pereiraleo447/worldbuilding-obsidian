@@ -15,6 +15,7 @@
 ## Point of No Return
 
 - Izanmaru makes an attempt on the Phoenix’s life. If successful, he retreats with the kaiju’s corpse and resurrects it under his thrall
+- The party will fight off two or three of his generals— likely Rin’s parents + 1
 
 # Act II (Lvl 5-8)
 
