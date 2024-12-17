@@ -15,7 +15,6 @@ Notable Character(s): "[[Bombuku]]"
 # Overview
 ``` ad-quote
 "A step, no matter how small, is progress."
-
 ```
 
 The College of Hanabi is at the forefront of every major-- and minor-- technological and arcane advancement in the [[Lands of the East]]. Originally conceived as both a school and guild for pyrotechnicians, the school quickly grew beyond their original purpose, as its roster of alchemists, tinkerers and inventors alumni sought to harness explosiveness for means other than to dazzle and enchant. Before long, the college became a hub of invention and progress, with departments for metallurgy, chromamancy, and arcanomechanics at the forefront of magical and technological development.

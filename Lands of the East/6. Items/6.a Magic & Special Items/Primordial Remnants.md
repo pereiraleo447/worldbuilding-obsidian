@@ -2,7 +2,7 @@ Primordial Remnants are ancient kaiju relics of great power, left to the world b
 
 Izanmaru hopes to use them to destabilize the [[Yamaboshi Rift]]-- a giant magical scar that cuts the sky of the [[Yamaboshi Valley]]— and summon a powerful kaiju under his thrall.
 
-# Compass of The Cascade
+# Kaiju Compass
 
 - A spirit compass that while not a primordial remnant in itself, can guide its owner to them. Constructed by a greedy wizard lookin to harvest the power of the remnants, it was sealed in [[Aohi Village]].
 - Was being safeguarded by [[Koutaro]]'s master, Tenshin, in [[Aohi Village]]. Subsequently stolen by [[Izanmaru]].
