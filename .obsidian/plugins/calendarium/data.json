@@ -2,202 +2,183 @@
   "addToDefaultIfMissing": true,
   "calendars": [
     {
-      "name": "Placeholder",
-      "description": "Placeholder calendar based on the International Fixed Calendar",
-      "id": "ID_2afa49d82a98",
+      "name": "Yokai Calendar",
+      "description": "LotE Placeholder calendar",
+      "id": "ID_1b7b589ab92a",
       "showIntercalarySeparately": true,
       "static": {
         "incrementDay": false,
-        "firstWeekDay": 0,
+        "firstWeekDay": 6,
         "overflow": true,
         "weekdays": [
           {
             "type": "day",
             "name": "Monday",
-            "id": "ID_582a4a1b7ada"
+            "id": "ID_88cb9b2bfb19"
           },
           {
             "type": "day",
-            "name": "Twelvesday",
-            "id": "ID_7ae92a094aaa"
+            "name": "Tuesday",
+            "id": "ID_5a6baac89b18"
           },
           {
             "type": "day",
-            "name": "Midsday",
-            "id": "ID_3bca080a4b69"
+            "name": "Wednesday",
+            "id": "ID_e91b09794b79"
           },
           {
             "type": "day",
-            "name": "Thersday",
-            "id": "ID_883bcadaaac8"
+            "name": "Thursday",
+            "id": "ID_ebabc80a88db"
           },
           {
             "type": "day",
-            "name": "Firday",
-            "id": "ID_3adb2b891818"
+            "name": "Friday",
+            "id": "ID_f8ebcbdb598a"
           },
           {
             "type": "day",
-            "name": "Starday",
-            "id": "ID_cb4ab9a8aa58"
+            "name": "Saturday",
+            "id": "ID_eb990bf818f9"
           },
           {
             "type": "day",
             "name": "Sunday",
-            "id": "ID_8b8b4b9ac948"
+            "id": "ID_29e878c8eb0b"
           }
         ],
         "months": [
           {
             "type": "month",
-            "name": "Janus",
+            "name": "First Month of Spring",
             "length": 28,
-            "id": "ID_491a4af92a29",
+            "id": "ID_b87938db9ae8",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Ferus",
+            "name": "Second Month of Spring",
             "length": 28,
-            "id": "ID_f9199bca2a3a",
+            "id": "ID_4a6998fb89a9",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Mertz",
+            "name": "Third Month of Spring",
             "length": 28,
-            "id": "ID_ebca292ac90a",
+            "id": "ID_392999cb384b",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Auril",
+            "name": "First Month of Summer",
             "length": 28,
-            "id": "ID_681bf8c8a9ca",
+            "id": "ID_9989da6a596b",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "May",
+            "name": "Second Month of Summer",
             "length": 28,
-            "id": "ID_ca9b895bcaf9",
+            "id": "ID_880a6b2bb91b",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Juun",
+            "name": "Third Month of Summer",
             "length": 28,
-            "id": "ID_2bd9bbc8e928",
+            "id": "ID_e9382a8a2a2b",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Sol",
+            "name": "First Month of Fall",
             "length": 28,
-            "id": "ID_d8ba9a7bc92a",
+            "id": "ID_e87858eb1b29",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "Juli",
+            "name": "Second Month of Fall",
             "length": 28,
-            "id": "ID_e91b4b28ca18",
+            "id": "ID_b809099b3b48",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "August",
+            "name": "Third Month of Fall",
             "length": 28,
-            "id": "ID_7a0b4b1be8b9",
+            "id": "ID_8be9aa788be8",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "September",
+            "name": "First Month of Frost",
             "length": 28,
-            "id": "ID_4bcbb9285998",
+            "id": "ID_4b6b994ba81b",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "October",
+            "name": "Second Month of Frost",
             "length": 28,
-            "id": "ID_fb998a685bcb",
+            "id": "ID_e9893a69f9eb",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "November",
+            "name": "Third Month of Frost",
             "length": 28,
-            "id": "ID_8bbb6a6ae9ba",
+            "id": "ID_db9a7a298a0a",
             "interval": 1,
             "offset": 0
           },
           {
             "type": "month",
-            "name": "December",
+            "name": "New Year's Day",
+            "length": 1,
+            "id": "ID_8bdaa8e9d9b9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "type": "month",
+            "name": "Month of The Thaw",
             "length": 28,
-            "id": "ID_89aada281a5b",
+            "id": "ID_8888d8cbd9cb",
             "interval": 1,
             "offset": 0
           }
         ],
-        "moons": [
-          {
-            "name": "Theris",
-            "cycle": 27,
-            "offset": 0,
-            "faceColor": "#8e1f1f",
-            "shadowColor": "#000000",
-            "id": "ID_f9b8bb6ac879"
-          },
-          {
-            "name": "Selwyn",
-            "cycle": 56,
-            "offset": 0,
-            "faceColor": "#ffffff",
-            "shadowColor": "#000",
-            "id": "ID_29aa380b6b78"
-          },
-          {
-            "name": "Eldath",
-            "cycle": 14,
-            "offset": 0,
-            "faceColor": "#7ab4ff",
-            "shadowColor": "#000",
-            "id": "ID_881a484838bb"
-          }
-        ],
+        "moons": [],
         "displayMoons": true,
-        "displayDayNumber": false,
+        "displayDayNumber": true,
         "leapDays": [
           {
-            "id": "ID_28d96a69fb28",
-            "name": "New Year's Turn",
+            "id": "ID_e9582beb9a69",
+            "name": "Leap Day",
             "interval": [
               {
-                "interval": 1,
+                "interval": 4,
                 "exclusive": false,
-                "ignore": true
+                "ignore": false
               }
             ],
-            "intercalary": true,
-            "timespan": 12,
-            "offset": 1,
-            "type": "leapday",
-            "after": 28,
-            "numbered": true
+            "intercalary": false,
+            "timespan": 5,
+            "offset": "0",
+            "type": "leapday"
           }
         ],
         "eras": [],
@@ -206,42 +187,12 @@
       },
       "current": {
         "day": 1,
-        "month": 3,
-        "year": 1
+        "month": 0,
+        "year": 826
       },
-      "events": [
-        {
-          "name": "Lunisolar Day",
-          "description": "A sacred day in which all three moons are visible in the sky during the day, heralding the start of a new year. It is said that Lunisolar day is when the Sun Goddess and Moon God are allowed a break from their eternal duty and can mingle with each other.",
-          "date": {
-            "month": 12,
-            "day": 29,
-            "year": [
-              null,
-              null
-            ]
-          },
-          "id": "ID_7acbbb483829",
-          "note": null,
-          "category": "ID_7aa98a4a6b88",
-          "sort": {
-            "timestamp": 5e-324,
-            "order": ""
-          },
-          "type": "Recurring"
-        }
-      ],
-      "categories": [
-        {
-          "id": "ID_7aa98a4a6b88",
-          "color": "#ff9500",
-          "name": "Religious Holiday"
-        }
-      ],
-      "autoParse": false,
-      "path": [
-        "/"
-      ],
+      "events": [],
+      "categories": [],
+      "path": [],
       "supportInlineEvents": false,
       "inlineEventTag": "#inline-events"
     }
@@ -249,7 +200,7 @@
   "configDirectory": null,
   "dailyNotes": false,
   "dateFormat": "YYYY-MM-DD",
-  "defaultCalendar": "ID_2afa49d82a98",
+  "defaultCalendar": "ID_1b7b589ab92a",
   "eventPreview": false,
   "exit": {
     "saving": false,
