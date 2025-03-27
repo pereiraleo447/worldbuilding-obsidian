@@ -1,7 +1,7 @@
 ---
 Category:
   - NPC
-Race: 
+Race: Kaiju
 Affiliation(s): 
 1st Quest Driver: 
 2nd Quest Driver: 
