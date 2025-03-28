@@ -18,7 +18,7 @@ Status:
 - He can only resurrect the dead slain by his own hand, and can freely conscript them to his undead strike team . They retain elements of their personalities, but are otherwise under Izanmaru's complete control.
 - Once resurrected, the dead can't be "recalled"-- they must be slain again. Their undeath is unconditional to Izanmaru's will, which also means that theoretically, they could break free from the spell that binds them-- though it certainly wouldn't be an easy task.
 - Izanmaru can also possess the body of any of his thralls. If he does, magical blue flames manifest around the thrall's head.
-- His resurrection requires room requires the soul of the vessel
+- His resurrection requires the soul of the vessel
 
 ***Personality*** 
 - Izanmaru is ruthless and pragmatic. He knows his methods are brutal, but he doesn't feel remorse. Power is the birthright of the strong; culling the weak is the natural path to claim it.
