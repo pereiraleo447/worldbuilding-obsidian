@@ -22,7 +22,7 @@ Professor Minimoto "Copperpot" Bumbuku is the Dean of Arcanomechanics at the Col
 
 ***Appearance***
 - Three and a half feet tall tanukin
-- Wears goggles, a leafy headdress, and a tool belt with all  manner of flasks, instruments, and magical contraptions. He also wears practical, hard-wearing green robes, and is never without his wide-brimmed bamboo kasa when venturing outside.
+- Wears goggles, a leafy headdress, and a tool belt with all manner of flasks, instruments, and magical contraptions. He also wears practical, hard-wearing green robes, and is never without his wide-brimmed bamboo kasa when venturing outside.
 - If he's expecting to work, he may be followed by a levitating toolbox or by scholars piloting the experimental strength-enhancing exosuits that are the current focus of his research.
 
 ***Speech & Mannerisms***
