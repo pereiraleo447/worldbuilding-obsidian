@@ -4,7 +4,8 @@ Category:
   - City
 Location: 
 Affiliation(s): 
-Notable Character(s):
+Notable Character(s): 
+Theme:
 ---
 # Overview & History
 
