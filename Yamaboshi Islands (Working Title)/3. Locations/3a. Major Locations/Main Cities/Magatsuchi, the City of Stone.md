@@ -5,7 +5,7 @@ Category:
 Location: 
 Affiliation(s): 
 Notable Character(s):
-  - "[[Iminada, the Sovereign Undead]]"
+  - "[[Nomi, the Quaking Earth]]"
 Theme: City of Fog
 ---
 # Overview & History

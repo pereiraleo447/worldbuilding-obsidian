@@ -5,7 +5,7 @@
 - The party stumbles upon a village, engulfed in blue flames and under assault by the undead. [[Izanmaru]] has come for the first half 
 ## Inciting Incident
 
-- Izanmaru steals the [[Primordial Remnants#Compass of The Cascade|Compass of the Cascade]] from [[Aohi Village]] and sets off on his journey to slain the region's kaiju and claim their Primordial Remnants.
+[[Izanmaru]] makes a successful attempt on the Kaihan's life, and steals the Phoenix's essence.
 ## Trial A
 
 After acquiring the blessing of their first kaiju, the party has a mini encounter with its Mary

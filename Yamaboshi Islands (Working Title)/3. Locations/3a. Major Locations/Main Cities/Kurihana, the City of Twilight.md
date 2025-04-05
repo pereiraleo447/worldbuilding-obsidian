@@ -5,7 +5,7 @@ Category:
 Location: 
 Affiliation(s): 
 Notable Character(s):
-  - "[[Nomi, the Quaking Earth]]"
+  - "[[Iminada, the Sovereign Undead]]"
 Theme: City of Twilight
 ---
 # Overview & History

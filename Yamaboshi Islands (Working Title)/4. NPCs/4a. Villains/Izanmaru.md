@@ -1,13 +1,14 @@
 ---
 Category:
   - NPC
+Title: 
 Race: Oniborne
 Affiliation(s):
   - "[[Rising Blossoms]]"
   - "[[The Blue Scourge]]"
 1st Quest Driver: Morality
 2nd Quest Driver: 
-Connections: []
+Connections: 
 Status:
   - Undead
 ---
