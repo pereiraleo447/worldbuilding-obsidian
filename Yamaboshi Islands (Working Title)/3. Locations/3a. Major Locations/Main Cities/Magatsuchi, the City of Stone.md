@@ -2,7 +2,7 @@
 Category:
   - Location
   - City
-Location: 
+Location: "[[Yamaboshi Islands]]"
 Affiliation(s): 
 Notable Character(s):
   - "[[Nomi, the Quaking Earth]]"

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yamaboshi Islands (Working Title)/7. Session Prep/Campaign Outline.md",
+                "file": "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Hi-no-Moto, the City of Flames.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Campaign Outline"
+              "title": "Hi-no-Moto, the City of Flames"
             }
           }
         ]
@@ -174,9 +174,32 @@
               "icon": "CALENDARIUM",
               "title": "Calendarium"
             }
+          },
+          {
+            "id": "c69e97ecd2c05f5d",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_1b7b589ab92a",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 1,
+                    "month": 0,
+                    "year": 826
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                },
+                "id": "ID_785bf8a849eb"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "c5e8c3540c313932",
@@ -200,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,15 +240,17 @@
   },
   "active": "e5671ea0a0b0d876",
   "lastOpenFiles": [
-    "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Kurihana, the City of Twilight.md",
+    "Yamaboshi Islands (Working Title)/1. Player Characters/Chelsea.md",
+    "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Minato, the City of Tides.md",
     "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Magatsuchi, the City of Stone.md",
+    "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Kurihana, the City of Twilight.md",
+    "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Ikazuchi, the City of Thunder.md",
+    "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Hi-no-Moto, the City of Flames.md",
+    "Yamaboshi Islands (Working Title)/7. Session Prep/Campaign Outline.md",
     "Yamaboshi Islands (Working Title)/4. NPCs/4b. Major NPCs/Kaiju and Scions/Iminada, the Sovereign Undead.md",
     "Yamaboshi Islands (Working Title)/4. NPCs/4a. Villains/Izanmaru.md",
     "Templates/NPC Template 2.0.md",
     "Yamaboshi Islands (Working Title)/4. NPCs/4b. Major NPCs/Kaiju and Scions/The Five Han.md",
-    "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Ikazuchi, the City of Thunder.md",
-    "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Minato, the City of Tides.md",
-    "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Main Cities/Hi-no-Moto, the City of Flames.md",
     "Yamaboshi Islands (Working Title)/3. Locations/3b. Minor Locations/Kitsune no Sanko.md",
     "Yamaboshi Islands (Working Title)/3. Locations/3b. Minor Locations/Aohi Village.md",
     "Yamaboshi Islands (Working Title)/4. NPCs/4b. Major NPCs/Kaiju and Scions/Natori, the Everlasting Flame.md",
@@ -236,7 +260,6 @@
     "Yamaboshi Islands (Working Title)/1. Player Characters/Rin.md",
     "Yamaboshi Islands (Working Title)/1. Player Characters/Ozai.md",
     "Yamaboshi Islands (Working Title)/1. Player Characters/Mitsu.md",
-    "Yamaboshi Islands (Working Title)/1. Player Characters/Chelsea.md",
     "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Yamaboshi Islands.md",
     "Yamaboshi Islands (Working Title)/6. Items/6.a Magic & Special Items/Primordial Remnants.md",
     "Yamaboshi Islands (Working Title)/4. NPCs/4b. Major NPCs/Kaiju and Scions/Nomi, the Quaking Earth.md",
@@ -245,7 +268,6 @@
     "Templates/Faction Template.md",
     "Templates/City or Town Template.md",
     "Call of Cthulhu/Dissociation/Dissociation One-Shot Prep.md",
-    "Yamaboshi Islands (Working Title)/4. NPCs/4b. Major NPCs/Bombuku.md",
     "Attachments/LotE/WotK-Koi-Creature_Bakuryo_Gate.png",
     "Attachments/LotE",
     "Attachments/Untitled.png",

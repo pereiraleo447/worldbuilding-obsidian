@@ -2,7 +2,7 @@
 Category:
   - Location
   - City
-Location: 
+Location: "[[Yamaboshi Islands]]"
 Affiliation(s):
   - "[[College of Hanabi]]"
 Notable Character(s):

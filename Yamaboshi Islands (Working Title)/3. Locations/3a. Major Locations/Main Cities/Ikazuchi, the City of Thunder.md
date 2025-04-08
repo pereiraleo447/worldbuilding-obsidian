@@ -2,7 +2,7 @@
 Category:
   - Location
   - City
-Location: 
+Location: "[[Yamaboshi Islands]]"
 Affiliation(s): 
 Notable Character(s):
   - "[[Raiko, Herald of the Storm]]"
