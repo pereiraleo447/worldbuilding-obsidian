@@ -11,6 +11,7 @@
     "Players": "text",
     "Notable Character(s)": "multitext",
     "Characters": "multitext",
-    "Tone": "multitext"
+    "Tone": "multitext",
+    "Inspirations": "multitext"
   }
 }
