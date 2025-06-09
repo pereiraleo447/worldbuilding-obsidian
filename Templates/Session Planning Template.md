@@ -2,7 +2,9 @@
 Date: 
 Players:
 ---
+# Session Goal
 
+Outline the major narrative goal of this session (i.e fight the corrupted king's army, reach the bbeg's palace, travel from location A to location B, etc.)
 # Characters  
   
 **Name.** Description.  

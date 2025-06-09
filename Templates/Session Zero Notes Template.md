@@ -1,22 +1,29 @@
-# Session Zero Notes
+---
+Tone: 
+Length:
+---
+# Campaign Planning
 
-## Campaign Elevator Pitch
+Synopsis
 
-> Write a short paragraph condensing the core of the campaign. Really think of it as an elevator pitch: you have one paragraph to sell someone on the idea of your campaign and make them want to play it.
-## Six Truths of this Campaign
+> Write a short, evocative description about the essence of your campaign. Think of this as the synopsis of a book or movie, really try to sell 
 
-What are the six most important things you want your players to understand about the world and the campaign? Share these with your players.
+## Narrative Breakdown
 
-- 
-- 
-- 
-- 
-- 
-- 
+### Main Arc
+- Outline your major narrative goal for this campaign or arc, i.e "Defeat the Mad Lich" or "Prevent the king from going to war"
+## Session Goals
+- Break down your Main Arc into a series of steps equal to your campaign length defined above, in sessions. 
+## World Information
 
-## Villain(s)
+Make a bullet point list of the major things that set this world apart, as well as note down any special mechanics that might come up.
 
-What are the main villain(s) the players will interact with?
+### World
+- *The world's magic is rotting, affecting spells cast within it. 
+
+### Mechanic
+- *Every time you roll a critical failure on a spellcasting roll, roll on the wild magic table.*
+
 
 ## Character Options and House Rules
 
@@ -29,11 +36,13 @@ Who are the patrons and factions the characters can be a part of? What brings th
 
 ## Safety Tools
 
-Discuss what safety tools you and your players are comfortable using during this campaign. I recommend including the following safety tools:
+### Lines and Veils
+**Lines**
+- Text
 
-- Write down a list of any potential sensitive topics covered in your campaign and discuss them with your players during your session zero. See [*Consent in Gaming*](https://www.montecookgames.com/consent-in-gaming/) by Monte Cook Games for examples potential topics.
-- Describe your campaign's "lines and veils". Lines are any topics that **will not** come up in any form. Veils are any topics that will be handled **off screen or abstractly**. Ask the players to add any other lines and veils they may have. Write them all down and share them with all of your players.
-- Tell all of your players to say the phrase **"let's pause for a minute"** to break character and address anything coming up in the game that may be uncomfortable. Think of this as a verbal X-card.
+**Veils**
+- Text
+
 
 ## Campaign Inspiration
 

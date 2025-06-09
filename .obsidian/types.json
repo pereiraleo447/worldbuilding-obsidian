@@ -10,6 +10,7 @@
     "Date": "number",
     "Players": "text",
     "Notable Character(s)": "multitext",
-    "Characters": "multitext"
+    "Characters": "multitext",
+    "Tone": "multitext"
   }
 }
