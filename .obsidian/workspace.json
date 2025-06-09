@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Session Zero Notes Template.md",
+                "file": "Templates/Campaign Outline Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session Zero Notes Template"
+              "title": "Campaign Outline Template"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5,
-    "collapsed": true
+    "width": 326.5
   },
   "right": {
     "id": "139dcd4bd22d0dba",
@@ -239,10 +238,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "8832b5c2ba72f0e5",
+  "active": "d249137ae9f4415b",
   "lastOpenFiles": [
-    "Templates/Session Planning Template.md",
     "Daggerheart/0. Campaign Pitch.md",
+    "Templates/Campaign Outline Template.md",
+    "Templates/Session Planning Template.md",
     "Eldranos (Working Title)/0. Campaign Pitch.md",
     "Daggerheart",
     "Yamaboshi Islands (Working Title)/1. Player Characters/Chelsea.md",
@@ -267,7 +267,6 @@
     "Yamaboshi Islands (Working Title)/1. Player Characters/Mitsu.md",
     "Yamaboshi Islands (Working Title)/3. Locations/3a. Major Locations/Yamaboshi Islands.md",
     "Yamaboshi Islands (Working Title)/6. Items/6.a Magic & Special Items/Primordial Remnants.md",
-    "Yamaboshi Islands (Working Title)/4. NPCs/4b. Major NPCs/Kaiju and Scions/Nomi, the Quaking Earth.md",
     "Attachments/Pasted image 20250404195954.png",
     "Attachments/Pasted image 20250404195931.png",
     "Attachments/LotE/WotK-Koi-Creature_Bakuryo_Gate.png",
