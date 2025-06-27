@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "eldranosMap1",
-      "lastAccessed": 1719069817907,
+      "lastAccessed": 1751063031816,
       "markers": [
         {
           "id": "ID_7bdb7aaa68b9",
@@ -11,6 +11,7 @@
             -0.01439666748046875,
             0.020111083984375
           ],
+          "link": "Valoria",
           "layer": "%5B%5BeldranosMap1.png%5D%5D",
           "mutable": true,
           "command": false,
